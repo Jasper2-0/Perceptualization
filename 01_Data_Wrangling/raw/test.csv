@@ -1,0 +1,5000 @@
+"Bevolking; geslacht, leeftijd, burgerlijke staat en regio, 1 januari";;;
+;;Onderwerpen;Bevolking naar geslacht
+;;Onderwerpen;Mannen en vrouwen
+Regio's;Perioden;Leeftijd;aantal
+Aa en Hunze;1988;Jonger dan 10 jaar;
+Aa en Hunze;1988;10 tot 20 jaar;
+Aa en Hunze;1988;20 tot 30 jaar;
+Aa en Hunze;1988;30 tot 40 jaar;
+Aa en Hunze;1988;40 tot 50 jaar;
+Aa en Hunze;1988;50 tot 60 jaar;
+Aa en Hunze;1988;60 tot 70 jaar;
+Aa en Hunze;1988;70 tot 80 jaar;
+Aa en Hunze;1988;80 tot 90 jaar;
+Aa en Hunze;1988;90 jaar of ouder;
+Aa en Hunze;1989;Jonger dan 10 jaar;
+Aa en Hunze;1989;10 tot 20 jaar;
+Aa en Hunze;1989;20 tot 30 jaar;
+Aa en Hunze;1989;30 tot 40 jaar;
+Aa en Hunze;1989;40 tot 50 jaar;
+Aa en Hunze;1989;50 tot 60 jaar;
+Aa en Hunze;1989;60 tot 70 jaar;
+Aa en Hunze;1989;70 tot 80 jaar;
+Aa en Hunze;1989;80 tot 90 jaar;
+Aa en Hunze;1989;90 jaar of ouder;
+Aa en Hunze;1990;Jonger dan 10 jaar;
+Aa en Hunze;1990;10 tot 20 jaar;
+Aa en Hunze;1990;20 tot 30 jaar;
+Aa en Hunze;1990;30 tot 40 jaar;
+Aa en Hunze;1990;40 tot 50 jaar;
+Aa en Hunze;1990;50 tot 60 jaar;
+Aa en Hunze;1990;60 tot 70 jaar;
+Aa en Hunze;1990;70 tot 80 jaar;
+Aa en Hunze;1990;80 tot 90 jaar;
+Aa en Hunze;1990;90 jaar of ouder;
+Aa en Hunze;1991;Jonger dan 10 jaar;
+Aa en Hunze;1991;10 tot 20 jaar;
+Aa en Hunze;1991;20 tot 30 jaar;
+Aa en Hunze;1991;30 tot 40 jaar;
+Aa en Hunze;1991;40 tot 50 jaar;
+Aa en Hunze;1991;50 tot 60 jaar;
+Aa en Hunze;1991;60 tot 70 jaar;
+Aa en Hunze;1991;70 tot 80 jaar;
+Aa en Hunze;1991;80 tot 90 jaar;
+Aa en Hunze;1991;90 jaar of ouder;
+Aa en Hunze;1992;Jonger dan 10 jaar;
+Aa en Hunze;1992;10 tot 20 jaar;
+Aa en Hunze;1992;20 tot 30 jaar;
+Aa en Hunze;1992;30 tot 40 jaar;
+Aa en Hunze;1992;40 tot 50 jaar;
+Aa en Hunze;1992;50 tot 60 jaar;
+Aa en Hunze;1992;60 tot 70 jaar;
+Aa en Hunze;1992;70 tot 80 jaar;
+Aa en Hunze;1992;80 tot 90 jaar;
+Aa en Hunze;1992;90 jaar of ouder;
+Aa en Hunze;1993;Jonger dan 10 jaar;
+Aa en Hunze;1993;10 tot 20 jaar;
+Aa en Hunze;1993;20 tot 30 jaar;
+Aa en Hunze;1993;30 tot 40 jaar;
+Aa en Hunze;1993;40 tot 50 jaar;
+Aa en Hunze;1993;50 tot 60 jaar;
+Aa en Hunze;1993;60 tot 70 jaar;
+Aa en Hunze;1993;70 tot 80 jaar;
+Aa en Hunze;1993;80 tot 90 jaar;
+Aa en Hunze;1993;90 jaar of ouder;
+Aa en Hunze;1994;Jonger dan 10 jaar;
+Aa en Hunze;1994;10 tot 20 jaar;
+Aa en Hunze;1994;20 tot 30 jaar;
+Aa en Hunze;1994;30 tot 40 jaar;
+Aa en Hunze;1994;40 tot 50 jaar;
+Aa en Hunze;1994;50 tot 60 jaar;
+Aa en Hunze;1994;60 tot 70 jaar;
+Aa en Hunze;1994;70 tot 80 jaar;
+Aa en Hunze;1994;80 tot 90 jaar;
+Aa en Hunze;1994;90 jaar of ouder;
+Aa en Hunze;1995;Jonger dan 10 jaar;
+Aa en Hunze;1995;10 tot 20 jaar;
+Aa en Hunze;1995;20 tot 30 jaar;
+Aa en Hunze;1995;30 tot 40 jaar;
+Aa en Hunze;1995;40 tot 50 jaar;
+Aa en Hunze;1995;50 tot 60 jaar;
+Aa en Hunze;1995;60 tot 70 jaar;
+Aa en Hunze;1995;70 tot 80 jaar;
+Aa en Hunze;1995;80 tot 90 jaar;
+Aa en Hunze;1995;90 jaar of ouder;
+Aa en Hunze;1996;Jonger dan 10 jaar;
+Aa en Hunze;1996;10 tot 20 jaar;
+Aa en Hunze;1996;20 tot 30 jaar;
+Aa en Hunze;1996;30 tot 40 jaar;
+Aa en Hunze;1996;40 tot 50 jaar;
+Aa en Hunze;1996;50 tot 60 jaar;
+Aa en Hunze;1996;60 tot 70 jaar;
+Aa en Hunze;1996;70 tot 80 jaar;
+Aa en Hunze;1996;80 tot 90 jaar;
+Aa en Hunze;1996;90 jaar of ouder;
+Aa en Hunze;1997;Jonger dan 10 jaar;
+Aa en Hunze;1997;10 tot 20 jaar;
+Aa en Hunze;1997;20 tot 30 jaar;
+Aa en Hunze;1997;30 tot 40 jaar;
+Aa en Hunze;1997;40 tot 50 jaar;
+Aa en Hunze;1997;50 tot 60 jaar;
+Aa en Hunze;1997;60 tot 70 jaar;
+Aa en Hunze;1997;70 tot 80 jaar;
+Aa en Hunze;1997;80 tot 90 jaar;
+Aa en Hunze;1997;90 jaar of ouder;
+Aa en Hunze;1998;Jonger dan 10 jaar;2953
+Aa en Hunze;1998;10 tot 20 jaar;2725
+Aa en Hunze;1998;20 tot 30 jaar;2418
+Aa en Hunze;1998;30 tot 40 jaar;3788
+Aa en Hunze;1998;40 tot 50 jaar;4138
+Aa en Hunze;1998;50 tot 60 jaar;3427
+Aa en Hunze;1998;60 tot 70 jaar;2593
+Aa en Hunze;1998;70 tot 80 jaar;1851
+Aa en Hunze;1998;80 tot 90 jaar;810
+Aa en Hunze;1998;90 jaar of ouder;103
+Aa en Hunze;1999;Jonger dan 10 jaar;2968
+Aa en Hunze;1999;10 tot 20 jaar;2662
+Aa en Hunze;1999;20 tot 30 jaar;2296
+Aa en Hunze;1999;30 tot 40 jaar;3716
+Aa en Hunze;1999;40 tot 50 jaar;4146
+Aa en Hunze;1999;50 tot 60 jaar;3592
+Aa en Hunze;1999;60 tot 70 jaar;2572
+Aa en Hunze;1999;70 tot 80 jaar;1874
+Aa en Hunze;1999;80 tot 90 jaar;810
+Aa en Hunze;1999;90 jaar of ouder;115
+Aa en Hunze;2000;Jonger dan 10 jaar;3010
+Aa en Hunze;2000;10 tot 20 jaar;2677
+Aa en Hunze;2000;20 tot 30 jaar;2163
+Aa en Hunze;2000;30 tot 40 jaar;3664
+Aa en Hunze;2000;40 tot 50 jaar;4120
+Aa en Hunze;2000;50 tot 60 jaar;3717
+Aa en Hunze;2000;60 tot 70 jaar;2649
+Aa en Hunze;2000;70 tot 80 jaar;1877
+Aa en Hunze;2000;80 tot 90 jaar;844
+Aa en Hunze;2000;90 jaar of ouder;103
+Aa en Hunze;2001;Jonger dan 10 jaar;3066
+Aa en Hunze;2001;10 tot 20 jaar;2814
+Aa en Hunze;2001;20 tot 30 jaar;2110
+Aa en Hunze;2001;30 tot 40 jaar;3659
+Aa en Hunze;2001;40 tot 50 jaar;4169
+Aa en Hunze;2001;50 tot 60 jaar;3873
+Aa en Hunze;2001;60 tot 70 jaar;2665
+Aa en Hunze;2001;70 tot 80 jaar;1867
+Aa en Hunze;2001;80 tot 90 jaar;866
+Aa en Hunze;2001;90 jaar of ouder;119
+Aa en Hunze;2002;Jonger dan 10 jaar;3122
+Aa en Hunze;2002;10 tot 20 jaar;2901
+Aa en Hunze;2002;20 tot 30 jaar;2085
+Aa en Hunze;2002;30 tot 40 jaar;3636
+Aa en Hunze;2002;40 tot 50 jaar;4238
+Aa en Hunze;2002;50 tot 60 jaar;3981
+Aa en Hunze;2002;60 tot 70 jaar;2677
+Aa en Hunze;2002;70 tot 80 jaar;1859
+Aa en Hunze;2002;80 tot 90 jaar;923
+Aa en Hunze;2002;90 jaar of ouder;130
+Aa en Hunze;2003;Jonger dan 10 jaar;3007
+Aa en Hunze;2003;10 tot 20 jaar;2936
+Aa en Hunze;2003;20 tot 30 jaar;1922
+Aa en Hunze;2003;30 tot 40 jaar;3519
+Aa en Hunze;2003;40 tot 50 jaar;4161
+Aa en Hunze;2003;50 tot 60 jaar;4082
+Aa en Hunze;2003;60 tot 70 jaar;2719
+Aa en Hunze;2003;70 tot 80 jaar;1918
+Aa en Hunze;2003;80 tot 90 jaar;912
+Aa en Hunze;2003;90 jaar of ouder;129
+Aa en Hunze;2004;Jonger dan 10 jaar;2961
+Aa en Hunze;2004;10 tot 20 jaar;2940
+Aa en Hunze;2004;20 tot 30 jaar;1848
+Aa en Hunze;2004;30 tot 40 jaar;3364
+Aa en Hunze;2004;40 tot 50 jaar;4186
+Aa en Hunze;2004;50 tot 60 jaar;4114
+Aa en Hunze;2004;60 tot 70 jaar;2798
+Aa en Hunze;2004;70 tot 80 jaar;1944
+Aa en Hunze;2004;80 tot 90 jaar;925
+Aa en Hunze;2004;90 jaar of ouder;138
+Aa en Hunze;2005;Jonger dan 10 jaar;2997
+Aa en Hunze;2005;10 tot 20 jaar;2900
+Aa en Hunze;2005;20 tot 30 jaar;1775
+Aa en Hunze;2005;30 tot 40 jaar;3288
+Aa en Hunze;2005;40 tot 50 jaar;4233
+Aa en Hunze;2005;50 tot 60 jaar;4230
+Aa en Hunze;2005;60 tot 70 jaar;2846
+Aa en Hunze;2005;70 tot 80 jaar;1981
+Aa en Hunze;2005;80 tot 90 jaar;945
+Aa en Hunze;2005;90 jaar of ouder;134
+Aa en Hunze;2006;Jonger dan 10 jaar;3014
+Aa en Hunze;2006;10 tot 20 jaar;2980
+Aa en Hunze;2006;20 tot 30 jaar;1712
+Aa en Hunze;2006;30 tot 40 jaar;3148
+Aa en Hunze;2006;40 tot 50 jaar;4236
+Aa en Hunze;2006;50 tot 60 jaar;4348
+Aa en Hunze;2006;60 tot 70 jaar;2988
+Aa en Hunze;2006;70 tot 80 jaar;1993
+Aa en Hunze;2006;80 tot 90 jaar;938
+Aa en Hunze;2006;90 jaar of ouder;150
+Aa en Hunze;2007;Jonger dan 10 jaar;2930
+Aa en Hunze;2007;10 tot 20 jaar;3008
+Aa en Hunze;2007;20 tot 30 jaar;1692
+Aa en Hunze;2007;30 tot 40 jaar;3064
+Aa en Hunze;2007;40 tot 50 jaar;4223
+Aa en Hunze;2007;50 tot 60 jaar;4317
+Aa en Hunze;2007;60 tot 70 jaar;3205
+Aa en Hunze;2007;70 tot 80 jaar;2025
+Aa en Hunze;2007;80 tot 90 jaar;953
+Aa en Hunze;2007;90 jaar of ouder;146
+Aa en Hunze;2008;Jonger dan 10 jaar;2894
+Aa en Hunze;2008;10 tot 20 jaar;3059
+Aa en Hunze;2008;20 tot 30 jaar;1650
+Aa en Hunze;2008;30 tot 40 jaar;2900
+Aa en Hunze;2008;40 tot 50 jaar;4245
+Aa en Hunze;2008;50 tot 60 jaar;4277
+Aa en Hunze;2008;60 tot 70 jaar;3388
+Aa en Hunze;2008;70 tot 80 jaar;2043
+Aa en Hunze;2008;80 tot 90 jaar;978
+Aa en Hunze;2008;90 jaar of ouder;164
+Aa en Hunze;2009;Jonger dan 10 jaar;2832
+Aa en Hunze;2009;10 tot 20 jaar;3099
+Aa en Hunze;2009;20 tot 30 jaar;1632
+Aa en Hunze;2009;30 tot 40 jaar;2822
+Aa en Hunze;2009;40 tot 50 jaar;4210
+Aa en Hunze;2009;50 tot 60 jaar;4276
+Aa en Hunze;2009;60 tot 70 jaar;3544
+Aa en Hunze;2009;70 tot 80 jaar;2071
+Aa en Hunze;2009;80 tot 90 jaar;1025
+Aa en Hunze;2009;90 jaar of ouder;164
+Aa en Hunze;2010;Jonger dan 10 jaar;2752
+Aa en Hunze;2010;10 tot 20 jaar;3142
+Aa en Hunze;2010;20 tot 30 jaar;1565
+Aa en Hunze;2010;30 tot 40 jaar;2607
+Aa en Hunze;2010;40 tot 50 jaar;4186
+Aa en Hunze;2010;50 tot 60 jaar;4261
+Aa en Hunze;2010;60 tot 70 jaar;3697
+Aa en Hunze;2010;70 tot 80 jaar;2157
+Aa en Hunze;2010;80 tot 90 jaar;1017
+Aa en Hunze;2010;90 jaar of ouder;179
+Aa en Hunze;2011;Jonger dan 10 jaar;2690
+Aa en Hunze;2011;10 tot 20 jaar;3130
+Aa en Hunze;2011;20 tot 30 jaar;1652
+Aa en Hunze;2011;30 tot 40 jaar;2552
+Aa en Hunze;2011;40 tot 50 jaar;4184
+Aa en Hunze;2011;50 tot 60 jaar;4313
+Aa en Hunze;2011;60 tot 70 jaar;3826
+Aa en Hunze;2011;70 tot 80 jaar;2219
+Aa en Hunze;2011;80 tot 90 jaar;1033
+Aa en Hunze;2011;90 jaar of ouder;186
+Aa en Hunze;2012;Jonger dan 10 jaar;2537
+Aa en Hunze;2012;10 tot 20 jaar;3146
+Aa en Hunze;2012;20 tot 30 jaar;1713
+Aa en Hunze;2012;30 tot 40 jaar;2384
+Aa en Hunze;2012;40 tot 50 jaar;4098
+Aa en Hunze;2012;50 tot 60 jaar;4369
+Aa en Hunze;2012;60 tot 70 jaar;3965
+Aa en Hunze;2012;70 tot 80 jaar;2274
+Aa en Hunze;2012;80 tot 90 jaar;1057
+Aa en Hunze;2012;90 jaar of ouder;195
+Aa en Hunze;2013;Jonger dan 10 jaar;2412
+Aa en Hunze;2013;10 tot 20 jaar;3137
+Aa en Hunze;2013;20 tot 30 jaar;1755
+Aa en Hunze;2013;30 tot 40 jaar;2219
+Aa en Hunze;2013;40 tot 50 jaar;4005
+Aa en Hunze;2013;50 tot 60 jaar;4333
+Aa en Hunze;2013;60 tot 70 jaar;4069
+Aa en Hunze;2013;70 tot 80 jaar;2355
+Aa en Hunze;2013;80 tot 90 jaar;1056
+Aa en Hunze;2013;90 jaar of ouder;200
+Aa en Hunze;2014;Jonger dan 10 jaar;2280
+Aa en Hunze;2014;10 tot 20 jaar;3121
+Aa en Hunze;2014;20 tot 30 jaar;1759
+Aa en Hunze;2014;30 tot 40 jaar;2039
+Aa en Hunze;2014;40 tot 50 jaar;3931
+Aa en Hunze;2014;50 tot 60 jaar;4373
+Aa en Hunze;2014;60 tot 70 jaar;4102
+Aa en Hunze;2014;70 tot 80 jaar;2427
+Aa en Hunze;2014;80 tot 90 jaar;1114
+Aa en Hunze;2014;90 jaar of ouder;211
+Aalburg;1988;Jonger dan 10 jaar;1710
+Aalburg;1988;10 tot 20 jaar;1857
+Aalburg;1988;20 tot 30 jaar;1660
+Aalburg;1988;30 tot 40 jaar;1588
+Aalburg;1988;40 tot 50 jaar;1229
+Aalburg;1988;50 tot 60 jaar;914
+Aalburg;1988;60 tot 70 jaar;821
+Aalburg;1988;70 tot 80 jaar;537
+Aalburg;1988;80 tot 90 jaar;242
+Aalburg;1988;90 jaar of ouder;39
+Aalburg;1989;Jonger dan 10 jaar;1726
+Aalburg;1989;10 tot 20 jaar;1815
+Aalburg;1989;20 tot 30 jaar;1720
+Aalburg;1989;30 tot 40 jaar;1569
+Aalburg;1989;40 tot 50 jaar;1275
+Aalburg;1989;50 tot 60 jaar;929
+Aalburg;1989;60 tot 70 jaar;838
+Aalburg;1989;70 tot 80 jaar;523
+Aalburg;1989;80 tot 90 jaar;258
+Aalburg;1989;90 jaar of ouder;34
+Aalburg;1990;Jonger dan 10 jaar;1742
+Aalburg;1990;10 tot 20 jaar;1766
+Aalburg;1990;20 tot 30 jaar;1792
+Aalburg;1990;30 tot 40 jaar;1543
+Aalburg;1990;40 tot 50 jaar;1350
+Aalburg;1990;50 tot 60 jaar;981
+Aalburg;1990;60 tot 70 jaar;828
+Aalburg;1990;70 tot 80 jaar;511
+Aalburg;1990;80 tot 90 jaar;250
+Aalburg;1990;90 jaar of ouder;30
+Aalburg;1991;Jonger dan 10 jaar;1736
+Aalburg;1991;10 tot 20 jaar;1723
+Aalburg;1991;20 tot 30 jaar;1844
+Aalburg;1991;30 tot 40 jaar;1559
+Aalburg;1991;40 tot 50 jaar;1387
+Aalburg;1991;50 tot 60 jaar;968
+Aalburg;1991;60 tot 70 jaar;850
+Aalburg;1991;70 tot 80 jaar;524
+Aalburg;1991;80 tot 90 jaar;261
+Aalburg;1991;90 jaar of ouder;31
+Aalburg;1992;Jonger dan 10 jaar;1748
+Aalburg;1992;10 tot 20 jaar;1687
+Aalburg;1992;20 tot 30 jaar;1881
+Aalburg;1992;30 tot 40 jaar;1522
+Aalburg;1992;40 tot 50 jaar;1476
+Aalburg;1992;50 tot 60 jaar;970
+Aalburg;1992;60 tot 70 jaar;831
+Aalburg;1992;70 tot 80 jaar;555
+Aalburg;1992;80 tot 90 jaar;258
+Aalburg;1992;90 jaar of ouder;24
+Aalburg;1993;Jonger dan 10 jaar;1761
+Aalburg;1993;10 tot 20 jaar;1667
+Aalburg;1993;20 tot 30 jaar;1901
+Aalburg;1993;30 tot 40 jaar;1506
+Aalburg;1993;40 tot 50 jaar;1521
+Aalburg;1993;50 tot 60 jaar;990
+Aalburg;1993;60 tot 70 jaar;831
+Aalburg;1993;70 tot 80 jaar;568
+Aalburg;1993;80 tot 90 jaar;265
+Aalburg;1993;90 jaar of ouder;31
+Aalburg;1994;Jonger dan 10 jaar;1763
+Aalburg;1994;10 tot 20 jaar;1627
+Aalburg;1994;20 tot 30 jaar;1889
+Aalburg;1994;30 tot 40 jaar;1536
+Aalburg;1994;40 tot 50 jaar;1554
+Aalburg;1994;50 tot 60 jaar;1015
+Aalburg;1994;60 tot 70 jaar;807
+Aalburg;1994;70 tot 80 jaar;594
+Aalburg;1994;80 tot 90 jaar;263
+Aalburg;1994;90 jaar of ouder;33
+Aalburg;1995;Jonger dan 10 jaar;1773
+Aalburg;1995;10 tot 20 jaar;1627
+Aalburg;1995;20 tot 30 jaar;1837
+Aalburg;1995;30 tot 40 jaar;1588
+Aalburg;1995;40 tot 50 jaar;1568
+Aalburg;1995;50 tot 60 jaar;1046
+Aalburg;1995;60 tot 70 jaar;828
+Aalburg;1995;70 tot 80 jaar;603
+Aalburg;1995;80 tot 90 jaar;273
+Aalburg;1995;90 jaar of ouder;45
+Aalburg;1996;Jonger dan 10 jaar;1784
+Aalburg;1996;10 tot 20 jaar;1636
+Aalburg;1996;20 tot 30 jaar;1769
+Aalburg;1996;30 tot 40 jaar;1633
+Aalburg;1996;40 tot 50 jaar;1579
+Aalburg;1996;50 tot 60 jaar;1068
+Aalburg;1996;60 tot 70 jaar;802
+Aalburg;1996;70 tot 80 jaar;606
+Aalburg;1996;80 tot 90 jaar;273
+Aalburg;1996;90 jaar of ouder;51
+Aalburg;1997;Jonger dan 10 jaar;1815
+Aalburg;1997;10 tot 20 jaar;1664
+Aalburg;1997;20 tot 30 jaar;1689
+Aalburg;1997;30 tot 40 jaar;1726
+Aalburg;1997;40 tot 50 jaar;1564
+Aalburg;1997;50 tot 60 jaar;1152
+Aalburg;1997;60 tot 70 jaar;810
+Aalburg;1997;70 tot 80 jaar;610
+Aalburg;1997;80 tot 90 jaar;272
+Aalburg;1997;90 jaar of ouder;47
+Aalburg;1998;Jonger dan 10 jaar;1816
+Aalburg;1998;10 tot 20 jaar;1687
+Aalburg;1998;20 tot 30 jaar;1681
+Aalburg;1998;30 tot 40 jaar;1786
+Aalburg;1998;40 tot 50 jaar;1563
+Aalburg;1998;50 tot 60 jaar;1201
+Aalburg;1998;60 tot 70 jaar;838
+Aalburg;1998;70 tot 80 jaar;645
+Aalburg;1998;80 tot 90 jaar;270
+Aalburg;1998;90 jaar of ouder;42
+Aalburg;1999;Jonger dan 10 jaar;1882
+Aalburg;1999;10 tot 20 jaar;1701
+Aalburg;1999;20 tot 30 jaar;1627
+Aalburg;1999;30 tot 40 jaar;1848
+Aalburg;1999;40 tot 50 jaar;1570
+Aalburg;1999;50 tot 60 jaar;1243
+Aalburg;1999;60 tot 70 jaar;854
+Aalburg;1999;70 tot 80 jaar;651
+Aalburg;1999;80 tot 90 jaar;267
+Aalburg;1999;90 jaar of ouder;48
+Aalburg;2000;Jonger dan 10 jaar;1884
+Aalburg;2000;10 tot 20 jaar;1720
+Aalburg;2000;20 tot 30 jaar;1576
+Aalburg;2000;30 tot 40 jaar;1874
+Aalburg;2000;40 tot 50 jaar;1551
+Aalburg;2000;50 tot 60 jaar;1303
+Aalburg;2000;60 tot 70 jaar;886
+Aalburg;2000;70 tot 80 jaar;645
+Aalburg;2000;80 tot 90 jaar;283
+Aalburg;2000;90 jaar of ouder;52
+Aalburg;2001;Jonger dan 10 jaar;1889
+Aalburg;2001;10 tot 20 jaar;1737
+Aalburg;2001;20 tot 30 jaar;1546
+Aalburg;2001;30 tot 40 jaar;1922
+Aalburg;2001;40 tot 50 jaar;1567
+Aalburg;2001;50 tot 60 jaar;1358
+Aalburg;2001;60 tot 70 jaar;893
+Aalburg;2001;70 tot 80 jaar;666
+Aalburg;2001;80 tot 90 jaar;295
+Aalburg;2001;90 jaar of ouder;55
+Aalburg;2002;Jonger dan 10 jaar;1905
+Aalburg;2002;10 tot 20 jaar;1751
+Aalburg;2002;20 tot 30 jaar;1489
+Aalburg;2002;30 tot 40 jaar;1972
+Aalburg;2002;40 tot 50 jaar;1541
+Aalburg;2002;50 tot 60 jaar;1436
+Aalburg;2002;60 tot 70 jaar;886
+Aalburg;2002;70 tot 80 jaar;674
+Aalburg;2002;80 tot 90 jaar;296
+Aalburg;2002;90 jaar of ouder;56
+Aalburg;2003;Jonger dan 10 jaar;1898
+Aalburg;2003;10 tot 20 jaar;1762
+Aalburg;2003;20 tot 30 jaar;1473
+Aalburg;2003;30 tot 40 jaar;2001
+Aalburg;2003;40 tot 50 jaar;1540
+Aalburg;2003;50 tot 60 jaar;1494
+Aalburg;2003;60 tot 70 jaar;904
+Aalburg;2003;70 tot 80 jaar;673
+Aalburg;2003;80 tot 90 jaar;289
+Aalburg;2003;90 jaar of ouder;53
+Aalburg;2004;Jonger dan 10 jaar;1913
+Aalburg;2004;10 tot 20 jaar;1798
+Aalburg;2004;20 tot 30 jaar;1439
+Aalburg;2004;30 tot 40 jaar;1958
+Aalburg;2004;40 tot 50 jaar;1617
+Aalburg;2004;50 tot 60 jaar;1521
+Aalburg;2004;60 tot 70 jaar;940
+Aalburg;2004;70 tot 80 jaar;666
+Aalburg;2004;80 tot 90 jaar;301
+Aalburg;2004;90 jaar of ouder;51
+Aalburg;2005;Jonger dan 10 jaar;1849
+Aalburg;2005;10 tot 20 jaar;1815
+Aalburg;2005;20 tot 30 jaar;1395
+Aalburg;2005;30 tot 40 jaar;1927
+Aalburg;2005;40 tot 50 jaar;1649
+Aalburg;2005;50 tot 60 jaar;1535
+Aalburg;2005;60 tot 70 jaar;966
+Aalburg;2005;70 tot 80 jaar;661
+Aalburg;2005;80 tot 90 jaar;316
+Aalburg;2005;90 jaar of ouder;51
+Aalburg;2006;Jonger dan 10 jaar;1828
+Aalburg;2006;10 tot 20 jaar;1822
+Aalburg;2006;20 tot 30 jaar;1409
+Aalburg;2006;30 tot 40 jaar;1857
+Aalburg;2006;40 tot 50 jaar;1708
+Aalburg;2006;50 tot 60 jaar;1566
+Aalburg;2006;60 tot 70 jaar;1003
+Aalburg;2006;70 tot 80 jaar;643
+Aalburg;2006;80 tot 90 jaar;336
+Aalburg;2006;90 jaar of ouder;50
+Aalburg;2007;Jonger dan 10 jaar;1785
+Aalburg;2007;10 tot 20 jaar;1829
+Aalburg;2007;20 tot 30 jaar;1446
+Aalburg;2007;30 tot 40 jaar;1733
+Aalburg;2007;40 tot 50 jaar;1801
+Aalburg;2007;50 tot 60 jaar;1557
+Aalburg;2007;60 tot 70 jaar;1089
+Aalburg;2007;70 tot 80 jaar;658
+Aalburg;2007;80 tot 90 jaar;343
+Aalburg;2007;90 jaar of ouder;52
+Aalburg;2008;Jonger dan 10 jaar;1768
+Aalburg;2008;10 tot 20 jaar;1822
+Aalburg;2008;20 tot 30 jaar;1476
+Aalburg;2008;30 tot 40 jaar;1668
+Aalburg;2008;40 tot 50 jaar;1868
+Aalburg;2008;50 tot 60 jaar;1563
+Aalburg;2008;60 tot 70 jaar;1120
+Aalburg;2008;70 tot 80 jaar;684
+Aalburg;2008;80 tot 90 jaar;364
+Aalburg;2008;90 jaar of ouder;53
+Aalburg;2009;Jonger dan 10 jaar;1750
+Aalburg;2009;10 tot 20 jaar;1869
+Aalburg;2009;20 tot 30 jaar;1491
+Aalburg;2009;30 tot 40 jaar;1623
+Aalburg;2009;40 tot 50 jaar;1904
+Aalburg;2009;50 tot 60 jaar;1584
+Aalburg;2009;60 tot 70 jaar;1195
+Aalburg;2009;70 tot 80 jaar;713
+Aalburg;2009;80 tot 90 jaar;379
+Aalburg;2009;90 jaar of ouder;48
+Aalburg;2010;Jonger dan 10 jaar;1727
+Aalburg;2010;10 tot 20 jaar;1869
+Aalburg;2010;20 tot 30 jaar;1488
+Aalburg;2010;30 tot 40 jaar;1571
+Aalburg;2010;40 tot 50 jaar;1937
+Aalburg;2010;50 tot 60 jaar;1573
+Aalburg;2010;60 tot 70 jaar;1265
+Aalburg;2010;70 tot 80 jaar;742
+Aalburg;2010;80 tot 90 jaar;389
+Aalburg;2010;90 jaar of ouder;53
+Aalburg;2011;Jonger dan 10 jaar;1714
+Aalburg;2011;10 tot 20 jaar;1873
+Aalburg;2011;20 tot 30 jaar;1509
+Aalburg;2011;30 tot 40 jaar;1515
+Aalburg;2011;40 tot 50 jaar;1981
+Aalburg;2011;50 tot 60 jaar;1589
+Aalburg;2011;60 tot 70 jaar;1295
+Aalburg;2011;70 tot 80 jaar;747
+Aalburg;2011;80 tot 90 jaar;403
+Aalburg;2011;90 jaar of ouder;59
+Aalburg;2012;Jonger dan 10 jaar;1690
+Aalburg;2012;10 tot 20 jaar;1902
+Aalburg;2012;20 tot 30 jaar;1488
+Aalburg;2012;30 tot 40 jaar;1466
+Aalburg;2012;40 tot 50 jaar;2034
+Aalburg;2012;50 tot 60 jaar;1553
+Aalburg;2012;60 tot 70 jaar;1382
+Aalburg;2012;70 tot 80 jaar;772
+Aalburg;2012;80 tot 90 jaar;397
+Aalburg;2012;90 jaar of ouder;65
+Aalburg;2013;Jonger dan 10 jaar;1653
+Aalburg;2013;10 tot 20 jaar;1869
+Aalburg;2013;20 tot 30 jaar;1486
+Aalburg;2013;30 tot 40 jaar;1434
+Aalburg;2013;40 tot 50 jaar;2060
+Aalburg;2013;50 tot 60 jaar;1573
+Aalburg;2013;60 tot 70 jaar;1433
+Aalburg;2013;70 tot 80 jaar;785
+Aalburg;2013;80 tot 90 jaar;404
+Aalburg;2013;90 jaar of ouder;77
+Aalburg;2014;Jonger dan 10 jaar;1625
+Aalburg;2014;10 tot 20 jaar;1891
+Aalburg;2014;20 tot 30 jaar;1488
+Aalburg;2014;30 tot 40 jaar;1429
+Aalburg;2014;40 tot 50 jaar;2020
+Aalburg;2014;50 tot 60 jaar;1635
+Aalburg;2014;60 tot 70 jaar;1464
+Aalburg;2014;70 tot 80 jaar;802
+Aalburg;2014;80 tot 90 jaar;413
+Aalburg;2014;90 jaar of ouder;79
+Aalsmeer;1988;Jonger dan 10 jaar;2258
+Aalsmeer;1988;10 tot 20 jaar;3630
+Aalsmeer;1988;20 tot 30 jaar;3507
+Aalsmeer;1988;30 tot 40 jaar;3102
+Aalsmeer;1988;40 tot 50 jaar;3423
+Aalsmeer;1988;50 tot 60 jaar;2366
+Aalsmeer;1988;60 tot 70 jaar;1809
+Aalsmeer;1988;70 tot 80 jaar;1099
+Aalsmeer;1988;80 tot 90 jaar;477
+Aalsmeer;1988;90 jaar of ouder;69
+Aalsmeer;1989;Jonger dan 10 jaar;2355
+Aalsmeer;1989;10 tot 20 jaar;3435
+Aalsmeer;1989;20 tot 30 jaar;3585
+Aalsmeer;1989;30 tot 40 jaar;3143
+Aalsmeer;1989;40 tot 50 jaar;3520
+Aalsmeer;1989;50 tot 60 jaar;2420
+Aalsmeer;1989;60 tot 70 jaar;1858
+Aalsmeer;1989;70 tot 80 jaar;1065
+Aalsmeer;1989;80 tot 90 jaar;505
+Aalsmeer;1989;90 jaar of ouder;68
+Aalsmeer;1990;Jonger dan 10 jaar;2396
+Aalsmeer;1990;10 tot 20 jaar;3242
+Aalsmeer;1990;20 tot 30 jaar;3722
+Aalsmeer;1990;30 tot 40 jaar;3155
+Aalsmeer;1990;40 tot 50 jaar;3627
+Aalsmeer;1990;50 tot 60 jaar;2476
+Aalsmeer;1990;60 tot 70 jaar;1889
+Aalsmeer;1990;70 tot 80 jaar;1076
+Aalsmeer;1990;80 tot 90 jaar;513
+Aalsmeer;1990;90 jaar of ouder;71
+Aalsmeer;1991;Jonger dan 10 jaar;2425
+Aalsmeer;1991;10 tot 20 jaar;3068
+Aalsmeer;1991;20 tot 30 jaar;3713
+Aalsmeer;1991;30 tot 40 jaar;3178
+Aalsmeer;1991;40 tot 50 jaar;3652
+Aalsmeer;1991;50 tot 60 jaar;2534
+Aalsmeer;1991;60 tot 70 jaar;1884
+Aalsmeer;1991;70 tot 80 jaar;1145
+Aalsmeer;1991;80 tot 90 jaar;521
+Aalsmeer;1991;90 jaar of ouder;76
+Aalsmeer;1992;Jonger dan 10 jaar;2480
+Aalsmeer;1992;10 tot 20 jaar;2882
+Aalsmeer;1992;20 tot 30 jaar;3591
+Aalsmeer;1992;30 tot 40 jaar;3264
+Aalsmeer;1992;40 tot 50 jaar;3643
+Aalsmeer;1992;50 tot 60 jaar;2591
+Aalsmeer;1992;60 tot 70 jaar;1880
+Aalsmeer;1992;70 tot 80 jaar;1187
+Aalsmeer;1992;80 tot 90 jaar;528
+Aalsmeer;1992;90 jaar of ouder;72
+Aalsmeer;1993;Jonger dan 10 jaar;2538
+Aalsmeer;1993;10 tot 20 jaar;2728
+Aalsmeer;1993;20 tot 30 jaar;3480
+Aalsmeer;1993;30 tot 40 jaar;3301
+Aalsmeer;1993;40 tot 50 jaar;3584
+Aalsmeer;1993;50 tot 60 jaar;2646
+Aalsmeer;1993;60 tot 70 jaar;1923
+Aalsmeer;1993;70 tot 80 jaar;1183
+Aalsmeer;1993;80 tot 90 jaar;538
+Aalsmeer;1993;90 jaar of ouder;78
+Aalsmeer;1994;Jonger dan 10 jaar;2552
+Aalsmeer;1994;10 tot 20 jaar;2545
+Aalsmeer;1994;20 tot 30 jaar;3411
+Aalsmeer;1994;30 tot 40 jaar;3279
+Aalsmeer;1994;40 tot 50 jaar;3586
+Aalsmeer;1994;50 tot 60 jaar;2731
+Aalsmeer;1994;60 tot 70 jaar;1944
+Aalsmeer;1994;70 tot 80 jaar;1222
+Aalsmeer;1994;80 tot 90 jaar;552
+Aalsmeer;1994;90 jaar of ouder;80
+Aalsmeer;1995;Jonger dan 10 jaar;2612
+Aalsmeer;1995;10 tot 20 jaar;2469
+Aalsmeer;1995;20 tot 30 jaar;3304
+Aalsmeer;1995;30 tot 40 jaar;3395
+Aalsmeer;1995;40 tot 50 jaar;3503
+Aalsmeer;1995;50 tot 60 jaar;2805
+Aalsmeer;1995;60 tot 70 jaar;1996
+Aalsmeer;1995;70 tot 80 jaar;1250
+Aalsmeer;1995;80 tot 90 jaar;572
+Aalsmeer;1995;90 jaar of ouder;84
+Aalsmeer;1996;Jonger dan 10 jaar;2683
+Aalsmeer;1996;10 tot 20 jaar;2444
+Aalsmeer;1996;20 tot 30 jaar;3210
+Aalsmeer;1996;30 tot 40 jaar;3484
+Aalsmeer;1996;40 tot 50 jaar;3507
+Aalsmeer;1996;50 tot 60 jaar;2852
+Aalsmeer;1996;60 tot 70 jaar;2047
+Aalsmeer;1996;70 tot 80 jaar;1291
+Aalsmeer;1996;80 tot 90 jaar;576
+Aalsmeer;1996;90 jaar of ouder;92
+Aalsmeer;1997;Jonger dan 10 jaar;2704
+Aalsmeer;1997;10 tot 20 jaar;2377
+Aalsmeer;1997;20 tot 30 jaar;3172
+Aalsmeer;1997;30 tot 40 jaar;3577
+Aalsmeer;1997;40 tot 50 jaar;3358
+Aalsmeer;1997;50 tot 60 jaar;3055
+Aalsmeer;1997;60 tot 70 jaar;2030
+Aalsmeer;1997;70 tot 80 jaar;1329
+Aalsmeer;1997;80 tot 90 jaar;585
+Aalsmeer;1997;90 jaar of ouder;97
+Aalsmeer;1998;Jonger dan 10 jaar;2743
+Aalsmeer;1998;10 tot 20 jaar;2380
+Aalsmeer;1998;20 tot 30 jaar;3186
+Aalsmeer;1998;30 tot 40 jaar;3647
+Aalsmeer;1998;40 tot 50 jaar;3239
+Aalsmeer;1998;50 tot 60 jaar;3257
+Aalsmeer;1998;60 tot 70 jaar;2077
+Aalsmeer;1998;70 tot 80 jaar;1384
+Aalsmeer;1998;80 tot 90 jaar;577
+Aalsmeer;1998;90 jaar of ouder;110
+Aalsmeer;1999;Jonger dan 10 jaar;2715
+Aalsmeer;1999;10 tot 20 jaar;2403
+Aalsmeer;1999;20 tot 30 jaar;2985
+Aalsmeer;1999;30 tot 40 jaar;3608
+Aalsmeer;1999;40 tot 50 jaar;3216
+Aalsmeer;1999;50 tot 60 jaar;3343
+Aalsmeer;1999;60 tot 70 jaar;2107
+Aalsmeer;1999;70 tot 80 jaar;1444
+Aalsmeer;1999;80 tot 90 jaar;574
+Aalsmeer;1999;90 jaar of ouder;118
+Aalsmeer;2000;Jonger dan 10 jaar;2715
+Aalsmeer;2000;10 tot 20 jaar;2400
+Aalsmeer;2000;20 tot 30 jaar;2765
+Aalsmeer;2000;30 tot 40 jaar;3635
+Aalsmeer;2000;40 tot 50 jaar;3226
+Aalsmeer;2000;50 tot 60 jaar;3388
+Aalsmeer;2000;60 tot 70 jaar;2165
+Aalsmeer;2000;70 tot 80 jaar;1459
+Aalsmeer;2000;80 tot 90 jaar;583
+Aalsmeer;2000;90 jaar of ouder;125
+Aalsmeer;2001;Jonger dan 10 jaar;2738
+Aalsmeer;2001;10 tot 20 jaar;2460
+Aalsmeer;2001;20 tot 30 jaar;2564
+Aalsmeer;2001;30 tot 40 jaar;3727
+Aalsmeer;2001;40 tot 50 jaar;3243
+Aalsmeer;2001;50 tot 60 jaar;3464
+Aalsmeer;2001;60 tot 70 jaar;2245
+Aalsmeer;2001;70 tot 80 jaar;1485
+Aalsmeer;2001;80 tot 90 jaar;621
+Aalsmeer;2001;90 jaar of ouder;115
+Aalsmeer;2002;Jonger dan 10 jaar;2747
+Aalsmeer;2002;10 tot 20 jaar;2515
+Aalsmeer;2002;20 tot 30 jaar;2452
+Aalsmeer;2002;30 tot 40 jaar;3661
+Aalsmeer;2002;40 tot 50 jaar;3345
+Aalsmeer;2002;50 tot 60 jaar;3475
+Aalsmeer;2002;60 tot 70 jaar;2328
+Aalsmeer;2002;70 tot 80 jaar;1502
+Aalsmeer;2002;80 tot 90 jaar;653
+Aalsmeer;2002;90 jaar of ouder;108
+Aalsmeer;2003;Jonger dan 10 jaar;2719
+Aalsmeer;2003;10 tot 20 jaar;2602
+Aalsmeer;2003;20 tot 30 jaar;2305
+Aalsmeer;2003;30 tot 40 jaar;3606
+Aalsmeer;2003;40 tot 50 jaar;3433
+Aalsmeer;2003;50 tot 60 jaar;3448
+Aalsmeer;2003;60 tot 70 jaar;2381
+Aalsmeer;2003;70 tot 80 jaar;1559
+Aalsmeer;2003;80 tot 90 jaar;676
+Aalsmeer;2003;90 jaar of ouder;110
+Aalsmeer;2004;Jonger dan 10 jaar;2724
+Aalsmeer;2004;10 tot 20 jaar;2654
+Aalsmeer;2004;20 tot 30 jaar;2177
+Aalsmeer;2004;30 tot 40 jaar;3541
+Aalsmeer;2004;40 tot 50 jaar;3481
+Aalsmeer;2004;50 tot 60 jaar;3475
+Aalsmeer;2004;60 tot 70 jaar;2445
+Aalsmeer;2004;70 tot 80 jaar;1577
+Aalsmeer;2004;80 tot 90 jaar;718
+Aalsmeer;2004;90 jaar of ouder;123
+Aalsmeer;2005;Jonger dan 10 jaar;2746
+Aalsmeer;2005;10 tot 20 jaar;2774
+Aalsmeer;2005;20 tot 30 jaar;2172
+Aalsmeer;2005;30 tot 40 jaar;3531
+Aalsmeer;2005;40 tot 50 jaar;3636
+Aalsmeer;2005;50 tot 60 jaar;3430
+Aalsmeer;2005;60 tot 70 jaar;2524
+Aalsmeer;2005;70 tot 80 jaar;1630
+Aalsmeer;2005;80 tot 90 jaar;737
+Aalsmeer;2005;90 jaar of ouder;116
+Aalsmeer;2006;Jonger dan 10 jaar;2865
+Aalsmeer;2006;10 tot 20 jaar;2895
+Aalsmeer;2006;20 tot 30 jaar;2249
+Aalsmeer;2006;30 tot 40 jaar;3616
+Aalsmeer;2006;40 tot 50 jaar;3857
+Aalsmeer;2006;50 tot 60 jaar;3490
+Aalsmeer;2006;60 tot 70 jaar;2582
+Aalsmeer;2006;70 tot 80 jaar;1704
+Aalsmeer;2006;80 tot 90 jaar;770
+Aalsmeer;2006;90 jaar of ouder;117
+Aalsmeer;2007;Jonger dan 10 jaar;3076
+Aalsmeer;2007;10 tot 20 jaar;2984
+Aalsmeer;2007;20 tot 30 jaar;2253
+Aalsmeer;2007;30 tot 40 jaar;3757
+Aalsmeer;2007;40 tot 50 jaar;4087
+Aalsmeer;2007;50 tot 60 jaar;3373
+Aalsmeer;2007;60 tot 70 jaar;2819
+Aalsmeer;2007;70 tot 80 jaar;1717
+Aalsmeer;2007;80 tot 90 jaar;824
+Aalsmeer;2007;90 jaar of ouder;129
+Aalsmeer;2008;Jonger dan 10 jaar;3394
+Aalsmeer;2008;10 tot 20 jaar;3126
+Aalsmeer;2008;20 tot 30 jaar;2375
+Aalsmeer;2008;30 tot 40 jaar;3901
+Aalsmeer;2008;40 tot 50 jaar;4423
+Aalsmeer;2008;50 tot 60 jaar;3348
+Aalsmeer;2008;60 tot 70 jaar;3062
+Aalsmeer;2008;70 tot 80 jaar;1740
+Aalsmeer;2008;80 tot 90 jaar;873
+Aalsmeer;2008;90 jaar of ouder;144
+Aalsmeer;2009;Jonger dan 10 jaar;3773
+Aalsmeer;2009;10 tot 20 jaar;3292
+Aalsmeer;2009;20 tot 30 jaar;2555
+Aalsmeer;2009;30 tot 40 jaar;4172
+Aalsmeer;2009;40 tot 50 jaar;4749
+Aalsmeer;2009;50 tot 60 jaar;3403
+Aalsmeer;2009;60 tot 70 jaar;3230
+Aalsmeer;2009;70 tot 80 jaar;1799
+Aalsmeer;2009;80 tot 90 jaar;884
+Aalsmeer;2009;90 jaar of ouder;149
+Aalsmeer;2010;Jonger dan 10 jaar;4035
+Aalsmeer;2010;10 tot 20 jaar;3403
+Aalsmeer;2010;20 tot 30 jaar;2682
+Aalsmeer;2010;30 tot 40 jaar;4274
+Aalsmeer;2010;40 tot 50 jaar;5028
+Aalsmeer;2010;50 tot 60 jaar;3512
+Aalsmeer;2010;60 tot 70 jaar;3315
+Aalsmeer;2010;70 tot 80 jaar;1874
+Aalsmeer;2010;80 tot 90 jaar;914
+Aalsmeer;2010;90 jaar of ouder;150
+Aalsmeer;2011;Jonger dan 10 jaar;4193
+Aalsmeer;2011;10 tot 20 jaar;3564
+Aalsmeer;2011;20 tot 30 jaar;2840
+Aalsmeer;2011;30 tot 40 jaar;4175
+Aalsmeer;2011;40 tot 50 jaar;5286
+Aalsmeer;2011;50 tot 60 jaar;3635
+Aalsmeer;2011;60 tot 70 jaar;3409
+Aalsmeer;2011;70 tot 80 jaar;1960
+Aalsmeer;2011;80 tot 90 jaar;950
+Aalsmeer;2011;90 jaar of ouder;177
+Aalsmeer;2012;Jonger dan 10 jaar;4147
+Aalsmeer;2012;10 tot 20 jaar;3650
+Aalsmeer;2012;20 tot 30 jaar;2843
+Aalsmeer;2012;30 tot 40 jaar;3999
+Aalsmeer;2012;40 tot 50 jaar;5315
+Aalsmeer;2012;50 tot 60 jaar;3804
+Aalsmeer;2012;60 tot 70 jaar;3392
+Aalsmeer;2012;70 tot 80 jaar;2029
+Aalsmeer;2012;80 tot 90 jaar;988
+Aalsmeer;2012;90 jaar of ouder;197
+Aalsmeer;2013;Jonger dan 10 jaar;4076
+Aalsmeer;2013;10 tot 20 jaar;3718
+Aalsmeer;2013;20 tot 30 jaar;2912
+Aalsmeer;2013;30 tot 40 jaar;3802
+Aalsmeer;2013;40 tot 50 jaar;5400
+Aalsmeer;2013;50 tot 60 jaar;3953
+Aalsmeer;2013;60 tot 70 jaar;3396
+Aalsmeer;2013;70 tot 80 jaar;2120
+Aalsmeer;2013;80 tot 90 jaar;1027
+Aalsmeer;2013;90 jaar of ouder;214
+Aalsmeer;2014;Jonger dan 10 jaar;4020
+Aalsmeer;2014;10 tot 20 jaar;3784
+Aalsmeer;2014;20 tot 30 jaar;2940
+Aalsmeer;2014;30 tot 40 jaar;3587
+Aalsmeer;2014;40 tot 50 jaar;5380
+Aalsmeer;2014;50 tot 60 jaar;4099
+Aalsmeer;2014;60 tot 70 jaar;3468
+Aalsmeer;2014;70 tot 80 jaar;2190
+Aalsmeer;2014;80 tot 90 jaar;1050
+Aalsmeer;2014;90 jaar of ouder;241
+Aalten;1988;Jonger dan 10 jaar;2357
+Aalten;1988;10 tot 20 jaar;2912
+Aalten;1988;20 tot 30 jaar;2797
+Aalten;1988;30 tot 40 jaar;2512
+Aalten;1988;40 tot 50 jaar;2260
+Aalten;1988;50 tot 60 jaar;1945
+Aalten;1988;60 tot 70 jaar;1714
+Aalten;1988;70 tot 80 jaar;1150
+Aalten;1988;80 tot 90 jaar;430
+Aalten;1988;90 jaar of ouder;65
+Aalten;1989;Jonger dan 10 jaar;2382
+Aalten;1989;10 tot 20 jaar;2790
+Aalten;1989;20 tot 30 jaar;2804
+Aalten;1989;30 tot 40 jaar;2536
+Aalten;1989;40 tot 50 jaar;2312
+Aalten;1989;50 tot 60 jaar;1938
+Aalten;1989;60 tot 70 jaar;1750
+Aalten;1989;70 tot 80 jaar;1175
+Aalten;1989;80 tot 90 jaar;445
+Aalten;1989;90 jaar of ouder;70
+Aalten;1990;Jonger dan 10 jaar;2377
+Aalten;1990;10 tot 20 jaar;2661
+Aalten;1990;20 tot 30 jaar;2777
+Aalten;1990;30 tot 40 jaar;2559
+Aalten;1990;40 tot 50 jaar;2397
+Aalten;1990;50 tot 60 jaar;1889
+Aalten;1990;60 tot 70 jaar;1825
+Aalten;1990;70 tot 80 jaar;1176
+Aalten;1990;80 tot 90 jaar;435
+Aalten;1990;90 jaar of ouder;70
+Aalten;1991;Jonger dan 10 jaar;2358
+Aalten;1991;10 tot 20 jaar;2539
+Aalten;1991;20 tot 30 jaar;2776
+Aalten;1991;30 tot 40 jaar;2602
+Aalten;1991;40 tot 50 jaar;2433
+Aalten;1991;50 tot 60 jaar;1901
+Aalten;1991;60 tot 70 jaar;1832
+Aalten;1991;70 tot 80 jaar;1204
+Aalten;1991;80 tot 90 jaar;470
+Aalten;1991;90 jaar of ouder;75
+Aalten;1992;Jonger dan 10 jaar;2397
+Aalten;1992;10 tot 20 jaar;2469
+Aalten;1992;20 tot 30 jaar;2773
+Aalten;1992;30 tot 40 jaar;2666
+Aalten;1992;40 tot 50 jaar;2490
+Aalten;1992;50 tot 60 jaar;1928
+Aalten;1992;60 tot 70 jaar;1827
+Aalten;1992;70 tot 80 jaar;1245
+Aalten;1992;80 tot 90 jaar;487
+Aalten;1992;90 jaar of ouder;62
+Aalten;1993;Jonger dan 10 jaar;2429
+Aalten;1993;10 tot 20 jaar;2390
+Aalten;1993;20 tot 30 jaar;2740
+Aalten;1993;30 tot 40 jaar;2674
+Aalten;1993;40 tot 50 jaar;2574
+Aalten;1993;50 tot 60 jaar;1940
+Aalten;1993;60 tot 70 jaar;1816
+Aalten;1993;70 tot 80 jaar;1275
+Aalten;1993;80 tot 90 jaar;514
+Aalten;1993;90 jaar of ouder;62
+Aalten;1994;Jonger dan 10 jaar;2401
+Aalten;1994;10 tot 20 jaar;2330
+Aalten;1994;20 tot 30 jaar;2652
+Aalten;1994;30 tot 40 jaar;2786
+Aalten;1994;40 tot 50 jaar;2545
+Aalten;1994;50 tot 60 jaar;1983
+Aalten;1994;60 tot 70 jaar;1817
+Aalten;1994;70 tot 80 jaar;1286
+Aalten;1994;80 tot 90 jaar;519
+Aalten;1994;90 jaar of ouder;59
+Aalten;1995;Jonger dan 10 jaar;2423
+Aalten;1995;10 tot 20 jaar;2359
+Aalten;1995;20 tot 30 jaar;2580
+Aalten;1995;30 tot 40 jaar;2808
+Aalten;1995;40 tot 50 jaar;2587
+Aalten;1995;50 tot 60 jaar;2016
+Aalten;1995;60 tot 70 jaar;1795
+Aalten;1995;70 tot 80 jaar;1311
+Aalten;1995;80 tot 90 jaar;534
+Aalten;1995;90 jaar of ouder;56
+Aalten;1996;Jonger dan 10 jaar;2499
+Aalten;1996;10 tot 20 jaar;2307
+Aalten;1996;20 tot 30 jaar;2502
+Aalten;1996;30 tot 40 jaar;2843
+Aalten;1996;40 tot 50 jaar;2634
+Aalten;1996;50 tot 60 jaar;2020
+Aalten;1996;60 tot 70 jaar;1818
+Aalten;1996;70 tot 80 jaar;1318
+Aalten;1996;80 tot 90 jaar;544
+Aalten;1996;90 jaar of ouder;61
+Aalten;1997;Jonger dan 10 jaar;2489
+Aalten;1997;10 tot 20 jaar;2353
+Aalten;1997;20 tot 30 jaar;2426
+Aalten;1997;30 tot 40 jaar;2890
+Aalten;1997;40 tot 50 jaar;2615
+Aalten;1997;50 tot 60 jaar;2146
+Aalten;1997;60 tot 70 jaar;1779
+Aalten;1997;70 tot 80 jaar;1306
+Aalten;1997;80 tot 90 jaar;566
+Aalten;1997;90 jaar of ouder;68
+Aalten;1998;Jonger dan 10 jaar;2501
+Aalten;1998;10 tot 20 jaar;2401
+Aalten;1998;20 tot 30 jaar;2395
+Aalten;1998;30 tot 40 jaar;2875
+Aalten;1998;40 tot 50 jaar;2646
+Aalten;1998;50 tot 60 jaar;2216
+Aalten;1998;60 tot 70 jaar;1792
+Aalten;1998;70 tot 80 jaar;1319
+Aalten;1998;80 tot 90 jaar;564
+Aalten;1998;90 jaar of ouder;73
+Aalten;1999;Jonger dan 10 jaar;2457
+Aalten;1999;10 tot 20 jaar;2441
+Aalten;1999;20 tot 30 jaar;2259
+Aalten;1999;30 tot 40 jaar;2859
+Aalten;1999;40 tot 50 jaar;2664
+Aalten;1999;50 tot 60 jaar;2255
+Aalten;1999;60 tot 70 jaar;1782
+Aalten;1999;70 tot 80 jaar;1361
+Aalten;1999;80 tot 90 jaar;562
+Aalten;1999;90 jaar of ouder;73
+Aalten;2000;Jonger dan 10 jaar;2478
+Aalten;2000;10 tot 20 jaar;2430
+Aalten;2000;20 tot 30 jaar;2166
+Aalten;2000;30 tot 40 jaar;2882
+Aalten;2000;40 tot 50 jaar;2662
+Aalten;2000;50 tot 60 jaar;2354
+Aalten;2000;60 tot 70 jaar;1753
+Aalten;2000;70 tot 80 jaar;1367
+Aalten;2000;80 tot 90 jaar;543
+Aalten;2000;90 jaar of ouder;64
+Aalten;2001;Jonger dan 10 jaar;2523
+Aalten;2001;10 tot 20 jaar;2415
+Aalten;2001;20 tot 30 jaar;2065
+Aalten;2001;30 tot 40 jaar;2875
+Aalten;2001;40 tot 50 jaar;2718
+Aalten;2001;50 tot 60 jaar;2390
+Aalten;2001;60 tot 70 jaar;1769
+Aalten;2001;70 tot 80 jaar;1374
+Aalten;2001;80 tot 90 jaar;573
+Aalten;2001;90 jaar of ouder;71
+Aalten;2002;Jonger dan 10 jaar;2482
+Aalten;2002;10 tot 20 jaar;2445
+Aalten;2002;20 tot 30 jaar;2025
+Aalten;2002;30 tot 40 jaar;2828
+Aalten;2002;40 tot 50 jaar;2789
+Aalten;2002;50 tot 60 jaar;2424
+Aalten;2002;60 tot 70 jaar;1773
+Aalten;2002;70 tot 80 jaar;1371
+Aalten;2002;80 tot 90 jaar;600
+Aalten;2002;90 jaar of ouder;74
+Aalten;2003;Jonger dan 10 jaar;2447
+Aalten;2003;10 tot 20 jaar;2493
+Aalten;2003;20 tot 30 jaar;1954
+Aalten;2003;30 tot 40 jaar;2818
+Aalten;2003;40 tot 50 jaar;2783
+Aalten;2003;50 tot 60 jaar;2513
+Aalten;2003;60 tot 70 jaar;1793
+Aalten;2003;70 tot 80 jaar;1353
+Aalten;2003;80 tot 90 jaar;622
+Aalten;2003;90 jaar of ouder;79
+Aalten;2004;Jonger dan 10 jaar;2499
+Aalten;2004;10 tot 20 jaar;2505
+Aalten;2004;20 tot 30 jaar;1940
+Aalten;2004;30 tot 40 jaar;2746
+Aalten;2004;40 tot 50 jaar;2887
+Aalten;2004;50 tot 60 jaar;2507
+Aalten;2004;60 tot 70 jaar;1844
+Aalten;2004;70 tot 80 jaar;1349
+Aalten;2004;80 tot 90 jaar;644
+Aalten;2004;90 jaar of ouder;77
+Aalten;2005;Jonger dan 10 jaar;3388
+Aalten;2005;10 tot 20 jaar;3524
+Aalten;2005;20 tot 30 jaar;2789
+Aalten;2005;30 tot 40 jaar;3967
+Aalten;2005;40 tot 50 jaar;4253
+Aalten;2005;50 tot 60 jaar;3794
+Aalten;2005;60 tot 70 jaar;2731
+Aalten;2005;70 tot 80 jaar;1937
+Aalten;2005;80 tot 90 jaar;944
+Aalten;2005;90 jaar of ouder;119
+Aalten;2006;Jonger dan 10 jaar;3364
+Aalten;2006;10 tot 20 jaar;3528
+Aalten;2006;20 tot 30 jaar;2688
+Aalten;2006;30 tot 40 jaar;3895
+Aalten;2006;40 tot 50 jaar;4322
+Aalten;2006;50 tot 60 jaar;3848
+Aalten;2006;60 tot 70 jaar;2762
+Aalten;2006;70 tot 80 jaar;1995
+Aalten;2006;80 tot 90 jaar;950
+Aalten;2006;90 jaar of ouder;124
+Aalten;2007;Jonger dan 10 jaar;3402
+Aalten;2007;10 tot 20 jaar;3469
+Aalten;2007;20 tot 30 jaar;2655
+Aalten;2007;30 tot 40 jaar;3775
+Aalten;2007;40 tot 50 jaar;4353
+Aalten;2007;50 tot 60 jaar;3828
+Aalten;2007;60 tot 70 jaar;2992
+Aalten;2007;70 tot 80 jaar;1986
+Aalten;2007;80 tot 90 jaar;972
+Aalten;2007;90 jaar of ouder;138
+Aalten;2008;Jonger dan 10 jaar;3398
+Aalten;2008;10 tot 20 jaar;3435
+Aalten;2008;20 tot 30 jaar;2621
+Aalten;2008;30 tot 40 jaar;3602
+Aalten;2008;40 tot 50 jaar;4373
+Aalten;2008;50 tot 60 jaar;3828
+Aalten;2008;60 tot 70 jaar;3136
+Aalten;2008;70 tot 80 jaar;2035
+Aalten;2008;80 tot 90 jaar;1005
+Aalten;2008;90 jaar of ouder;135
+Aalten;2009;Jonger dan 10 jaar;3324
+Aalten;2009;10 tot 20 jaar;3443
+Aalten;2009;20 tot 30 jaar;2578
+Aalten;2009;30 tot 40 jaar;3466
+Aalten;2009;40 tot 50 jaar;4333
+Aalten;2009;50 tot 60 jaar;3836
+Aalten;2009;60 tot 70 jaar;3230
+Aalten;2009;70 tot 80 jaar;2065
+Aalten;2009;80 tot 90 jaar;1037
+Aalten;2009;90 jaar of ouder;135
+Aalten;2010;Jonger dan 10 jaar;3304
+Aalten;2010;10 tot 20 jaar;3477
+Aalten;2010;20 tot 30 jaar;2632
+Aalten;2010;30 tot 40 jaar;3302
+Aalten;2010;40 tot 50 jaar;4339
+Aalten;2010;50 tot 60 jaar;3866
+Aalten;2010;60 tot 70 jaar;3340
+Aalten;2010;70 tot 80 jaar;2019
+Aalten;2010;80 tot 90 jaar;1087
+Aalten;2010;90 jaar of ouder;134
+Aalten;2011;Jonger dan 10 jaar;3223
+Aalten;2011;10 tot 20 jaar;3447
+Aalten;2011;20 tot 30 jaar;2632
+Aalten;2011;30 tot 40 jaar;3157
+Aalten;2011;40 tot 50 jaar;4364
+Aalten;2011;50 tot 60 jaar;3926
+Aalten;2011;60 tot 70 jaar;3382
+Aalten;2011;70 tot 80 jaar;2060
+Aalten;2011;80 tot 90 jaar;1102
+Aalten;2011;90 jaar of ouder;146
+Aalten;2012;Jonger dan 10 jaar;3152
+Aalten;2012;10 tot 20 jaar;3404
+Aalten;2012;20 tot 30 jaar;2600
+Aalten;2012;30 tot 40 jaar;2998
+Aalten;2012;40 tot 50 jaar;4305
+Aalten;2012;50 tot 60 jaar;4034
+Aalten;2012;60 tot 70 jaar;3435
+Aalten;2012;70 tot 80 jaar;2109
+Aalten;2012;80 tot 90 jaar;1106
+Aalten;2012;90 jaar of ouder;162
+Aalten;2013;Jonger dan 10 jaar;3060
+Aalten;2013;10 tot 20 jaar;3340
+Aalten;2013;20 tot 30 jaar;2569
+Aalten;2013;30 tot 40 jaar;2834
+Aalten;2013;40 tot 50 jaar;4265
+Aalten;2013;50 tot 60 jaar;4072
+Aalten;2013;60 tot 70 jaar;3515
+Aalten;2013;70 tot 80 jaar;2154
+Aalten;2013;80 tot 90 jaar;1099
+Aalten;2013;90 jaar of ouder;174
+Aalten;2014;Jonger dan 10 jaar;3006
+Aalten;2014;10 tot 20 jaar;3352
+Aalten;2014;20 tot 30 jaar;2487
+Aalten;2014;30 tot 40 jaar;2786
+Aalten;2014;40 tot 50 jaar;4135
+Aalten;2014;50 tot 60 jaar;4148
+Aalten;2014;60 tot 70 jaar;3549
+Aalten;2014;70 tot 80 jaar;2245
+Aalten;2014;80 tot 90 jaar;1136
+Aalten;2014;90 jaar of ouder;169
+Achtkarspelen;1988;Jonger dan 10 jaar;4101
+Achtkarspelen;1988;10 tot 20 jaar;4872
+Achtkarspelen;1988;20 tot 30 jaar;4318
+Achtkarspelen;1988;30 tot 40 jaar;4178
+Achtkarspelen;1988;40 tot 50 jaar;3462
+Achtkarspelen;1988;50 tot 60 jaar;2498
+Achtkarspelen;1988;60 tot 70 jaar;2008
+Achtkarspelen;1988;70 tot 80 jaar;1296
+Achtkarspelen;1988;80 tot 90 jaar;558
+Achtkarspelen;1988;90 jaar of ouder;91
+Achtkarspelen;1989;Jonger dan 10 jaar;4096
+Achtkarspelen;1989;10 tot 20 jaar;4735
+Achtkarspelen;1989;20 tot 30 jaar;4398
+Achtkarspelen;1989;30 tot 40 jaar;4134
+Achtkarspelen;1989;40 tot 50 jaar;3546
+Achtkarspelen;1989;50 tot 60 jaar;2580
+Achtkarspelen;1989;60 tot 70 jaar;2042
+Achtkarspelen;1989;70 tot 80 jaar;1304
+Achtkarspelen;1989;80 tot 90 jaar;566
+Achtkarspelen;1989;90 jaar of ouder;78
+Achtkarspelen;1990;Jonger dan 10 jaar;4019
+Achtkarspelen;1990;10 tot 20 jaar;4630
+Achtkarspelen;1990;20 tot 30 jaar;4401
+Achtkarspelen;1990;30 tot 40 jaar;4153
+Achtkarspelen;1990;40 tot 50 jaar;3672
+Achtkarspelen;1990;50 tot 60 jaar;2644
+Achtkarspelen;1990;60 tot 70 jaar;2097
+Achtkarspelen;1990;70 tot 80 jaar;1272
+Achtkarspelen;1990;80 tot 90 jaar;582
+Achtkarspelen;1990;90 jaar of ouder;72
+Achtkarspelen;1991;Jonger dan 10 jaar;3984
+Achtkarspelen;1991;10 tot 20 jaar;4495
+Achtkarspelen;1991;20 tot 30 jaar;4421
+Achtkarspelen;1991;30 tot 40 jaar;4186
+Achtkarspelen;1991;40 tot 50 jaar;3783
+Achtkarspelen;1991;50 tot 60 jaar;2695
+Achtkarspelen;1991;60 tot 70 jaar;2073
+Achtkarspelen;1991;70 tot 80 jaar;1329
+Achtkarspelen;1991;80 tot 90 jaar;585
+Achtkarspelen;1991;90 jaar of ouder;81
+Achtkarspelen;1992;Jonger dan 10 jaar;3842
+Achtkarspelen;1992;10 tot 20 jaar;4402
+Achtkarspelen;1992;20 tot 30 jaar;4449
+Achtkarspelen;1992;30 tot 40 jaar;4141
+Achtkarspelen;1992;40 tot 50 jaar;3915
+Achtkarspelen;1992;50 tot 60 jaar;2728
+Achtkarspelen;1992;60 tot 70 jaar;2086
+Achtkarspelen;1992;70 tot 80 jaar;1353
+Achtkarspelen;1992;80 tot 90 jaar;597
+Achtkarspelen;1992;90 jaar of ouder;85
+Achtkarspelen;1993;Jonger dan 10 jaar;3827
+Achtkarspelen;1993;10 tot 20 jaar;4291
+Achtkarspelen;1993;20 tot 30 jaar;4440
+Achtkarspelen;1993;30 tot 40 jaar;4171
+Achtkarspelen;1993;40 tot 50 jaar;3992
+Achtkarspelen;1993;50 tot 60 jaar;2787
+Achtkarspelen;1993;60 tot 70 jaar;2154
+Achtkarspelen;1993;70 tot 80 jaar;1384
+Achtkarspelen;1993;80 tot 90 jaar;631
+Achtkarspelen;1993;90 jaar of ouder;85
+Achtkarspelen;1994;Jonger dan 10 jaar;3829
+Achtkarspelen;1994;10 tot 20 jaar;4212
+Achtkarspelen;1994;20 tot 30 jaar;4488
+Achtkarspelen;1994;30 tot 40 jaar;4163
+Achtkarspelen;1994;40 tot 50 jaar;4088
+Achtkarspelen;1994;50 tot 60 jaar;2818
+Achtkarspelen;1994;60 tot 70 jaar;2202
+Achtkarspelen;1994;70 tot 80 jaar;1423
+Achtkarspelen;1994;80 tot 90 jaar;628
+Achtkarspelen;1994;90 jaar of ouder;72
+Achtkarspelen;1995;Jonger dan 10 jaar;3769
+Achtkarspelen;1995;10 tot 20 jaar;4189
+Achtkarspelen;1995;20 tot 30 jaar;4362
+Achtkarspelen;1995;30 tot 40 jaar;4218
+Achtkarspelen;1995;40 tot 50 jaar;4112
+Achtkarspelen;1995;50 tot 60 jaar;2936
+Achtkarspelen;1995;60 tot 70 jaar;2221
+Achtkarspelen;1995;70 tot 80 jaar;1457
+Achtkarspelen;1995;80 tot 90 jaar;631
+Achtkarspelen;1995;90 jaar of ouder;76
+Achtkarspelen;1996;Jonger dan 10 jaar;3741
+Achtkarspelen;1996;10 tot 20 jaar;4157
+Achtkarspelen;1996;20 tot 30 jaar;4192
+Achtkarspelen;1996;30 tot 40 jaar;4260
+Achtkarspelen;1996;40 tot 50 jaar;4151
+Achtkarspelen;1996;50 tot 60 jaar;3025
+Achtkarspelen;1996;60 tot 70 jaar;2261
+Achtkarspelen;1996;70 tot 80 jaar;1466
+Achtkarspelen;1996;80 tot 90 jaar;646
+Achtkarspelen;1996;90 jaar of ouder;89
+Achtkarspelen;1997;Jonger dan 10 jaar;3700
+Achtkarspelen;1997;10 tot 20 jaar;4135
+Achtkarspelen;1997;20 tot 30 jaar;4086
+Achtkarspelen;1997;30 tot 40 jaar;4275
+Achtkarspelen;1997;40 tot 50 jaar;4132
+Achtkarspelen;1997;50 tot 60 jaar;3218
+Achtkarspelen;1997;60 tot 70 jaar;2279
+Achtkarspelen;1997;70 tot 80 jaar;1487
+Achtkarspelen;1997;80 tot 90 jaar;637
+Achtkarspelen;1997;90 jaar of ouder;91
+Achtkarspelen;1998;Jonger dan 10 jaar;3652
+Achtkarspelen;1998;10 tot 20 jaar;4032
+Achtkarspelen;1998;20 tot 30 jaar;4064
+Achtkarspelen;1998;30 tot 40 jaar;4263
+Achtkarspelen;1998;40 tot 50 jaar;4113
+Achtkarspelen;1998;50 tot 60 jaar;3402
+Achtkarspelen;1998;60 tot 70 jaar;2316
+Achtkarspelen;1998;70 tot 80 jaar;1529
+Achtkarspelen;1998;80 tot 90 jaar;618
+Achtkarspelen;1998;90 jaar of ouder;96
+Achtkarspelen;1999;Jonger dan 10 jaar;3623
+Achtkarspelen;1999;10 tot 20 jaar;4025
+Achtkarspelen;1999;20 tot 30 jaar;3899
+Achtkarspelen;1999;30 tot 40 jaar;4304
+Achtkarspelen;1999;40 tot 50 jaar;4062
+Achtkarspelen;1999;50 tot 60 jaar;3497
+Achtkarspelen;1999;60 tot 70 jaar;2379
+Achtkarspelen;1999;70 tot 80 jaar;1561
+Achtkarspelen;1999;80 tot 90 jaar;611
+Achtkarspelen;1999;90 jaar of ouder;86
+Achtkarspelen;2000;Jonger dan 10 jaar;3574
+Achtkarspelen;2000;10 tot 20 jaar;3979
+Achtkarspelen;2000;20 tot 30 jaar;3828
+Achtkarspelen;2000;30 tot 40 jaar;4252
+Achtkarspelen;2000;40 tot 50 jaar;4075
+Achtkarspelen;2000;50 tot 60 jaar;3570
+Achtkarspelen;2000;60 tot 70 jaar;2433
+Achtkarspelen;2000;70 tot 80 jaar;1616
+Achtkarspelen;2000;80 tot 90 jaar;603
+Achtkarspelen;2000;90 jaar of ouder;81
+Achtkarspelen;2001;Jonger dan 10 jaar;3572
+Achtkarspelen;2001;10 tot 20 jaar;3907
+Achtkarspelen;2001;20 tot 30 jaar;3745
+Achtkarspelen;2001;30 tot 40 jaar;4228
+Achtkarspelen;2001;40 tot 50 jaar;4069
+Achtkarspelen;2001;50 tot 60 jaar;3660
+Achtkarspelen;2001;60 tot 70 jaar;2511
+Achtkarspelen;2001;70 tot 80 jaar;1580
+Achtkarspelen;2001;80 tot 90 jaar;651
+Achtkarspelen;2001;90 jaar of ouder;90
+Achtkarspelen;2002;Jonger dan 10 jaar;3597
+Achtkarspelen;2002;10 tot 20 jaar;3809
+Achtkarspelen;2002;20 tot 30 jaar;3657
+Achtkarspelen;2002;30 tot 40 jaar;4234
+Achtkarspelen;2002;40 tot 50 jaar;4078
+Achtkarspelen;2002;50 tot 60 jaar;3757
+Achtkarspelen;2002;60 tot 70 jaar;2522
+Achtkarspelen;2002;70 tot 80 jaar;1627
+Achtkarspelen;2002;80 tot 90 jaar;665
+Achtkarspelen;2002;90 jaar of ouder;99
+Achtkarspelen;2003;Jonger dan 10 jaar;3648
+Achtkarspelen;2003;10 tot 20 jaar;3743
+Achtkarspelen;2003;20 tot 30 jaar;3516
+Achtkarspelen;2003;30 tot 40 jaar;4280
+Achtkarspelen;2003;40 tot 50 jaar;4088
+Achtkarspelen;2003;50 tot 60 jaar;3804
+Achtkarspelen;2003;60 tot 70 jaar;2557
+Achtkarspelen;2003;70 tot 80 jaar;1694
+Achtkarspelen;2003;80 tot 90 jaar;671
+Achtkarspelen;2003;90 jaar of ouder;101
+Achtkarspelen;2004;Jonger dan 10 jaar;3665
+Achtkarspelen;2004;10 tot 20 jaar;3712
+Achtkarspelen;2004;20 tot 30 jaar;3423
+Achtkarspelen;2004;30 tot 40 jaar;4282
+Achtkarspelen;2004;40 tot 50 jaar;4053
+Achtkarspelen;2004;50 tot 60 jaar;3913
+Achtkarspelen;2004;60 tot 70 jaar;2588
+Achtkarspelen;2004;70 tot 80 jaar;1724
+Achtkarspelen;2004;80 tot 90 jaar;691
+Achtkarspelen;2004;90 jaar of ouder;105
+Achtkarspelen;2005;Jonger dan 10 jaar;3708
+Achtkarspelen;2005;10 tot 20 jaar;3639
+Achtkarspelen;2005;20 tot 30 jaar;3342
+Achtkarspelen;2005;30 tot 40 jaar;4204
+Achtkarspelen;2005;40 tot 50 jaar;4060
+Achtkarspelen;2005;50 tot 60 jaar;3899
+Achtkarspelen;2005;60 tot 70 jaar;2714
+Achtkarspelen;2005;70 tot 80 jaar;1721
+Achtkarspelen;2005;80 tot 90 jaar;739
+Achtkarspelen;2005;90 jaar of ouder;108
+Achtkarspelen;2006;Jonger dan 10 jaar;3716
+Achtkarspelen;2006;10 tot 20 jaar;3638
+Achtkarspelen;2006;20 tot 30 jaar;3325
+Achtkarspelen;2006;30 tot 40 jaar;4092
+Achtkarspelen;2006;40 tot 50 jaar;4128
+Achtkarspelen;2006;50 tot 60 jaar;3919
+Achtkarspelen;2006;60 tot 70 jaar;2776
+Achtkarspelen;2006;70 tot 80 jaar;1762
+Achtkarspelen;2006;80 tot 90 jaar;752
+Achtkarspelen;2006;90 jaar of ouder;115
+Achtkarspelen;2007;Jonger dan 10 jaar;3715
+Achtkarspelen;2007;10 tot 20 jaar;3598
+Achtkarspelen;2007;20 tot 30 jaar;3261
+Achtkarspelen;2007;30 tot 40 jaar;3968
+Achtkarspelen;2007;40 tot 50 jaar;4138
+Achtkarspelen;2007;50 tot 60 jaar;3856
+Achtkarspelen;2007;60 tot 70 jaar;2942
+Achtkarspelen;2007;70 tot 80 jaar;1782
+Achtkarspelen;2007;80 tot 90 jaar;765
+Achtkarspelen;2007;90 jaar of ouder;118
+Achtkarspelen;2008;Jonger dan 10 jaar;3729
+Achtkarspelen;2008;10 tot 20 jaar;3526
+Achtkarspelen;2008;20 tot 30 jaar;3199
+Achtkarspelen;2008;30 tot 40 jaar;3885
+Achtkarspelen;2008;40 tot 50 jaar;4122
+Achtkarspelen;2008;50 tot 60 jaar;3862
+Achtkarspelen;2008;60 tot 70 jaar;3049
+Achtkarspelen;2008;70 tot 80 jaar;1815
+Achtkarspelen;2008;80 tot 90 jaar;786
+Achtkarspelen;2008;90 jaar of ouder;115
+Achtkarspelen;2009;Jonger dan 10 jaar;3740
+Achtkarspelen;2009;10 tot 20 jaar;3473
+Achtkarspelen;2009;20 tot 30 jaar;3242
+Achtkarspelen;2009;30 tot 40 jaar;3706
+Achtkarspelen;2009;40 tot 50 jaar;4185
+Achtkarspelen;2009;50 tot 60 jaar;3869
+Achtkarspelen;2009;60 tot 70 jaar;3126
+Achtkarspelen;2009;70 tot 80 jaar;1844
+Achtkarspelen;2009;80 tot 90 jaar;829
+Achtkarspelen;2009;90 jaar of ouder;125
+Achtkarspelen;2010;Jonger dan 10 jaar;3704
+Achtkarspelen;2010;10 tot 20 jaar;3452
+Achtkarspelen;2010;20 tot 30 jaar;3238
+Achtkarspelen;2010;30 tot 40 jaar;3596
+Achtkarspelen;2010;40 tot 50 jaar;4135
+Achtkarspelen;2010;50 tot 60 jaar;3886
+Achtkarspelen;2010;60 tot 70 jaar;3199
+Achtkarspelen;2010;70 tot 80 jaar;1895
+Achtkarspelen;2010;80 tot 90 jaar;863
+Achtkarspelen;2010;90 jaar of ouder;120
+Achtkarspelen;2011;Jonger dan 10 jaar;3692
+Achtkarspelen;2011;10 tot 20 jaar;3463
+Achtkarspelen;2011;20 tot 30 jaar;3199
+Achtkarspelen;2011;30 tot 40 jaar;3511
+Achtkarspelen;2011;40 tot 50 jaar;4109
+Achtkarspelen;2011;50 tot 60 jaar;3907
+Achtkarspelen;2011;60 tot 70 jaar;3278
+Achtkarspelen;2011;70 tot 80 jaar;1948
+Achtkarspelen;2011;80 tot 90 jaar;871
+Achtkarspelen;2011;90 jaar of ouder;145
+Achtkarspelen;2012;Jonger dan 10 jaar;3598
+Achtkarspelen;2012;10 tot 20 jaar;3515
+Achtkarspelen;2012;20 tot 30 jaar;3138
+Achtkarspelen;2012;30 tot 40 jaar;3374
+Achtkarspelen;2012;40 tot 50 jaar;4179
+Achtkarspelen;2012;50 tot 60 jaar;3899
+Achtkarspelen;2012;60 tot 70 jaar;3404
+Achtkarspelen;2012;70 tot 80 jaar;1958
+Achtkarspelen;2012;80 tot 90 jaar;866
+Achtkarspelen;2012;90 jaar of ouder;160
+Achtkarspelen;2013;Jonger dan 10 jaar;3531
+Achtkarspelen;2013;10 tot 20 jaar;3585
+Achtkarspelen;2013;20 tot 30 jaar;3106
+Achtkarspelen;2013;30 tot 40 jaar;3286
+Achtkarspelen;2013;40 tot 50 jaar;4194
+Achtkarspelen;2013;50 tot 60 jaar;3898
+Achtkarspelen;2013;60 tot 70 jaar;3452
+Achtkarspelen;2013;70 tot 80 jaar;2012
+Achtkarspelen;2013;80 tot 90 jaar;906
+Achtkarspelen;2013;90 jaar of ouder;140
+Achtkarspelen;2014;Jonger dan 10 jaar;3437
+Achtkarspelen;2014;10 tot 20 jaar;3611
+Achtkarspelen;2014;20 tot 30 jaar;3054
+Achtkarspelen;2014;30 tot 40 jaar;3181
+Achtkarspelen;2014;40 tot 50 jaar;4182
+Achtkarspelen;2014;50 tot 60 jaar;3883
+Achtkarspelen;2014;60 tot 70 jaar;3558
+Achtkarspelen;2014;70 tot 80 jaar;2044
+Achtkarspelen;2014;80 tot 90 jaar;911
+Achtkarspelen;2014;90 jaar of ouder;155
+Alblasserdam;1988;Jonger dan 10 jaar;2041
+Alblasserdam;1988;10 tot 20 jaar;2721
+Alblasserdam;1988;20 tot 30 jaar;2777
+Alblasserdam;1988;30 tot 40 jaar;2208
+Alblasserdam;1988;40 tot 50 jaar;2533
+Alblasserdam;1988;50 tot 60 jaar;1910
+Alblasserdam;1988;60 tot 70 jaar;1629
+Alblasserdam;1988;70 tot 80 jaar;1031
+Alblasserdam;1988;80 tot 90 jaar;293
+Alblasserdam;1988;90 jaar of ouder;40
+Alblasserdam;1989;Jonger dan 10 jaar;2078
+Alblasserdam;1989;10 tot 20 jaar;2612
+Alblasserdam;1989;20 tot 30 jaar;2852
+Alblasserdam;1989;30 tot 40 jaar;2272
+Alblasserdam;1989;40 tot 50 jaar;2534
+Alblasserdam;1989;50 tot 60 jaar;1948
+Alblasserdam;1989;60 tot 70 jaar;1695
+Alblasserdam;1989;70 tot 80 jaar;1039
+Alblasserdam;1989;80 tot 90 jaar;315
+Alblasserdam;1989;90 jaar of ouder;46
+Alblasserdam;1990;Jonger dan 10 jaar;2168
+Alblasserdam;1990;10 tot 20 jaar;2445
+Alblasserdam;1990;20 tot 30 jaar;2858
+Alblasserdam;1990;30 tot 40 jaar;2321
+Alblasserdam;1990;40 tot 50 jaar;2502
+Alblasserdam;1990;50 tot 60 jaar;1960
+Alblasserdam;1990;60 tot 70 jaar;1748
+Alblasserdam;1990;70 tot 80 jaar;1012
+Alblasserdam;1990;80 tot 90 jaar;327
+Alblasserdam;1990;90 jaar of ouder;41
+Alblasserdam;1991;Jonger dan 10 jaar;2233
+Alblasserdam;1991;10 tot 20 jaar;2319
+Alblasserdam;1991;20 tot 30 jaar;2921
+Alblasserdam;1991;30 tot 40 jaar;2352
+Alblasserdam;1991;40 tot 50 jaar;2483
+Alblasserdam;1991;50 tot 60 jaar;1993
+Alblasserdam;1991;60 tot 70 jaar;1701
+Alblasserdam;1991;70 tot 80 jaar;1090
+Alblasserdam;1991;80 tot 90 jaar;337
+Alblasserdam;1991;90 jaar of ouder;39
+Alblasserdam;1992;Jonger dan 10 jaar;2294
+Alblasserdam;1992;10 tot 20 jaar;2195
+Alblasserdam;1992;20 tot 30 jaar;2931
+Alblasserdam;1992;30 tot 40 jaar;2434
+Alblasserdam;1992;40 tot 50 jaar;2439
+Alblasserdam;1992;50 tot 60 jaar;2019
+Alblasserdam;1992;60 tot 70 jaar;1662
+Alblasserdam;1992;70 tot 80 jaar;1134
+Alblasserdam;1992;80 tot 90 jaar;348
+Alblasserdam;1992;90 jaar of ouder;47
+Alblasserdam;1993;Jonger dan 10 jaar;2356
+Alblasserdam;1993;10 tot 20 jaar;2111
+Alblasserdam;1993;20 tot 30 jaar;2931
+Alblasserdam;1993;30 tot 40 jaar;2488
+Alblasserdam;1993;40 tot 50 jaar;2443
+Alblasserdam;1993;50 tot 60 jaar;2048
+Alblasserdam;1993;60 tot 70 jaar;1669
+Alblasserdam;1993;70 tot 80 jaar;1136
+Alblasserdam;1993;80 tot 90 jaar;371
+Alblasserdam;1993;90 jaar of ouder;51
+Alblasserdam;1994;Jonger dan 10 jaar;2462
+Alblasserdam;1994;10 tot 20 jaar;2014
+Alblasserdam;1994;20 tot 30 jaar;2897
+Alblasserdam;1994;30 tot 40 jaar;2550
+Alblasserdam;1994;40 tot 50 jaar;2387
+Alblasserdam;1994;50 tot 60 jaar;2104
+Alblasserdam;1994;60 tot 70 jaar;1652
+Alblasserdam;1994;70 tot 80 jaar;1161
+Alblasserdam;1994;80 tot 90 jaar;371
+Alblasserdam;1994;90 jaar of ouder;50
+Alblasserdam;1995;Jonger dan 10 jaar;2482
+Alblasserdam;1995;10 tot 20 jaar;2013
+Alblasserdam;1995;20 tot 30 jaar;2754
+Alblasserdam;1995;30 tot 40 jaar;2597
+Alblasserdam;1995;40 tot 50 jaar;2357
+Alblasserdam;1995;50 tot 60 jaar;2147
+Alblasserdam;1995;60 tot 70 jaar;1628
+Alblasserdam;1995;70 tot 80 jaar;1196
+Alblasserdam;1995;80 tot 90 jaar;425
+Alblasserdam;1995;90 jaar of ouder;47
+Alblasserdam;1996;Jonger dan 10 jaar;2479
+Alblasserdam;1996;10 tot 20 jaar;2046
+Alblasserdam;1996;20 tot 30 jaar;2637
+Alblasserdam;1996;30 tot 40 jaar;2633
+Alblasserdam;1996;40 tot 50 jaar;2341
+Alblasserdam;1996;50 tot 60 jaar;2179
+Alblasserdam;1996;60 tot 70 jaar;1598
+Alblasserdam;1996;70 tot 80 jaar;1236
+Alblasserdam;1996;80 tot 90 jaar;448
+Alblasserdam;1996;90 jaar of ouder;59
+Alblasserdam;1997;Jonger dan 10 jaar;2502
+Alblasserdam;1997;10 tot 20 jaar;2037
+Alblasserdam;1997;20 tot 30 jaar;2578
+Alblasserdam;1997;30 tot 40 jaar;2741
+Alblasserdam;1997;40 tot 50 jaar;2268
+Alblasserdam;1997;50 tot 60 jaar;2263
+Alblasserdam;1997;60 tot 70 jaar;1612
+Alblasserdam;1997;70 tot 80 jaar;1255
+Alblasserdam;1997;80 tot 90 jaar;466
+Alblasserdam;1997;90 jaar of ouder;60
+Alblasserdam;1998;Jonger dan 10 jaar;2509
+Alblasserdam;1998;10 tot 20 jaar;2037
+Alblasserdam;1998;20 tot 30 jaar;2415
+Alblasserdam;1998;30 tot 40 jaar;2851
+Alblasserdam;1998;40 tot 50 jaar;2181
+Alblasserdam;1998;50 tot 60 jaar;2372
+Alblasserdam;1998;60 tot 70 jaar;1619
+Alblasserdam;1998;70 tot 80 jaar;1238
+Alblasserdam;1998;80 tot 90 jaar;510
+Alblasserdam;1998;90 jaar of ouder;68
+Alblasserdam;1999;Jonger dan 10 jaar;2583
+Alblasserdam;1999;10 tot 20 jaar;2056
+Alblasserdam;1999;20 tot 30 jaar;2390
+Alblasserdam;1999;30 tot 40 jaar;2910
+Alblasserdam;1999;40 tot 50 jaar;2202
+Alblasserdam;1999;50 tot 60 jaar;2363
+Alblasserdam;1999;60 tot 70 jaar;1668
+Alblasserdam;1999;70 tot 80 jaar;1268
+Alblasserdam;1999;80 tot 90 jaar;521
+Alblasserdam;1999;90 jaar of ouder;75
+Alblasserdam;2000;Jonger dan 10 jaar;2625
+Alblasserdam;2000;10 tot 20 jaar;2120
+Alblasserdam;2000;20 tot 30 jaar;2336
+Alblasserdam;2000;30 tot 40 jaar;2960
+Alblasserdam;2000;40 tot 50 jaar;2214
+Alblasserdam;2000;50 tot 60 jaar;2333
+Alblasserdam;2000;60 tot 70 jaar;1689
+Alblasserdam;2000;70 tot 80 jaar;1325
+Alblasserdam;2000;80 tot 90 jaar;506
+Alblasserdam;2000;90 jaar of ouder;75
+Alblasserdam;2001;Jonger dan 10 jaar;2641
+Alblasserdam;2001;10 tot 20 jaar;2190
+Alblasserdam;2001;20 tot 30 jaar;2285
+Alblasserdam;2001;30 tot 40 jaar;3035
+Alblasserdam;2001;40 tot 50 jaar;2269
+Alblasserdam;2001;50 tot 60 jaar;2322
+Alblasserdam;2001;60 tot 70 jaar;1734
+Alblasserdam;2001;70 tot 80 jaar;1305
+Alblasserdam;2001;80 tot 90 jaar;548
+Alblasserdam;2001;90 jaar of ouder;81
+Alblasserdam;2002;Jonger dan 10 jaar;2645
+Alblasserdam;2002;10 tot 20 jaar;2201
+Alblasserdam;2002;20 tot 30 jaar;2196
+Alblasserdam;2002;30 tot 40 jaar;3001
+Alblasserdam;2002;40 tot 50 jaar;2334
+Alblasserdam;2002;50 tot 60 jaar;2291
+Alblasserdam;2002;60 tot 70 jaar;1769
+Alblasserdam;2002;70 tot 80 jaar;1287
+Alblasserdam;2002;80 tot 90 jaar;587
+Alblasserdam;2002;90 jaar of ouder;77
+Alblasserdam;2003;Jonger dan 10 jaar;2659
+Alblasserdam;2003;10 tot 20 jaar;2261
+Alblasserdam;2003;20 tot 30 jaar;2071
+Alblasserdam;2003;30 tot 40 jaar;2984
+Alblasserdam;2003;40 tot 50 jaar;2361
+Alblasserdam;2003;50 tot 60 jaar;2302
+Alblasserdam;2003;60 tot 70 jaar;1804
+Alblasserdam;2003;70 tot 80 jaar;1314
+Alblasserdam;2003;80 tot 90 jaar;588
+Alblasserdam;2003;90 jaar of ouder;81
+Alblasserdam;2004;Jonger dan 10 jaar;2633
+Alblasserdam;2004;10 tot 20 jaar;2328
+Alblasserdam;2004;20 tot 30 jaar;1949
+Alblasserdam;2004;30 tot 40 jaar;2948
+Alblasserdam;2004;40 tot 50 jaar;2404
+Alblasserdam;2004;50 tot 60 jaar;2236
+Alblasserdam;2004;60 tot 70 jaar;1861
+Alblasserdam;2004;70 tot 80 jaar;1321
+Alblasserdam;2004;80 tot 90 jaar;631
+Alblasserdam;2004;90 jaar of ouder;75
+Alblasserdam;2005;Jonger dan 10 jaar;2592
+Alblasserdam;2005;10 tot 20 jaar;2329
+Alblasserdam;2005;20 tot 30 jaar;1942
+Alblasserdam;2005;30 tot 40 jaar;2816
+Alblasserdam;2005;40 tot 50 jaar;2483
+Alblasserdam;2005;50 tot 60 jaar;2249
+Alblasserdam;2005;60 tot 70 jaar;1893
+Alblasserdam;2005;70 tot 80 jaar;1313
+Alblasserdam;2005;80 tot 90 jaar;652
+Alblasserdam;2005;90 jaar of ouder;87
+Alblasserdam;2006;Jonger dan 10 jaar;2594
+Alblasserdam;2006;10 tot 20 jaar;2362
+Alblasserdam;2006;20 tot 30 jaar;1946
+Alblasserdam;2006;30 tot 40 jaar;2696
+Alblasserdam;2006;40 tot 50 jaar;2564
+Alblasserdam;2006;50 tot 60 jaar;2273
+Alblasserdam;2006;60 tot 70 jaar;1940
+Alblasserdam;2006;70 tot 80 jaar;1271
+Alblasserdam;2006;80 tot 90 jaar;690
+Alblasserdam;2006;90 jaar of ouder;90
+Alblasserdam;2007;Jonger dan 10 jaar;2627
+Alblasserdam;2007;10 tot 20 jaar;2373
+Alblasserdam;2007;20 tot 30 jaar;1986
+Alblasserdam;2007;30 tot 40 jaar;2645
+Alblasserdam;2007;40 tot 50 jaar;2658
+Alblasserdam;2007;50 tot 60 jaar;2215
+Alblasserdam;2007;60 tot 70 jaar;2043
+Alblasserdam;2007;70 tot 80 jaar;1304
+Alblasserdam;2007;80 tot 90 jaar;716
+Alblasserdam;2007;90 jaar of ouder;99
+Alblasserdam;2008;Jonger dan 10 jaar;2625
+Alblasserdam;2008;10 tot 20 jaar;2419
+Alblasserdam;2008;20 tot 30 jaar;1978
+Alblasserdam;2008;30 tot 40 jaar;2549
+Alblasserdam;2008;40 tot 50 jaar;2730
+Alblasserdam;2008;50 tot 60 jaar;2129
+Alblasserdam;2008;60 tot 70 jaar;2149
+Alblasserdam;2008;70 tot 80 jaar;1313
+Alblasserdam;2008;80 tot 90 jaar;710
+Alblasserdam;2008;90 jaar of ouder;116
+Alblasserdam;2009;Jonger dan 10 jaar;2645
+Alblasserdam;2009;10 tot 20 jaar;2437
+Alblasserdam;2009;20 tot 30 jaar;2024
+Alblasserdam;2009;30 tot 40 jaar;2476
+Alblasserdam;2009;40 tot 50 jaar;2762
+Alblasserdam;2009;50 tot 60 jaar;2137
+Alblasserdam;2009;60 tot 70 jaar;2143
+Alblasserdam;2009;70 tot 80 jaar;1363
+Alblasserdam;2009;80 tot 90 jaar;728
+Alblasserdam;2009;90 jaar of ouder;124
+Alblasserdam;2010;Jonger dan 10 jaar;2646
+Alblasserdam;2010;10 tot 20 jaar;2470
+Alblasserdam;2010;20 tot 30 jaar;2104
+Alblasserdam;2010;30 tot 40 jaar;2401
+Alblasserdam;2010;40 tot 50 jaar;2821
+Alblasserdam;2010;50 tot 60 jaar;2130
+Alblasserdam;2010;60 tot 70 jaar;2146
+Alblasserdam;2010;70 tot 80 jaar;1408
+Alblasserdam;2010;80 tot 90 jaar;773
+Alblasserdam;2010;90 jaar of ouder;115
+Alblasserdam;2011;Jonger dan 10 jaar;2681
+Alblasserdam;2011;10 tot 20 jaar;2478
+Alblasserdam;2011;20 tot 30 jaar;2140
+Alblasserdam;2011;30 tot 40 jaar;2333
+Alblasserdam;2011;40 tot 50 jaar;2873
+Alblasserdam;2011;50 tot 60 jaar;2187
+Alblasserdam;2011;60 tot 70 jaar;2169
+Alblasserdam;2011;70 tot 80 jaar;1463
+Alblasserdam;2011;80 tot 90 jaar;756
+Alblasserdam;2011;90 jaar of ouder;128
+Alblasserdam;2012;Jonger dan 10 jaar;2695
+Alblasserdam;2012;10 tot 20 jaar;2510
+Alblasserdam;2012;20 tot 30 jaar;2207
+Alblasserdam;2012;30 tot 40 jaar;2310
+Alblasserdam;2012;40 tot 50 jaar;2872
+Alblasserdam;2012;50 tot 60 jaar;2261
+Alblasserdam;2012;60 tot 70 jaar;2179
+Alblasserdam;2012;70 tot 80 jaar;1523
+Alblasserdam;2012;80 tot 90 jaar;774
+Alblasserdam;2012;90 jaar of ouder;136
+Alblasserdam;2013;Jonger dan 10 jaar;2668
+Alblasserdam;2013;10 tot 20 jaar;2543
+Alblasserdam;2013;20 tot 30 jaar;2272
+Alblasserdam;2013;30 tot 40 jaar;2276
+Alblasserdam;2013;40 tot 50 jaar;2894
+Alblasserdam;2013;50 tot 60 jaar;2288
+Alblasserdam;2013;60 tot 70 jaar;2207
+Alblasserdam;2013;70 tot 80 jaar;1555
+Alblasserdam;2013;80 tot 90 jaar;800
+Alblasserdam;2013;90 jaar of ouder;140
+Alblasserdam;2014;Jonger dan 10 jaar;2635
+Alblasserdam;2014;10 tot 20 jaar;2584
+Alblasserdam;2014;20 tot 30 jaar;2324
+Alblasserdam;2014;30 tot 40 jaar;2225
+Alblasserdam;2014;40 tot 50 jaar;2915
+Alblasserdam;2014;50 tot 60 jaar;2349
+Alblasserdam;2014;60 tot 70 jaar;2190
+Alblasserdam;2014;70 tot 80 jaar;1611
+Alblasserdam;2014;80 tot 90 jaar;814
+Alblasserdam;2014;90 jaar of ouder;154
+Albrandswaard;1988;Jonger dan 10 jaar;1473
+Albrandswaard;1988;10 tot 20 jaar;1790
+Albrandswaard;1988;20 tot 30 jaar;1927
+Albrandswaard;1988;30 tot 40 jaar;2243
+Albrandswaard;1988;40 tot 50 jaar;2044
+Albrandswaard;1988;50 tot 60 jaar;1672
+Albrandswaard;1988;60 tot 70 jaar;1437
+Albrandswaard;1988;70 tot 80 jaar;794
+Albrandswaard;1988;80 tot 90 jaar;364
+Albrandswaard;1988;90 jaar of ouder;55
+Albrandswaard;1989;Jonger dan 10 jaar;1510
+Albrandswaard;1989;10 tot 20 jaar;1704
+Albrandswaard;1989;20 tot 30 jaar;1866
+Albrandswaard;1989;30 tot 40 jaar;2196
+Albrandswaard;1989;40 tot 50 jaar;2128
+Albrandswaard;1989;50 tot 60 jaar;1637
+Albrandswaard;1989;60 tot 70 jaar;1484
+Albrandswaard;1989;70 tot 80 jaar;838
+Albrandswaard;1989;80 tot 90 jaar;359
+Albrandswaard;1989;90 jaar of ouder;63
+Albrandswaard;1990;Jonger dan 10 jaar;1555
+Albrandswaard;1990;10 tot 20 jaar;1660
+Albrandswaard;1990;20 tot 30 jaar;1869
+Albrandswaard;1990;30 tot 40 jaar;2234
+Albrandswaard;1990;40 tot 50 jaar;2194
+Albrandswaard;1990;50 tot 60 jaar;1629
+Albrandswaard;1990;60 tot 70 jaar;1514
+Albrandswaard;1990;70 tot 80 jaar;845
+Albrandswaard;1990;80 tot 90 jaar;352
+Albrandswaard;1990;90 jaar of ouder;61
+Albrandswaard;1991;Jonger dan 10 jaar;1603
+Albrandswaard;1991;10 tot 20 jaar;1641
+Albrandswaard;1991;20 tot 30 jaar;1865
+Albrandswaard;1991;30 tot 40 jaar;2272
+Albrandswaard;1991;40 tot 50 jaar;2257
+Albrandswaard;1991;50 tot 60 jaar;1623
+Albrandswaard;1991;60 tot 70 jaar;1536
+Albrandswaard;1991;70 tot 80 jaar;898
+Albrandswaard;1991;80 tot 90 jaar;364
+Albrandswaard;1991;90 jaar of ouder;62
+Albrandswaard;1992;Jonger dan 10 jaar;1603
+Albrandswaard;1992;10 tot 20 jaar;1614
+Albrandswaard;1992;20 tot 30 jaar;1809
+Albrandswaard;1992;30 tot 40 jaar;2304
+Albrandswaard;1992;40 tot 50 jaar;2320
+Albrandswaard;1992;50 tot 60 jaar;1628
+Albrandswaard;1992;60 tot 70 jaar;1524
+Albrandswaard;1992;70 tot 80 jaar;937
+Albrandswaard;1992;80 tot 90 jaar;371
+Albrandswaard;1992;90 jaar of ouder;71
+Albrandswaard;1993;Jonger dan 10 jaar;1682
+Albrandswaard;1993;10 tot 20 jaar;1595
+Albrandswaard;1993;20 tot 30 jaar;1759
+Albrandswaard;1993;30 tot 40 jaar;2383
+Albrandswaard;1993;40 tot 50 jaar;2412
+Albrandswaard;1993;50 tot 60 jaar;1601
+Albrandswaard;1993;60 tot 70 jaar;1497
+Albrandswaard;1993;70 tot 80 jaar;982
+Albrandswaard;1993;80 tot 90 jaar;370
+Albrandswaard;1993;90 jaar of ouder;69
+Albrandswaard;1994;Jonger dan 10 jaar;1888
+Albrandswaard;1994;10 tot 20 jaar;1585
+Albrandswaard;1994;20 tot 30 jaar;1787
+Albrandswaard;1994;30 tot 40 jaar;2532
+Albrandswaard;1994;40 tot 50 jaar;2528
+Albrandswaard;1994;50 tot 60 jaar;1630
+Albrandswaard;1994;60 tot 70 jaar;1519
+Albrandswaard;1994;70 tot 80 jaar;1012
+Albrandswaard;1994;80 tot 90 jaar;371
+Albrandswaard;1994;90 jaar of ouder;68
+Albrandswaard;1995;Jonger dan 10 jaar;1961
+Albrandswaard;1995;10 tot 20 jaar;1579
+Albrandswaard;1995;20 tot 30 jaar;1754
+Albrandswaard;1995;30 tot 40 jaar;2602
+Albrandswaard;1995;40 tot 50 jaar;2580
+Albrandswaard;1995;50 tot 60 jaar;1713
+Albrandswaard;1995;60 tot 70 jaar;1489
+Albrandswaard;1995;70 tot 80 jaar;1023
+Albrandswaard;1995;80 tot 90 jaar;381
+Albrandswaard;1995;90 jaar of ouder;59
+Albrandswaard;1996;Jonger dan 10 jaar;2035
+Albrandswaard;1996;10 tot 20 jaar;1569
+Albrandswaard;1996;20 tot 30 jaar;1675
+Albrandswaard;1996;30 tot 40 jaar;2667
+Albrandswaard;1996;40 tot 50 jaar;2665
+Albrandswaard;1996;50 tot 60 jaar;1735
+Albrandswaard;1996;60 tot 70 jaar;1468
+Albrandswaard;1996;70 tot 80 jaar;1052
+Albrandswaard;1996;80 tot 90 jaar;398
+Albrandswaard;1996;90 jaar of ouder;61
+Albrandswaard;1997;Jonger dan 10 jaar;2025
+Albrandswaard;1997;10 tot 20 jaar;1543
+Albrandswaard;1997;20 tot 30 jaar;1596
+Albrandswaard;1997;30 tot 40 jaar;2623
+Albrandswaard;1997;40 tot 50 jaar;2586
+Albrandswaard;1997;50 tot 60 jaar;1884
+Albrandswaard;1997;60 tot 70 jaar;1463
+Albrandswaard;1997;70 tot 80 jaar;1071
+Albrandswaard;1997;80 tot 90 jaar;406
+Albrandswaard;1997;90 jaar of ouder;52
+Albrandswaard;1998;Jonger dan 10 jaar;2037
+Albrandswaard;1998;10 tot 20 jaar;1603
+Albrandswaard;1998;20 tot 30 jaar;1539
+Albrandswaard;1998;30 tot 40 jaar;2603
+Albrandswaard;1998;40 tot 50 jaar;2592
+Albrandswaard;1998;50 tot 60 jaar;2012
+Albrandswaard;1998;60 tot 70 jaar;1454
+Albrandswaard;1998;70 tot 80 jaar;1078
+Albrandswaard;1998;80 tot 90 jaar;420
+Albrandswaard;1998;90 jaar of ouder;57
+Albrandswaard;1999;Jonger dan 10 jaar;2089
+Albrandswaard;1999;10 tot 20 jaar;1718
+Albrandswaard;1999;20 tot 30 jaar;1513
+Albrandswaard;1999;30 tot 40 jaar;2676
+Albrandswaard;1999;40 tot 50 jaar;2613
+Albrandswaard;1999;50 tot 60 jaar;2151
+Albrandswaard;1999;60 tot 70 jaar;1441
+Albrandswaard;1999;70 tot 80 jaar;1099
+Albrandswaard;1999;80 tot 90 jaar;446
+Albrandswaard;1999;90 jaar of ouder;59
+Albrandswaard;2000;Jonger dan 10 jaar;2154
+Albrandswaard;2000;10 tot 20 jaar;1833
+Albrandswaard;2000;20 tot 30 jaar;1496
+Albrandswaard;2000;30 tot 40 jaar;2804
+Albrandswaard;2000;40 tot 50 jaar;2749
+Albrandswaard;2000;50 tot 60 jaar;2284
+Albrandswaard;2000;60 tot 70 jaar;1476
+Albrandswaard;2000;70 tot 80 jaar;1102
+Albrandswaard;2000;80 tot 90 jaar;467
+Albrandswaard;2000;90 jaar of ouder;55
+Albrandswaard;2001;Jonger dan 10 jaar;2349
+Albrandswaard;2001;10 tot 20 jaar;1992
+Albrandswaard;2001;20 tot 30 jaar;1745
+Albrandswaard;2001;30 tot 40 jaar;3109
+Albrandswaard;2001;40 tot 50 jaar;2944
+Albrandswaard;2001;50 tot 60 jaar;2398
+Albrandswaard;2001;60 tot 70 jaar;1506
+Albrandswaard;2001;70 tot 80 jaar;1131
+Albrandswaard;2001;80 tot 90 jaar;483
+Albrandswaard;2001;90 jaar of ouder;64
+Albrandswaard;2002;Jonger dan 10 jaar;2390
+Albrandswaard;2002;10 tot 20 jaar;2059
+Albrandswaard;2002;20 tot 30 jaar;1682
+Albrandswaard;2002;30 tot 40 jaar;3161
+Albrandswaard;2002;40 tot 50 jaar;3087
+Albrandswaard;2002;50 tot 60 jaar;2492
+Albrandswaard;2002;60 tot 70 jaar;1516
+Albrandswaard;2002;70 tot 80 jaar;1156
+Albrandswaard;2002;80 tot 90 jaar;480
+Albrandswaard;2002;90 jaar of ouder;69
+Albrandswaard;2003;Jonger dan 10 jaar;2513
+Albrandswaard;2003;10 tot 20 jaar;2184
+Albrandswaard;2003;20 tot 30 jaar;1606
+Albrandswaard;2003;30 tot 40 jaar;3297
+Albrandswaard;2003;40 tot 50 jaar;3276
+Albrandswaard;2003;50 tot 60 jaar;2591
+Albrandswaard;2003;60 tot 70 jaar;1514
+Albrandswaard;2003;70 tot 80 jaar;1182
+Albrandswaard;2003;80 tot 90 jaar;514
+Albrandswaard;2003;90 jaar of ouder;60
+Albrandswaard;2004;Jonger dan 10 jaar;2596
+Albrandswaard;2004;10 tot 20 jaar;2364
+Albrandswaard;2004;20 tot 30 jaar;1657
+Albrandswaard;2004;30 tot 40 jaar;3394
+Albrandswaard;2004;40 tot 50 jaar;3422
+Albrandswaard;2004;50 tot 60 jaar;2737
+Albrandswaard;2004;60 tot 70 jaar;1591
+Albrandswaard;2004;70 tot 80 jaar;1241
+Albrandswaard;2004;80 tot 90 jaar;539
+Albrandswaard;2004;90 jaar of ouder;66
+Albrandswaard;2005;Jonger dan 10 jaar;2726
+Albrandswaard;2005;10 tot 20 jaar;2474
+Albrandswaard;2005;20 tot 30 jaar;1747
+Albrandswaard;2005;30 tot 40 jaar;3448
+Albrandswaard;2005;40 tot 50 jaar;3628
+Albrandswaard;2005;50 tot 60 jaar;2929
+Albrandswaard;2005;60 tot 70 jaar;1763
+Albrandswaard;2005;70 tot 80 jaar;1264
+Albrandswaard;2005;80 tot 90 jaar;559
+Albrandswaard;2005;90 jaar of ouder;68
+Albrandswaard;2006;Jonger dan 10 jaar;2754
+Albrandswaard;2006;10 tot 20 jaar;2600
+Albrandswaard;2006;20 tot 30 jaar;1715
+Albrandswaard;2006;30 tot 40 jaar;3415
+Albrandswaard;2006;40 tot 50 jaar;3814
+Albrandswaard;2006;50 tot 60 jaar;3062
+Albrandswaard;2006;60 tot 70 jaar;1823
+Albrandswaard;2006;70 tot 80 jaar;1266
+Albrandswaard;2006;80 tot 90 jaar;547
+Albrandswaard;2006;90 jaar of ouder;63
+Albrandswaard;2007;Jonger dan 10 jaar;2830
+Albrandswaard;2007;10 tot 20 jaar;2650
+Albrandswaard;2007;20 tot 30 jaar;1759
+Albrandswaard;2007;30 tot 40 jaar;3419
+Albrandswaard;2007;40 tot 50 jaar;3894
+Albrandswaard;2007;50 tot 60 jaar;3032
+Albrandswaard;2007;60 tot 70 jaar;2012
+Albrandswaard;2007;70 tot 80 jaar;1284
+Albrandswaard;2007;80 tot 90 jaar;579
+Albrandswaard;2007;90 jaar of ouder;64
+Albrandswaard;2008;Jonger dan 10 jaar;2922
+Albrandswaard;2008;10 tot 20 jaar;2768
+Albrandswaard;2008;20 tot 30 jaar;1817
+Albrandswaard;2008;30 tot 40 jaar;3487
+Albrandswaard;2008;40 tot 50 jaar;4021
+Albrandswaard;2008;50 tot 60 jaar;3171
+Albrandswaard;2008;60 tot 70 jaar;2206
+Albrandswaard;2008;70 tot 80 jaar;1324
+Albrandswaard;2008;80 tot 90 jaar;648
+Albrandswaard;2008;90 jaar of ouder;89
+Albrandswaard;2009;Jonger dan 10 jaar;3006
+Albrandswaard;2009;10 tot 20 jaar;2829
+Albrandswaard;2009;20 tot 30 jaar;1911
+Albrandswaard;2009;30 tot 40 jaar;3481
+Albrandswaard;2009;40 tot 50 jaar;4067
+Albrandswaard;2009;50 tot 60 jaar;3207
+Albrandswaard;2009;60 tot 70 jaar;2359
+Albrandswaard;2009;70 tot 80 jaar;1352
+Albrandswaard;2009;80 tot 90 jaar;650
+Albrandswaard;2009;90 jaar of ouder;112
+Albrandswaard;2010;Jonger dan 10 jaar;3192
+Albrandswaard;2010;10 tot 20 jaar;2932
+Albrandswaard;2010;20 tot 30 jaar;2109
+Albrandswaard;2010;30 tot 40 jaar;3518
+Albrandswaard;2010;40 tot 50 jaar;4324
+Albrandswaard;2010;50 tot 60 jaar;3379
+Albrandswaard;2010;60 tot 70 jaar;2556
+Albrandswaard;2010;70 tot 80 jaar;1385
+Albrandswaard;2010;80 tot 90 jaar;690
+Albrandswaard;2010;90 jaar of ouder;106
+Albrandswaard;2011;Jonger dan 10 jaar;3273
+Albrandswaard;2011;10 tot 20 jaar;2956
+Albrandswaard;2011;20 tot 30 jaar;2139
+Albrandswaard;2011;30 tot 40 jaar;3465
+Albrandswaard;2011;40 tot 50 jaar;4398
+Albrandswaard;2011;50 tot 60 jaar;3498
+Albrandswaard;2011;60 tot 70 jaar;2669
+Albrandswaard;2011;70 tot 80 jaar;1440
+Albrandswaard;2011;80 tot 90 jaar;725
+Albrandswaard;2011;90 jaar of ouder;111
+Albrandswaard;2012;Jonger dan 10 jaar;3265
+Albrandswaard;2012;10 tot 20 jaar;3001
+Albrandswaard;2012;20 tot 30 jaar;2126
+Albrandswaard;2012;30 tot 40 jaar;3447
+Albrandswaard;2012;40 tot 50 jaar;4441
+Albrandswaard;2012;50 tot 60 jaar;3636
+Albrandswaard;2012;60 tot 70 jaar;2732
+Albrandswaard;2012;70 tot 80 jaar;1487
+Albrandswaard;2012;80 tot 90 jaar;749
+Albrandswaard;2012;90 jaar of ouder;119
+Albrandswaard;2013;Jonger dan 10 jaar;3237
+Albrandswaard;2013;10 tot 20 jaar;3061
+Albrandswaard;2013;20 tot 30 jaar;2121
+Albrandswaard;2013;30 tot 40 jaar;3255
+Albrandswaard;2013;40 tot 50 jaar;4459
+Albrandswaard;2013;50 tot 60 jaar;3775
+Albrandswaard;2013;60 tot 70 jaar;2834
+Albrandswaard;2013;70 tot 80 jaar;1476
+Albrandswaard;2013;80 tot 90 jaar;755
+Albrandswaard;2013;90 jaar of ouder;128
+Albrandswaard;2014;Jonger dan 10 jaar;3180
+Albrandswaard;2014;10 tot 20 jaar;3078
+Albrandswaard;2014;20 tot 30 jaar;2094
+Albrandswaard;2014;30 tot 40 jaar;3081
+Albrandswaard;2014;40 tot 50 jaar;4429
+Albrandswaard;2014;50 tot 60 jaar;3842
+Albrandswaard;2014;60 tot 70 jaar;2910
+Albrandswaard;2014;70 tot 80 jaar;1528
+Albrandswaard;2014;80 tot 90 jaar;808
+Albrandswaard;2014;90 jaar of ouder;119
+Alkmaar;1988;Jonger dan 10 jaar;12186
+Alkmaar;1988;10 tot 20 jaar;12292
+Alkmaar;1988;20 tot 30 jaar;15468
+Alkmaar;1988;30 tot 40 jaar;16003
+Alkmaar;1988;40 tot 50 jaar;11004
+Alkmaar;1988;50 tot 60 jaar;7635
+Alkmaar;1988;60 tot 70 jaar;6936
+Alkmaar;1988;70 tot 80 jaar;4531
+Alkmaar;1988;80 tot 90 jaar;1772
+Alkmaar;1988;90 jaar of ouder;258
+Alkmaar;1989;Jonger dan 10 jaar;12099
+Alkmaar;1989;10 tot 20 jaar;12081
+Alkmaar;1989;20 tot 30 jaar;15414
+Alkmaar;1989;30 tot 40 jaar;15886
+Alkmaar;1989;40 tot 50 jaar;11656
+Alkmaar;1989;50 tot 60 jaar;7649
+Alkmaar;1989;60 tot 70 jaar;7108
+Alkmaar;1989;70 tot 80 jaar;4586
+Alkmaar;1989;80 tot 90 jaar;1827
+Alkmaar;1989;90 jaar of ouder;265
+Alkmaar;1990;Jonger dan 10 jaar;12232
+Alkmaar;1990;10 tot 20 jaar;11944
+Alkmaar;1990;20 tot 30 jaar;15607
+Alkmaar;1990;30 tot 40 jaar;15902
+Alkmaar;1990;40 tot 50 jaar;12240
+Alkmaar;1990;50 tot 60 jaar;7750
+Alkmaar;1990;60 tot 70 jaar;7194
+Alkmaar;1990;70 tot 80 jaar;4662
+Alkmaar;1990;80 tot 90 jaar;1875
+Alkmaar;1990;90 jaar of ouder;243
+Alkmaar;1991;Jonger dan 10 jaar;12311
+Alkmaar;1991;10 tot 20 jaar;11824
+Alkmaar;1991;20 tot 30 jaar;15811
+Alkmaar;1991;30 tot 40 jaar;16081
+Alkmaar;1991;40 tot 50 jaar;12709
+Alkmaar;1991;50 tot 60 jaar;7812
+Alkmaar;1991;60 tot 70 jaar;7185
+Alkmaar;1991;70 tot 80 jaar;4836
+Alkmaar;1991;80 tot 90 jaar;1968
+Alkmaar;1991;90 jaar of ouder;241
+Alkmaar;1992;Jonger dan 10 jaar;12387
+Alkmaar;1992;10 tot 20 jaar;11754
+Alkmaar;1992;20 tot 30 jaar;16007
+Alkmaar;1992;30 tot 40 jaar;16072
+Alkmaar;1992;40 tot 50 jaar;13294
+Alkmaar;1992;50 tot 60 jaar;7877
+Alkmaar;1992;60 tot 70 jaar;7146
+Alkmaar;1992;70 tot 80 jaar;5019
+Alkmaar;1992;80 tot 90 jaar;1995
+Alkmaar;1992;90 jaar of ouder;266
+Alkmaar;1993;Jonger dan 10 jaar;12359
+Alkmaar;1993;10 tot 20 jaar;11604
+Alkmaar;1993;20 tot 30 jaar;15998
+Alkmaar;1993;30 tot 40 jaar;16043
+Alkmaar;1993;40 tot 50 jaar;13775
+Alkmaar;1993;50 tot 60 jaar;8083
+Alkmaar;1993;60 tot 70 jaar;7073
+Alkmaar;1993;70 tot 80 jaar;5126
+Alkmaar;1993;80 tot 90 jaar;2091
+Alkmaar;1993;90 jaar of ouder;269
+Alkmaar;1994;Jonger dan 10 jaar;12349
+Alkmaar;1994;10 tot 20 jaar;11629
+Alkmaar;1994;20 tot 30 jaar;15698
+Alkmaar;1994;30 tot 40 jaar;16032
+Alkmaar;1994;40 tot 50 jaar;14286
+Alkmaar;1994;50 tot 60 jaar;8308
+Alkmaar;1994;60 tot 70 jaar;6984
+Alkmaar;1994;70 tot 80 jaar;5274
+Alkmaar;1994;80 tot 90 jaar;2133
+Alkmaar;1994;90 jaar of ouder;269
+Alkmaar;1995;Jonger dan 10 jaar;12209
+Alkmaar;1995;10 tot 20 jaar;11679
+Alkmaar;1995;20 tot 30 jaar;15163
+Alkmaar;1995;30 tot 40 jaar;15959
+Alkmaar;1995;40 tot 50 jaar;14481
+Alkmaar;1995;50 tot 60 jaar;8683
+Alkmaar;1995;60 tot 70 jaar;6924
+Alkmaar;1995;70 tot 80 jaar;5378
+Alkmaar;1995;80 tot 90 jaar;2245
+Alkmaar;1995;90 jaar of ouder;290
+Alkmaar;1996;Jonger dan 10 jaar;12026
+Alkmaar;1996;10 tot 20 jaar;11655
+Alkmaar;1996;20 tot 30 jaar;14749
+Alkmaar;1996;30 tot 40 jaar;15717
+Alkmaar;1996;40 tot 50 jaar;14959
+Alkmaar;1996;50 tot 60 jaar;8973
+Alkmaar;1996;60 tot 70 jaar;6912
+Alkmaar;1996;70 tot 80 jaar;5445
+Alkmaar;1996;80 tot 90 jaar;2315
+Alkmaar;1996;90 jaar of ouder;301
+Alkmaar;1997;Jonger dan 10 jaar;11771
+Alkmaar;1997;10 tot 20 jaar;11635
+Alkmaar;1997;20 tot 30 jaar;14482
+Alkmaar;1997;30 tot 40 jaar;15563
+Alkmaar;1997;40 tot 50 jaar;14807
+Alkmaar;1997;50 tot 60 jaar;9660
+Alkmaar;1997;60 tot 70 jaar;6883
+Alkmaar;1997;70 tot 80 jaar;5530
+Alkmaar;1997;80 tot 90 jaar;2360
+Alkmaar;1997;90 jaar of ouder;313
+Alkmaar;1998;Jonger dan 10 jaar;11408
+Alkmaar;1998;10 tot 20 jaar;11730
+Alkmaar;1998;20 tot 30 jaar;14228
+Alkmaar;1998;30 tot 40 jaar;15329
+Alkmaar;1998;40 tot 50 jaar;14736
+Alkmaar;1998;50 tot 60 jaar;10323
+Alkmaar;1998;60 tot 70 jaar;6910
+Alkmaar;1998;70 tot 80 jaar;5599
+Alkmaar;1998;80 tot 90 jaar;2388
+Alkmaar;1998;90 jaar of ouder;309
+Alkmaar;1999;Jonger dan 10 jaar;11196
+Alkmaar;1999;10 tot 20 jaar;11746
+Alkmaar;1999;20 tot 30 jaar;14007
+Alkmaar;1999;30 tot 40 jaar;15238
+Alkmaar;1999;40 tot 50 jaar;14536
+Alkmaar;1999;50 tot 60 jaar;10866
+Alkmaar;1999;60 tot 70 jaar;6838
+Alkmaar;1999;70 tot 80 jaar;5725
+Alkmaar;1999;80 tot 90 jaar;2421
+Alkmaar;1999;90 jaar of ouder;329
+Alkmaar;2000;Jonger dan 10 jaar;11024
+Alkmaar;2000;10 tot 20 jaar;11719
+Alkmaar;2000;20 tot 30 jaar;13532
+Alkmaar;2000;30 tot 40 jaar;15214
+Alkmaar;2000;40 tot 50 jaar;14532
+Alkmaar;2000;50 tot 60 jaar;11356
+Alkmaar;2000;60 tot 70 jaar;6914
+Alkmaar;2000;70 tot 80 jaar;5770
+Alkmaar;2000;80 tot 90 jaar;2438
+Alkmaar;2000;90 jaar of ouder;337
+Alkmaar;2001;Jonger dan 10 jaar;10995
+Alkmaar;2001;10 tot 20 jaar;11687
+Alkmaar;2001;20 tot 30 jaar;13154
+Alkmaar;2001;30 tot 40 jaar;15248
+Alkmaar;2001;40 tot 50 jaar;14602
+Alkmaar;2001;50 tot 60 jaar;11757
+Alkmaar;2001;60 tot 70 jaar;6955
+Alkmaar;2001;70 tot 80 jaar;5770
+Alkmaar;2001;80 tot 90 jaar;2501
+Alkmaar;2001;90 jaar of ouder;353
+Alkmaar;2002;Jonger dan 10 jaar;10857
+Alkmaar;2002;10 tot 20 jaar;11606
+Alkmaar;2002;20 tot 30 jaar;12951
+Alkmaar;2002;30 tot 40 jaar;15179
+Alkmaar;2002;40 tot 50 jaar;14490
+Alkmaar;2002;50 tot 60 jaar;12207
+Alkmaar;2002;60 tot 70 jaar;7008
+Alkmaar;2002;70 tot 80 jaar;5706
+Alkmaar;2002;80 tot 90 jaar;2611
+Alkmaar;2002;90 jaar of ouder;377
+Alkmaar;2003;Jonger dan 10 jaar;10761
+Alkmaar;2003;10 tot 20 jaar;11577
+Alkmaar;2003;20 tot 30 jaar;12808
+Alkmaar;2003;30 tot 40 jaar;15284
+Alkmaar;2003;40 tot 50 jaar;14463
+Alkmaar;2003;50 tot 60 jaar;12571
+Alkmaar;2003;60 tot 70 jaar;7247
+Alkmaar;2003;70 tot 80 jaar;5620
+Alkmaar;2003;80 tot 90 jaar;2688
+Alkmaar;2003;90 jaar of ouder;371
+Alkmaar;2004;Jonger dan 10 jaar;10856
+Alkmaar;2004;10 tot 20 jaar;11456
+Alkmaar;2004;20 tot 30 jaar;12823
+Alkmaar;2004;30 tot 40 jaar;15262
+Alkmaar;2004;40 tot 50 jaar;14496
+Alkmaar;2004;50 tot 60 jaar;13032
+Alkmaar;2004;60 tot 70 jaar;7475
+Alkmaar;2004;70 tot 80 jaar;5538
+Alkmaar;2004;80 tot 90 jaar;2801
+Alkmaar;2004;90 jaar of ouder;382
+Alkmaar;2005;Jonger dan 10 jaar;10832
+Alkmaar;2005;10 tot 20 jaar;11327
+Alkmaar;2005;20 tot 30 jaar;12875
+Alkmaar;2005;30 tot 40 jaar;14945
+Alkmaar;2005;40 tot 50 jaar;14370
+Alkmaar;2005;50 tot 60 jaar;13258
+Alkmaar;2005;60 tot 70 jaar;7848
+Alkmaar;2005;70 tot 80 jaar;5522
+Alkmaar;2005;80 tot 90 jaar;2894
+Alkmaar;2005;90 jaar of ouder;395
+Alkmaar;2006;Jonger dan 10 jaar;10739
+Alkmaar;2006;10 tot 20 jaar;11228
+Alkmaar;2006;20 tot 30 jaar;12884
+Alkmaar;2006;30 tot 40 jaar;14715
+Alkmaar;2006;40 tot 50 jaar;14207
+Alkmaar;2006;50 tot 60 jaar;13696
+Alkmaar;2006;60 tot 70 jaar;8098
+Alkmaar;2006;70 tot 80 jaar;5553
+Alkmaar;2006;80 tot 90 jaar;2949
+Alkmaar;2006;90 jaar of ouder;386
+Alkmaar;2007;Jonger dan 10 jaar;10715
+Alkmaar;2007;10 tot 20 jaar;10900
+Alkmaar;2007;20 tot 30 jaar;12677
+Alkmaar;2007;30 tot 40 jaar;14532
+Alkmaar;2007;40 tot 50 jaar;14069
+Alkmaar;2007;50 tot 60 jaar;13578
+Alkmaar;2007;60 tot 70 jaar;8653
+Alkmaar;2007;70 tot 80 jaar;5596
+Alkmaar;2007;80 tot 90 jaar;3045
+Alkmaar;2007;90 jaar of ouder;409
+Alkmaar;2008;Jonger dan 10 jaar;10596
+Alkmaar;2008;10 tot 20 jaar;10671
+Alkmaar;2008;20 tot 30 jaar;12574
+Alkmaar;2008;30 tot 40 jaar;14230
+Alkmaar;2008;40 tot 50 jaar;14008
+Alkmaar;2008;50 tot 60 jaar;13468
+Alkmaar;2008;60 tot 70 jaar;9214
+Alkmaar;2008;70 tot 80 jaar;5584
+Alkmaar;2008;80 tot 90 jaar;3120
+Alkmaar;2008;90 jaar of ouder;411
+Alkmaar;2009;Jonger dan 10 jaar;10440
+Alkmaar;2009;10 tot 20 jaar;10493
+Alkmaar;2009;20 tot 30 jaar;12456
+Alkmaar;2009;30 tot 40 jaar;13861
+Alkmaar;2009;40 tot 50 jaar;13974
+Alkmaar;2009;50 tot 60 jaar;13330
+Alkmaar;2009;60 tot 70 jaar;9715
+Alkmaar;2009;70 tot 80 jaar;5583
+Alkmaar;2009;80 tot 90 jaar;3143
+Alkmaar;2009;90 jaar of ouder;421
+Alkmaar;2010;Jonger dan 10 jaar;10464
+Alkmaar;2010;10 tot 20 jaar;10396
+Alkmaar;2010;20 tot 30 jaar;12450
+Alkmaar;2010;30 tot 40 jaar;13561
+Alkmaar;2010;40 tot 50 jaar;14030
+Alkmaar;2010;50 tot 60 jaar;13436
+Alkmaar;2010;60 tot 70 jaar;10196
+Alkmaar;2010;70 tot 80 jaar;5674
+Alkmaar;2010;80 tot 90 jaar;3205
+Alkmaar;2010;90 jaar of ouder;449
+Alkmaar;2011;Jonger dan 10 jaar;10341
+Alkmaar;2011;10 tot 20 jaar;10352
+Alkmaar;2011;20 tot 30 jaar;12215
+Alkmaar;2011;30 tot 40 jaar;13297
+Alkmaar;2011;40 tot 50 jaar;14064
+Alkmaar;2011;50 tot 60 jaar;13535
+Alkmaar;2011;60 tot 70 jaar;10559
+Alkmaar;2011;70 tot 80 jaar;5821
+Alkmaar;2011;80 tot 90 jaar;3251
+Alkmaar;2011;90 jaar of ouder;501
+Alkmaar;2012;Jonger dan 10 jaar;10358
+Alkmaar;2012;10 tot 20 jaar;10200
+Alkmaar;2012;20 tot 30 jaar;12270
+Alkmaar;2012;30 tot 40 jaar;13174
+Alkmaar;2012;40 tot 50 jaar;14068
+Alkmaar;2012;50 tot 60 jaar;13510
+Alkmaar;2012;60 tot 70 jaar;10989
+Alkmaar;2012;70 tot 80 jaar;5864
+Alkmaar;2012;80 tot 90 jaar;3293
+Alkmaar;2012;90 jaar of ouder;543
+Alkmaar;2013;Jonger dan 10 jaar;10348
+Alkmaar;2013;10 tot 20 jaar;10130
+Alkmaar;2013;20 tot 30 jaar;12177
+Alkmaar;2013;30 tot 40 jaar;12928
+Alkmaar;2013;40 tot 50 jaar;14072
+Alkmaar;2013;50 tot 60 jaar;13553
+Alkmaar;2013;60 tot 70 jaar;11340
+Alkmaar;2013;70 tot 80 jaar;6059
+Alkmaar;2013;80 tot 90 jaar;3303
+Alkmaar;2013;90 jaar of ouder;595
+Alkmaar;2014;Jonger dan 10 jaar;10326
+Alkmaar;2014;10 tot 20 jaar;10108
+Alkmaar;2014;20 tot 30 jaar;12092
+Alkmaar;2014;30 tot 40 jaar;12825
+Alkmaar;2014;40 tot 50 jaar;14005
+Alkmaar;2014;50 tot 60 jaar;13636
+Alkmaar;2014;60 tot 70 jaar;11691
+Alkmaar;2014;70 tot 80 jaar;6243
+Alkmaar;2014;80 tot 90 jaar;3305
+Alkmaar;2014;90 jaar of ouder;635
+Almelo;1988;Jonger dan 10 jaar;7940
+Almelo;1988;10 tot 20 jaar;9318
+Almelo;1988;20 tot 30 jaar;9872
+Almelo;1988;30 tot 40 jaar;9119
+Almelo;1988;40 tot 50 jaar;8024
+Almelo;1988;50 tot 60 jaar;6791
+Almelo;1988;60 tot 70 jaar;5598
+Almelo;1988;70 tot 80 jaar;3699
+Almelo;1988;80 tot 90 jaar;1596
+Almelo;1988;90 jaar of ouder;177
+Almelo;1989;Jonger dan 10 jaar;7754
+Almelo;1989;10 tot 20 jaar;9197
+Almelo;1989;20 tot 30 jaar;9945
+Almelo;1989;30 tot 40 jaar;8927
+Almelo;1989;40 tot 50 jaar;8264
+Almelo;1989;50 tot 60 jaar;6670
+Almelo;1989;60 tot 70 jaar;5770
+Almelo;1989;70 tot 80 jaar;3653
+Almelo;1989;80 tot 90 jaar;1620
+Almelo;1989;90 jaar of ouder;208
+Almelo;1990;Jonger dan 10 jaar;7928
+Almelo;1990;10 tot 20 jaar;9076
+Almelo;1990;20 tot 30 jaar;9988
+Almelo;1990;30 tot 40 jaar;8897
+Almelo;1990;40 tot 50 jaar;8440
+Almelo;1990;50 tot 60 jaar;6623
+Almelo;1990;60 tot 70 jaar;5836
+Almelo;1990;70 tot 80 jaar;3582
+Almelo;1990;80 tot 90 jaar;1596
+Almelo;1990;90 jaar of ouder;224
+Almelo;1991;Jonger dan 10 jaar;7883
+Almelo;1991;10 tot 20 jaar;8864
+Almelo;1991;20 tot 30 jaar;10219
+Almelo;1991;30 tot 40 jaar;8952
+Almelo;1991;40 tot 50 jaar;8650
+Almelo;1991;50 tot 60 jaar;6707
+Almelo;1991;60 tot 70 jaar;5903
+Almelo;1991;70 tot 80 jaar;3646
+Almelo;1991;80 tot 90 jaar;1628
+Almelo;1991;90 jaar of ouder;216
+Almelo;1992;Jonger dan 10 jaar;7900
+Almelo;1992;10 tot 20 jaar;8726
+Almelo;1992;20 tot 30 jaar;10491
+Almelo;1992;30 tot 40 jaar;9120
+Almelo;1992;40 tot 50 jaar;8920
+Almelo;1992;50 tot 60 jaar;6652
+Almelo;1992;60 tot 70 jaar;5973
+Almelo;1992;70 tot 80 jaar;3715
+Almelo;1992;80 tot 90 jaar;1641
+Almelo;1992;90 jaar of ouder;245
+Almelo;1993;Jonger dan 10 jaar;7917
+Almelo;1993;10 tot 20 jaar;8643
+Almelo;1993;20 tot 30 jaar;10595
+Almelo;1993;30 tot 40 jaar;9223
+Almelo;1993;40 tot 50 jaar;9180
+Almelo;1993;50 tot 60 jaar;6670
+Almelo;1993;60 tot 70 jaar;5988
+Almelo;1993;70 tot 80 jaar;3858
+Almelo;1993;80 tot 90 jaar;1671
+Almelo;1993;90 jaar of ouder;243
+Almelo;1994;Jonger dan 10 jaar;8047
+Almelo;1994;10 tot 20 jaar;8494
+Almelo;1994;20 tot 30 jaar;10652
+Almelo;1994;30 tot 40 jaar;9435
+Almelo;1994;40 tot 50 jaar;9291
+Almelo;1994;50 tot 60 jaar;6803
+Almelo;1994;60 tot 70 jaar;5969
+Almelo;1994;70 tot 80 jaar;4003
+Almelo;1994;80 tot 90 jaar;1660
+Almelo;1994;90 jaar of ouder;235
+Almelo;1995;Jonger dan 10 jaar;8103
+Almelo;1995;10 tot 20 jaar;8429
+Almelo;1995;20 tot 30 jaar;10531
+Almelo;1995;30 tot 40 jaar;9656
+Almelo;1995;40 tot 50 jaar;9326
+Almelo;1995;50 tot 60 jaar;6993
+Almelo;1995;60 tot 70 jaar;5975
+Almelo;1995;70 tot 80 jaar;4013
+Almelo;1995;80 tot 90 jaar;1757
+Almelo;1995;90 jaar of ouder;236
+Almelo;1996;Jonger dan 10 jaar;8150
+Almelo;1996;10 tot 20 jaar;8338
+Almelo;1996;20 tot 30 jaar;10264
+Almelo;1996;30 tot 40 jaar;9905
+Almelo;1996;40 tot 50 jaar;9422
+Almelo;1996;50 tot 60 jaar;7103
+Almelo;1996;60 tot 70 jaar;5925
+Almelo;1996;70 tot 80 jaar;4147
+Almelo;1996;80 tot 90 jaar;1725
+Almelo;1996;90 jaar of ouder;232
+Almelo;1997;Jonger dan 10 jaar;8139
+Almelo;1997;10 tot 20 jaar;8311
+Almelo;1997;20 tot 30 jaar;9955
+Almelo;1997;30 tot 40 jaar;10009
+Almelo;1997;40 tot 50 jaar;9291
+Almelo;1997;50 tot 60 jaar;7444
+Almelo;1997;60 tot 70 jaar;5939
+Almelo;1997;70 tot 80 jaar;4213
+Almelo;1997;80 tot 90 jaar;1689
+Almelo;1997;90 jaar of ouder;227
+Almelo;1998;Jonger dan 10 jaar;8172
+Almelo;1998;10 tot 20 jaar;8357
+Almelo;1998;20 tot 30 jaar;9668
+Almelo;1998;30 tot 40 jaar;10253
+Almelo;1998;40 tot 50 jaar;9210
+Almelo;1998;50 tot 60 jaar;7804
+Almelo;1998;60 tot 70 jaar;5956
+Almelo;1998;70 tot 80 jaar;4243
+Almelo;1998;80 tot 90 jaar;1726
+Almelo;1998;90 jaar of ouder;243
+Almelo;1999;Jonger dan 10 jaar;8331
+Almelo;1999;10 tot 20 jaar;8259
+Almelo;1999;20 tot 30 jaar;9451
+Almelo;1999;30 tot 40 jaar;10410
+Almelo;1999;40 tot 50 jaar;9123
+Almelo;1999;50 tot 60 jaar;8140
+Almelo;1999;60 tot 70 jaar;5964
+Almelo;1999;70 tot 80 jaar;4416
+Almelo;1999;80 tot 90 jaar;1708
+Almelo;1999;90 jaar of ouder;278
+Almelo;2000;Jonger dan 10 jaar;8349
+Almelo;2000;10 tot 20 jaar;8244
+Almelo;2000;20 tot 30 jaar;9117
+Almelo;2000;30 tot 40 jaar;10557
+Almelo;2000;40 tot 50 jaar;9127
+Almelo;2000;50 tot 60 jaar;8339
+Almelo;2000;60 tot 70 jaar;6036
+Almelo;2000;70 tot 80 jaar;4507
+Almelo;2000;80 tot 90 jaar;1708
+Almelo;2000;90 jaar of ouder;279
+Almelo;2001;Jonger dan 10 jaar;8903
+Almelo;2001;10 tot 20 jaar;8762
+Almelo;2001;20 tot 30 jaar;9318
+Almelo;2001;30 tot 40 jaar;11283
+Almelo;2001;40 tot 50 jaar;9776
+Almelo;2001;50 tot 60 jaar;9005
+Almelo;2001;60 tot 70 jaar;6466
+Almelo;2001;70 tot 80 jaar;4715
+Almelo;2001;80 tot 90 jaar;1885
+Almelo;2001;90 jaar of ouder;303
+Almelo;2002;Jonger dan 10 jaar;9008
+Almelo;2002;10 tot 20 jaar;8869
+Almelo;2002;20 tot 30 jaar;9179
+Almelo;2002;30 tot 40 jaar;11418
+Almelo;2002;40 tot 50 jaar;9890
+Almelo;2002;50 tot 60 jaar;9254
+Almelo;2002;60 tot 70 jaar;6447
+Almelo;2002;70 tot 80 jaar;4760
+Almelo;2002;80 tot 90 jaar;1912
+Almelo;2002;90 jaar of ouder;289
+Almelo;2003;Jonger dan 10 jaar;9236
+Almelo;2003;10 tot 20 jaar;8924
+Almelo;2003;20 tot 30 jaar;9048
+Almelo;2003;30 tot 40 jaar;11478
+Almelo;2003;40 tot 50 jaar;10019
+Almelo;2003;50 tot 60 jaar;9499
+Almelo;2003;60 tot 70 jaar;6476
+Almelo;2003;70 tot 80 jaar;4772
+Almelo;2003;80 tot 90 jaar;2000
+Almelo;2003;90 jaar of ouder;277
+Almelo;2004;Jonger dan 10 jaar;9312
+Almelo;2004;10 tot 20 jaar;8923
+Almelo;2004;20 tot 30 jaar;8926
+Almelo;2004;30 tot 40 jaar;11413
+Almelo;2004;40 tot 50 jaar;10246
+Almelo;2004;50 tot 60 jaar;9634
+Almelo;2004;60 tot 70 jaar;6675
+Almelo;2004;70 tot 80 jaar;4745
+Almelo;2004;80 tot 90 jaar;2078
+Almelo;2004;90 jaar of ouder;275
+Almelo;2005;Jonger dan 10 jaar;9289
+Almelo;2005;10 tot 20 jaar;8933
+Almelo;2005;20 tot 30 jaar;8835
+Almelo;2005;30 tot 40 jaar;11158
+Almelo;2005;40 tot 50 jaar;10438
+Almelo;2005;50 tot 60 jaar;9580
+Almelo;2005;60 tot 70 jaar;6891
+Almelo;2005;70 tot 80 jaar;4757
+Almelo;2005;80 tot 90 jaar;2097
+Almelo;2005;90 jaar of ouder;315
+Almelo;2006;Jonger dan 10 jaar;9236
+Almelo;2006;10 tot 20 jaar;8836
+Almelo;2006;20 tot 30 jaar;8625
+Almelo;2006;30 tot 40 jaar;10897
+Almelo;2006;40 tot 50 jaar;10548
+Almelo;2006;50 tot 60 jaar;9666
+Almelo;2006;60 tot 70 jaar;6980
+Almelo;2006;70 tot 80 jaar;4772
+Almelo;2006;80 tot 90 jaar;2193
+Almelo;2006;90 jaar of ouder;295
+Almelo;2007;Jonger dan 10 jaar;9292
+Almelo;2007;10 tot 20 jaar;8690
+Almelo;2007;20 tot 30 jaar;8622
+Almelo;2007;30 tot 40 jaar;10630
+Almelo;2007;40 tot 50 jaar;10627
+Almelo;2007;50 tot 60 jaar;9528
+Almelo;2007;60 tot 70 jaar;7313
+Almelo;2007;70 tot 80 jaar;4843
+Almelo;2007;80 tot 90 jaar;2241
+Almelo;2007;90 jaar of ouder;310
+Almelo;2008;Jonger dan 10 jaar;9282
+Almelo;2008;10 tot 20 jaar;8661
+Almelo;2008;20 tot 30 jaar;8652
+Almelo;2008;30 tot 40 jaar;10334
+Almelo;2008;40 tot 50 jaar;10769
+Almelo;2008;50 tot 60 jaar;9446
+Almelo;2008;60 tot 70 jaar;7663
+Almelo;2008;70 tot 80 jaar;4893
+Almelo;2008;80 tot 90 jaar;2279
+Almelo;2008;90 jaar of ouder;308
+Almelo;2009;Jonger dan 10 jaar;9142
+Almelo;2009;10 tot 20 jaar;8821
+Almelo;2009;20 tot 30 jaar;8560
+Almelo;2009;30 tot 40 jaar;10070
+Almelo;2009;40 tot 50 jaar;10920
+Almelo;2009;50 tot 60 jaar;9394
+Almelo;2009;60 tot 70 jaar;7939
+Almelo;2009;70 tot 80 jaar;4925
+Almelo;2009;80 tot 90 jaar;2346
+Almelo;2009;90 jaar of ouder;311
+Almelo;2010;Jonger dan 10 jaar;9056
+Almelo;2010;10 tot 20 jaar;8866
+Almelo;2010;20 tot 30 jaar;8504
+Almelo;2010;30 tot 40 jaar;9868
+Almelo;2010;40 tot 50 jaar;11030
+Almelo;2010;50 tot 60 jaar;9431
+Almelo;2010;60 tot 70 jaar;8089
+Almelo;2010;70 tot 80 jaar;5054
+Almelo;2010;80 tot 90 jaar;2373
+Almelo;2010;90 jaar of ouder;331
+Almelo;2011;Jonger dan 10 jaar;8911
+Almelo;2011;10 tot 20 jaar;8901
+Almelo;2011;20 tot 30 jaar;8437
+Almelo;2011;30 tot 40 jaar;9540
+Almelo;2011;40 tot 50 jaar;11101
+Almelo;2011;50 tot 60 jaar;9489
+Almelo;2011;60 tot 70 jaar;8261
+Almelo;2011;70 tot 80 jaar;5181
+Almelo;2011;80 tot 90 jaar;2402
+Almelo;2011;90 jaar of ouder;376
+Almelo;2012;Jonger dan 10 jaar;8752
+Almelo;2012;10 tot 20 jaar;8974
+Almelo;2012;20 tot 30 jaar;8397
+Almelo;2012;30 tot 40 jaar;9269
+Almelo;2012;40 tot 50 jaar;11191
+Almelo;2012;50 tot 60 jaar;9591
+Almelo;2012;60 tot 70 jaar;8511
+Almelo;2012;70 tot 80 jaar;5184
+Almelo;2012;80 tot 90 jaar;2502
+Almelo;2012;90 jaar of ouder;386
+Almelo;2013;Jonger dan 10 jaar;8486
+Almelo;2013;10 tot 20 jaar;9055
+Almelo;2013;20 tot 30 jaar;8301
+Almelo;2013;30 tot 40 jaar;9064
+Almelo;2013;40 tot 50 jaar;11161
+Almelo;2013;50 tot 60 jaar;9740
+Almelo;2013;60 tot 70 jaar;8700
+Almelo;2013;70 tot 80 jaar;5224
+Almelo;2013;80 tot 90 jaar;2598
+Almelo;2013;90 jaar of ouder;400
+Almelo;2014;Jonger dan 10 jaar;8256
+Almelo;2014;10 tot 20 jaar;9002
+Almelo;2014;20 tot 30 jaar;8210
+Almelo;2014;30 tot 40 jaar;8827
+Almelo;2014;40 tot 50 jaar;11043
+Almelo;2014;50 tot 60 jaar;9906
+Almelo;2014;60 tot 70 jaar;8801
+Almelo;2014;70 tot 80 jaar;5363
+Almelo;2014;80 tot 90 jaar;2626
+Almelo;2014;90 jaar of ouder;425
+Almere;1988;Jonger dan 10 jaar;11377
+Almere;1988;10 tot 20 jaar;6803
+Almere;1988;20 tot 30 jaar;10091
+Almere;1988;30 tot 40 jaar;13857
+Almere;1988;40 tot 50 jaar;6040
+Almere;1988;50 tot 60 jaar;3545
+Almere;1988;60 tot 70 jaar;3631
+Almere;1988;70 tot 80 jaar;1568
+Almere;1988;80 tot 90 jaar;269
+Almere;1988;90 jaar of ouder;14
+Almere;1989;Jonger dan 10 jaar;12591
+Almere;1989;10 tot 20 jaar;7560
+Almere;1989;20 tot 30 jaar;10801
+Almere;1989;30 tot 40 jaar;15461
+Almere;1989;40 tot 50 jaar;7121
+Almere;1989;50 tot 60 jaar;3877
+Almere;1989;60 tot 70 jaar;4100
+Almere;1989;70 tot 80 jaar;1871
+Almere;1989;80 tot 90 jaar;380
+Almere;1989;90 jaar of ouder;23
+Almere;1990;Jonger dan 10 jaar;13768
+Almere;1990;10 tot 20 jaar;8449
+Almere;1990;20 tot 30 jaar;11797
+Almere;1990;30 tot 40 jaar;17123
+Almere;1990;40 tot 50 jaar;8355
+Almere;1990;50 tot 60 jaar;4216
+Almere;1990;60 tot 70 jaar;4711
+Almere;1990;70 tot 80 jaar;2149
+Almere;1990;80 tot 90 jaar;481
+Almere;1990;90 jaar of ouder;37
+Almere;1991;Jonger dan 10 jaar;14986
+Almere;1991;10 tot 20 jaar;9380
+Almere;1991;20 tot 30 jaar;12476
+Almere;1991;30 tot 40 jaar;18772
+Almere;1991;40 tot 50 jaar;9682
+Almere;1991;50 tot 60 jaar;4561
+Almere;1991;60 tot 70 jaar;5132
+Almere;1991;70 tot 80 jaar;2483
+Almere;1991;80 tot 90 jaar;575
+Almere;1991;90 jaar of ouder;53
+Almere;1992;Jonger dan 10 jaar;16145
+Almere;1992;10 tot 20 jaar;10365
+Almere;1992;20 tot 30 jaar;12800
+Almere;1992;30 tot 40 jaar;20420
+Almere;1992;40 tot 50 jaar;11217
+Almere;1992;50 tot 60 jaar;4872
+Almere;1992;60 tot 70 jaar;5483
+Almere;1992;70 tot 80 jaar;2879
+Almere;1992;80 tot 90 jaar;687
+Almere;1992;90 jaar of ouder;41
+Almere;1993;Jonger dan 10 jaar;17195
+Almere;1993;10 tot 20 jaar;11343
+Almere;1993;20 tot 30 jaar;13358
+Almere;1993;30 tot 40 jaar;21892
+Almere;1993;40 tot 50 jaar;12806
+Almere;1993;50 tot 60 jaar;5319
+Almere;1993;60 tot 70 jaar;5772
+Almere;1993;70 tot 80 jaar;3201
+Almere;1993;80 tot 90 jaar;751
+Almere;1993;90 jaar of ouder;52
+Almere;1994;Jonger dan 10 jaar;18202
+Almere;1994;10 tot 20 jaar;12439
+Almere;1994;20 tot 30 jaar;13728
+Almere;1994;30 tot 40 jaar;23204
+Almere;1994;40 tot 50 jaar;14550
+Almere;1994;50 tot 60 jaar;5847
+Almere;1994;60 tot 70 jaar;5918
+Almere;1994;70 tot 80 jaar;3628
+Almere;1994;80 tot 90 jaar;871
+Almere;1994;90 jaar of ouder;57
+Almere;1995;Jonger dan 10 jaar;18968
+Almere;1995;10 tot 20 jaar;13496
+Almere;1995;20 tot 30 jaar;14026
+Almere;1995;30 tot 40 jaar;24269
+Almere;1995;40 tot 50 jaar;16180
+Almere;1995;50 tot 60 jaar;6579
+Almere;1995;60 tot 70 jaar;6102
+Almere;1995;70 tot 80 jaar;3874
+Almere;1995;80 tot 90 jaar;983
+Almere;1995;90 jaar of ouder;64
+Almere;1996;Jonger dan 10 jaar;20108
+Almere;1996;10 tot 20 jaar;14769
+Almere;1996;20 tot 30 jaar;14851
+Almere;1996;30 tot 40 jaar;25828
+Almere;1996;40 tot 50 jaar;18118
+Almere;1996;50 tot 60 jaar;7237
+Almere;1996;60 tot 70 jaar;6356
+Almere;1996;70 tot 80 jaar;4247
+Almere;1996;80 tot 90 jaar;1102
+Almere;1996;90 jaar of ouder;88
+Almere;1997;Jonger dan 10 jaar;20939
+Almere;1997;10 tot 20 jaar;15883
+Almere;1997;20 tot 30 jaar;15454
+Almere;1997;30 tot 40 jaar;26483
+Almere;1997;40 tot 50 jaar;19407
+Almere;1997;50 tot 60 jaar;8349
+Almere;1997;60 tot 70 jaar;6525
+Almere;1997;70 tot 80 jaar;4585
+Almere;1997;80 tot 90 jaar;1196
+Almere;1997;90 jaar of ouder;92
+Almere;1998;Jonger dan 10 jaar;21868
+Almere;1998;10 tot 20 jaar;17169
+Almere;1998;20 tot 30 jaar;16559
+Almere;1998;30 tot 40 jaar;27541
+Almere;1998;40 tot 50 jaar;20979
+Almere;1998;50 tot 60 jaar;9626
+Almere;1998;60 tot 70 jaar;6645
+Almere;1998;70 tot 80 jaar;4927
+Almere;1998;80 tot 90 jaar;1308
+Almere;1998;90 jaar of ouder;98
+Almere;1999;Jonger dan 10 jaar;23226
+Almere;1999;10 tot 20 jaar;18578
+Almere;1999;20 tot 30 jaar;18089
+Almere;1999;30 tot 40 jaar;28996
+Almere;1999;40 tot 50 jaar;22739
+Almere;1999;50 tot 60 jaar;10958
+Almere;1999;60 tot 70 jaar;6849
+Almere;1999;70 tot 80 jaar;5240
+Almere;1999;80 tot 90 jaar;1362
+Almere;1999;90 jaar of ouder;120
+Almere;2000;Jonger dan 10 jaar;24091
+Almere;2000;10 tot 20 jaar;19839
+Almere;2000;20 tot 30 jaar;18381
+Almere;2000;30 tot 40 jaar;29752
+Almere;2000;40 tot 50 jaar;24393
+Almere;2000;50 tot 60 jaar;12212
+Almere;2000;60 tot 70 jaar;7003
+Almere;2000;70 tot 80 jaar;5506
+Almere;2000;80 tot 90 jaar;1460
+Almere;2000;90 jaar of ouder;128
+Almere;2001;Jonger dan 10 jaar;24974
+Almere;2001;10 tot 20 jaar;21134
+Almere;2001;20 tot 30 jaar;19245
+Almere;2001;30 tot 40 jaar;30770
+Almere;2001;40 tot 50 jaar;26098
+Almere;2001;50 tot 60 jaar;13468
+Almere;2001;60 tot 70 jaar;7208
+Almere;2001;70 tot 80 jaar;5723
+Almere;2001;80 tot 90 jaar;1645
+Almere;2001;90 jaar of ouder;133
+Almere;2002;Jonger dan 10 jaar;26037
+Almere;2002;10 tot 20 jaar;22697
+Almere;2002;20 tot 30 jaar;20348
+Almere;2002;30 tot 40 jaar;31813
+Almere;2002;40 tot 50 jaar;27868
+Almere;2002;50 tot 60 jaar;14866
+Almere;2002;60 tot 70 jaar;7360
+Almere;2002;70 tot 80 jaar;5946
+Almere;2002;80 tot 90 jaar;1813
+Almere;2002;90 jaar of ouder;154
+Almere;2003;Jonger dan 10 jaar;26714
+Almere;2003;10 tot 20 jaar;23945
+Almere;2003;20 tot 30 jaar;21006
+Almere;2003;30 tot 40 jaar;31962
+Almere;2003;40 tot 50 jaar;29415
+Almere;2003;50 tot 60 jaar;16241
+Almere;2003;60 tot 70 jaar;7591
+Almere;2003;70 tot 80 jaar;6083
+Almere;2003;80 tot 90 jaar;1964
+Almere;2003;90 jaar of ouder;185
+Almere;2004;Jonger dan 10 jaar;27427
+Almere;2004;10 tot 20 jaar;24909
+Almere;2004;20 tot 30 jaar;21725
+Almere;2004;30 tot 40 jaar;31721
+Almere;2004;40 tot 50 jaar;30688
+Almere;2004;50 tot 60 jaar;17712
+Almere;2004;60 tot 70 jaar;7977
+Almere;2004;70 tot 80 jaar;6163
+Almere;2004;80 tot 90 jaar;2172
+Almere;2004;90 jaar of ouder;210
+Almere;2005;Jonger dan 10 jaar;27601
+Almere;2005;10 tot 20 jaar;25654
+Almere;2005;20 tot 30 jaar;22523
+Almere;2005;30 tot 40 jaar;31290
+Almere;2005;40 tot 50 jaar;31733
+Almere;2005;50 tot 60 jaar;19030
+Almere;2005;60 tot 70 jaar;8402
+Almere;2005;70 tot 80 jaar;6190
+Almere;2005;80 tot 90 jaar;2370
+Almere;2005;90 jaar of ouder;214
+Almere;2006;Jonger dan 10 jaar;27826
+Almere;2006;10 tot 20 jaar;26061
+Almere;2006;20 tot 30 jaar;23102
+Almere;2006;30 tot 40 jaar;30704
+Almere;2006;40 tot 50 jaar;32459
+Almere;2006;50 tot 60 jaar;20582
+Almere;2006;60 tot 70 jaar;8757
+Almere;2006;70 tot 80 jaar;6200
+Almere;2006;80 tot 90 jaar;2556
+Almere;2006;90 jaar of ouder;219
+Almere;2007;Jonger dan 10 jaar;27746
+Almere;2007;10 tot 20 jaar;26306
+Almere;2007;20 tot 30 jaar;23414
+Almere;2007;30 tot 40 jaar;29958
+Almere;2007;40 tot 50 jaar;32939
+Almere;2007;50 tot 60 jaar;21562
+Almere;2007;60 tot 70 jaar;9847
+Almere;2007;70 tot 80 jaar;6191
+Almere;2007;80 tot 90 jaar;2717
+Almere;2007;90 jaar of ouder;244
+Almere;2008;Jonger dan 10 jaar;27685
+Almere;2008;10 tot 20 jaar;26426
+Almere;2008;20 tot 30 jaar;23757
+Almere;2008;30 tot 40 jaar;29349
+Almere;2008;40 tot 50 jaar;33164
+Almere;2008;50 tot 60 jaar;22651
+Almere;2008;60 tot 70 jaar;10868
+Almere;2008;70 tot 80 jaar;6218
+Almere;2008;80 tot 90 jaar;2893
+Almere;2008;90 jaar of ouder;259
+Almere;2009;Jonger dan 10 jaar;27278
+Almere;2009;10 tot 20 jaar;26749
+Almere;2009;20 tot 30 jaar;24260
+Almere;2009;30 tot 40 jaar;28871
+Almere;2009;40 tot 50 jaar;33317
+Almere;2009;50 tot 60 jaar;23891
+Almere;2009;60 tot 70 jaar;11840
+Almere;2009;70 tot 80 jaar;6255
+Almere;2009;80 tot 90 jaar;3006
+Almere;2009;90 jaar of ouder;279
+Almere;2010;Jonger dan 10 jaar;27085
+Almere;2010;10 tot 20 jaar;27012
+Almere;2010;20 tot 30 jaar;24777
+Almere;2010;30 tot 40 jaar;28181
+Almere;2010;40 tot 50 jaar;33556
+Almere;2010;50 tot 60 jaar;25049
+Almere;2010;60 tot 70 jaar;12778
+Almere;2010;70 tot 80 jaar;6316
+Almere;2010;80 tot 90 jaar;3084
+Almere;2010;90 jaar of ouder;322
+Almere;2011;Jonger dan 10 jaar;26912
+Almere;2011;10 tot 20 jaar;27122
+Almere;2011;20 tot 30 jaar;25200
+Almere;2011;30 tot 40 jaar;27727
+Almere;2011;40 tot 50 jaar;33718
+Almere;2011;50 tot 60 jaar;26383
+Almere;2011;60 tot 70 jaar;13669
+Almere;2011;70 tot 80 jaar;6399
+Almere;2011;80 tot 90 jaar;3161
+Almere;2011;90 jaar of ouder;364
+Almere;2012;Jonger dan 10 jaar;26707
+Almere;2012;10 tot 20 jaar;27205
+Almere;2012;20 tot 30 jaar;25940
+Almere;2012;30 tot 40 jaar;27343
+Almere;2012;40 tot 50 jaar;33453
+Almere;2012;50 tot 60 jaar;27648
+Almere;2012;60 tot 70 jaar;14712
+Almere;2012;70 tot 80 jaar;6449
+Almere;2012;80 tot 90 jaar;3273
+Almere;2012;90 jaar of ouder;433
+Almere;2013;Jonger dan 10 jaar;26424
+Almere;2013;10 tot 20 jaar;27179
+Almere;2013;20 tot 30 jaar;26402
+Almere;2013;30 tot 40 jaar;27114
+Almere;2013;40 tot 50 jaar;33106
+Almere;2013;50 tot 60 jaar;28869
+Almere;2013;60 tot 70 jaar;15724
+Almere;2013;70 tot 80 jaar;6568
+Almere;2013;80 tot 90 jaar;3370
+Almere;2013;90 jaar of ouder;457
+Almere;2014;Jonger dan 10 jaar;25855
+Almere;2014;10 tot 20 jaar;27239
+Almere;2014;20 tot 30 jaar;26186
+Almere;2014;30 tot 40 jaar;27000
+Almere;2014;40 tot 50 jaar;32396
+Almere;2014;50 tot 60 jaar;29753
+Almere;2014;60 tot 70 jaar;16859
+Almere;2014;70 tot 80 jaar;6838
+Almere;2014;80 tot 90 jaar;3380
+Almere;2014;90 jaar of ouder;507
+Alphen aan den Rijn;1988;Jonger dan 10 jaar;8574
+Alphen aan den Rijn;1988;10 tot 20 jaar;9228
+Alphen aan den Rijn;1988;20 tot 30 jaar;9694
+Alphen aan den Rijn;1988;30 tot 40 jaar;10522
+Alphen aan den Rijn;1988;40 tot 50 jaar;8095
+Alphen aan den Rijn;1988;50 tot 60 jaar;5009
+Alphen aan den Rijn;1988;60 tot 70 jaar;3476
+Alphen aan den Rijn;1988;70 tot 80 jaar;2418
+Alphen aan den Rijn;1988;80 tot 90 jaar;1021
+Alphen aan den Rijn;1988;90 jaar of ouder;117
+Alphen aan den Rijn;1989;Jonger dan 10 jaar;8586
+Alphen aan den Rijn;1989;10 tot 20 jaar;9277
+Alphen aan den Rijn;1989;20 tot 30 jaar;10096
+Alphen aan den Rijn;1989;30 tot 40 jaar;10578
+Alphen aan den Rijn;1989;40 tot 50 jaar;8630
+Alphen aan den Rijn;1989;50 tot 60 jaar;5129
+Alphen aan den Rijn;1989;60 tot 70 jaar;3657
+Alphen aan den Rijn;1989;70 tot 80 jaar;2435
+Alphen aan den Rijn;1989;80 tot 90 jaar;1071
+Alphen aan den Rijn;1989;90 jaar of ouder;127
+Alphen aan den Rijn;1990;Jonger dan 10 jaar;8697
+Alphen aan den Rijn;1990;10 tot 20 jaar;9263
+Alphen aan den Rijn;1990;20 tot 30 jaar;10396
+Alphen aan den Rijn;1990;30 tot 40 jaar;10856
+Alphen aan den Rijn;1990;40 tot 50 jaar;9094
+Alphen aan den Rijn;1990;50 tot 60 jaar;5341
+Alphen aan den Rijn;1990;60 tot 70 jaar;3754
+Alphen aan den Rijn;1990;70 tot 80 jaar;2470
+Alphen aan den Rijn;1990;80 tot 90 jaar;1115
+Alphen aan den Rijn;1990;90 jaar of ouder;146
+Alphen aan den Rijn;1991;Jonger dan 10 jaar;8690
+Alphen aan den Rijn;1991;10 tot 20 jaar;9255
+Alphen aan den Rijn;1991;20 tot 30 jaar;10654
+Alphen aan den Rijn;1991;30 tot 40 jaar;11090
+Alphen aan den Rijn;1991;40 tot 50 jaar;9530
+Alphen aan den Rijn;1991;50 tot 60 jaar;5473
+Alphen aan den Rijn;1991;60 tot 70 jaar;3868
+Alphen aan den Rijn;1991;70 tot 80 jaar;2545
+Alphen aan den Rijn;1991;80 tot 90 jaar;1143
+Alphen aan den Rijn;1991;90 jaar of ouder;153
+Alphen aan den Rijn;1992;Jonger dan 10 jaar;8699
+Alphen aan den Rijn;1992;10 tot 20 jaar;9280
+Alphen aan den Rijn;1992;20 tot 30 jaar;10805
+Alphen aan den Rijn;1992;30 tot 40 jaar;11210
+Alphen aan den Rijn;1992;40 tot 50 jaar;9919
+Alphen aan den Rijn;1992;50 tot 60 jaar;5708
+Alphen aan den Rijn;1992;60 tot 70 jaar;3980
+Alphen aan den Rijn;1992;70 tot 80 jaar;2612
+Alphen aan den Rijn;1992;80 tot 90 jaar;1208
+Alphen aan den Rijn;1992;90 jaar of ouder;152
+Alphen aan den Rijn;1993;Jonger dan 10 jaar;8982
+Alphen aan den Rijn;1993;10 tot 20 jaar;9197
+Alphen aan den Rijn;1993;20 tot 30 jaar;10974
+Alphen aan den Rijn;1993;30 tot 40 jaar;11494
+Alphen aan den Rijn;1993;40 tot 50 jaar;10336
+Alphen aan den Rijn;1993;50 tot 60 jaar;5900
+Alphen aan den Rijn;1993;60 tot 70 jaar;4088
+Alphen aan den Rijn;1993;70 tot 80 jaar;2663
+Alphen aan den Rijn;1993;80 tot 90 jaar;1253
+Alphen aan den Rijn;1993;90 jaar of ouder;164
+Alphen aan den Rijn;1994;Jonger dan 10 jaar;9165
+Alphen aan den Rijn;1994;10 tot 20 jaar;9118
+Alphen aan den Rijn;1994;20 tot 30 jaar;10961
+Alphen aan den Rijn;1994;30 tot 40 jaar;11788
+Alphen aan den Rijn;1994;40 tot 50 jaar;10626
+Alphen aan den Rijn;1994;50 tot 60 jaar;6099
+Alphen aan den Rijn;1994;60 tot 70 jaar;4213
+Alphen aan den Rijn;1994;70 tot 80 jaar;2740
+Alphen aan den Rijn;1994;80 tot 90 jaar;1272
+Alphen aan den Rijn;1994;90 jaar of ouder;161
+Alphen aan den Rijn;1995;Jonger dan 10 jaar;9302
+Alphen aan den Rijn;1995;10 tot 20 jaar;9098
+Alphen aan den Rijn;1995;20 tot 30 jaar;10737
+Alphen aan den Rijn;1995;30 tot 40 jaar;12116
+Alphen aan den Rijn;1995;40 tot 50 jaar;10863
+Alphen aan den Rijn;1995;50 tot 60 jaar;6398
+Alphen aan den Rijn;1995;60 tot 70 jaar;4324
+Alphen aan den Rijn;1995;70 tot 80 jaar;2820
+Alphen aan den Rijn;1995;80 tot 90 jaar;1288
+Alphen aan den Rijn;1995;90 jaar of ouder;167
+Alphen aan den Rijn;1996;Jonger dan 10 jaar;9314
+Alphen aan den Rijn;1996;10 tot 20 jaar;9014
+Alphen aan den Rijn;1996;20 tot 30 jaar;10465
+Alphen aan den Rijn;1996;30 tot 40 jaar;12213
+Alphen aan den Rijn;1996;40 tot 50 jaar;11114
+Alphen aan den Rijn;1996;50 tot 60 jaar;6654
+Alphen aan den Rijn;1996;60 tot 70 jaar;4406
+Alphen aan den Rijn;1996;70 tot 80 jaar;2894
+Alphen aan den Rijn;1996;80 tot 90 jaar;1334
+Alphen aan den Rijn;1996;90 jaar of ouder;175
+Alphen aan den Rijn;1997;Jonger dan 10 jaar;9248
+Alphen aan den Rijn;1997;10 tot 20 jaar;9022
+Alphen aan den Rijn;1997;20 tot 30 jaar;10246
+Alphen aan den Rijn;1997;30 tot 40 jaar;12194
+Alphen aan den Rijn;1997;40 tot 50 jaar;10958
+Alphen aan den Rijn;1997;50 tot 60 jaar;7184
+Alphen aan den Rijn;1997;60 tot 70 jaar;4489
+Alphen aan den Rijn;1997;70 tot 80 jaar;2938
+Alphen aan den Rijn;1997;80 tot 90 jaar;1345
+Alphen aan den Rijn;1997;90 jaar of ouder;181
+Alphen aan den Rijn;1998;Jonger dan 10 jaar;9280
+Alphen aan den Rijn;1998;10 tot 20 jaar;9055
+Alphen aan den Rijn;1998;20 tot 30 jaar;10287
+Alphen aan den Rijn;1998;30 tot 40 jaar;12272
+Alphen aan den Rijn;1998;40 tot 50 jaar;10838
+Alphen aan den Rijn;1998;50 tot 60 jaar;7739
+Alphen aan den Rijn;1998;60 tot 70 jaar;4618
+Alphen aan den Rijn;1998;70 tot 80 jaar;3010
+Alphen aan den Rijn;1998;80 tot 90 jaar;1341
+Alphen aan den Rijn;1998;90 jaar of ouder;212
+Alphen aan den Rijn;1999;Jonger dan 10 jaar;9372
+Alphen aan den Rijn;1999;10 tot 20 jaar;8981
+Alphen aan den Rijn;1999;20 tot 30 jaar;10198
+Alphen aan den Rijn;1999;30 tot 40 jaar;12337
+Alphen aan den Rijn;1999;40 tot 50 jaar;10798
+Alphen aan den Rijn;1999;50 tot 60 jaar;8203
+Alphen aan den Rijn;1999;60 tot 70 jaar;4751
+Alphen aan den Rijn;1999;70 tot 80 jaar;3134
+Alphen aan den Rijn;1999;80 tot 90 jaar;1327
+Alphen aan den Rijn;1999;90 jaar of ouder;221
+Alphen aan den Rijn;2000;Jonger dan 10 jaar;9454
+Alphen aan den Rijn;2000;10 tot 20 jaar;8954
+Alphen aan den Rijn;2000;20 tot 30 jaar;10010
+Alphen aan den Rijn;2000;30 tot 40 jaar;12379
+Alphen aan den Rijn;2000;40 tot 50 jaar;10850
+Alphen aan den Rijn;2000;50 tot 60 jaar;8597
+Alphen aan den Rijn;2000;60 tot 70 jaar;4909
+Alphen aan den Rijn;2000;70 tot 80 jaar;3206
+Alphen aan den Rijn;2000;80 tot 90 jaar;1350
+Alphen aan den Rijn;2000;90 jaar of ouder;219
+Alphen aan den Rijn;2001;Jonger dan 10 jaar;9494
+Alphen aan den Rijn;2001;10 tot 20 jaar;8926
+Alphen aan den Rijn;2001;20 tot 30 jaar;9789
+Alphen aan den Rijn;2001;30 tot 40 jaar;12329
+Alphen aan den Rijn;2001;40 tot 50 jaar;10849
+Alphen aan den Rijn;2001;50 tot 60 jaar;8949
+Alphen aan den Rijn;2001;60 tot 70 jaar;4982
+Alphen aan den Rijn;2001;70 tot 80 jaar;3273
+Alphen aan den Rijn;2001;80 tot 90 jaar;1363
+Alphen aan den Rijn;2001;90 jaar of ouder;208
+Alphen aan den Rijn;2002;Jonger dan 10 jaar;9472
+Alphen aan den Rijn;2002;10 tot 20 jaar;8938
+Alphen aan den Rijn;2002;20 tot 30 jaar;9655
+Alphen aan den Rijn;2002;30 tot 40 jaar;12314
+Alphen aan den Rijn;2002;40 tot 50 jaar;10882
+Alphen aan den Rijn;2002;50 tot 60 jaar;9240
+Alphen aan den Rijn;2002;60 tot 70 jaar;5165
+Alphen aan den Rijn;2002;70 tot 80 jaar;3337
+Alphen aan den Rijn;2002;80 tot 90 jaar;1434
+Alphen aan den Rijn;2002;90 jaar of ouder;212
+Alphen aan den Rijn;2003;Jonger dan 10 jaar;9399
+Alphen aan den Rijn;2003;10 tot 20 jaar;8949
+Alphen aan den Rijn;2003;20 tot 30 jaar;9492
+Alphen aan den Rijn;2003;30 tot 40 jaar;12000
+Alphen aan den Rijn;2003;40 tot 50 jaar;10944
+Alphen aan den Rijn;2003;50 tot 60 jaar;9494
+Alphen aan den Rijn;2003;60 tot 70 jaar;5312
+Alphen aan den Rijn;2003;70 tot 80 jaar;3393
+Alphen aan den Rijn;2003;80 tot 90 jaar;1481
+Alphen aan den Rijn;2003;90 jaar of ouder;242
+Alphen aan den Rijn;2004;Jonger dan 10 jaar;9349
+Alphen aan den Rijn;2004;10 tot 20 jaar;8918
+Alphen aan den Rijn;2004;20 tot 30 jaar;9115
+Alphen aan den Rijn;2004;30 tot 40 jaar;11665
+Alphen aan den Rijn;2004;40 tot 50 jaar;11047
+Alphen aan den Rijn;2004;50 tot 60 jaar;9670
+Alphen aan den Rijn;2004;60 tot 70 jaar;5457
+Alphen aan den Rijn;2004;70 tot 80 jaar;3478
+Alphen aan den Rijn;2004;80 tot 90 jaar;1545
+Alphen aan den Rijn;2004;90 jaar of ouder;233
+Alphen aan den Rijn;2005;Jonger dan 10 jaar;9232
+Alphen aan den Rijn;2005;10 tot 20 jaar;8917
+Alphen aan den Rijn;2005;20 tot 30 jaar;8978
+Alphen aan den Rijn;2005;30 tot 40 jaar;11408
+Alphen aan den Rijn;2005;40 tot 50 jaar;11069
+Alphen aan den Rijn;2005;50 tot 60 jaar;9852
+Alphen aan den Rijn;2005;60 tot 70 jaar;5688
+Alphen aan den Rijn;2005;70 tot 80 jaar;3580
+Alphen aan den Rijn;2005;80 tot 90 jaar;1613
+Alphen aan den Rijn;2005;90 jaar of ouder;254
+Alphen aan den Rijn;2006;Jonger dan 10 jaar;9085
+Alphen aan den Rijn;2006;10 tot 20 jaar;8970
+Alphen aan den Rijn;2006;20 tot 30 jaar;8980
+Alphen aan den Rijn;2006;30 tot 40 jaar;11167
+Alphen aan den Rijn;2006;40 tot 50 jaar;11199
+Alphen aan den Rijn;2006;50 tot 60 jaar;10087
+Alphen aan den Rijn;2006;60 tot 70 jaar;5912
+Alphen aan den Rijn;2006;70 tot 80 jaar;3651
+Alphen aan den Rijn;2006;80 tot 90 jaar;1653
+Alphen aan den Rijn;2006;90 jaar of ouder;251
+Alphen aan den Rijn;2007;Jonger dan 10 jaar;8997
+Alphen aan den Rijn;2007;10 tot 20 jaar;8897
+Alphen aan den Rijn;2007;20 tot 30 jaar;8929
+Alphen aan den Rijn;2007;30 tot 40 jaar;10833
+Alphen aan den Rijn;2007;40 tot 50 jaar;11261
+Alphen aan den Rijn;2007;50 tot 60 jaar;10033
+Alphen aan den Rijn;2007;60 tot 70 jaar;6408
+Alphen aan den Rijn;2007;70 tot 80 jaar;3785
+Alphen aan den Rijn;2007;80 tot 90 jaar;1689
+Alphen aan den Rijn;2007;90 jaar of ouder;268
+Alphen aan den Rijn;2008;Jonger dan 10 jaar;8999
+Alphen aan den Rijn;2008;10 tot 20 jaar;8942
+Alphen aan den Rijn;2008;20 tot 30 jaar;8965
+Alphen aan den Rijn;2008;30 tot 40 jaar;10716
+Alphen aan den Rijn;2008;40 tot 50 jaar;11297
+Alphen aan den Rijn;2008;50 tot 60 jaar;9944
+Alphen aan den Rijn;2008;60 tot 70 jaar;6894
+Alphen aan den Rijn;2008;70 tot 80 jaar;3904
+Alphen aan den Rijn;2008;80 tot 90 jaar;1743
+Alphen aan den Rijn;2008;90 jaar of ouder;254
+Alphen aan den Rijn;2009;Jonger dan 10 jaar;8950
+Alphen aan den Rijn;2009;10 tot 20 jaar;8928
+Alphen aan den Rijn;2009;20 tot 30 jaar;8930
+Alphen aan den Rijn;2009;30 tot 40 jaar;10623
+Alphen aan den Rijn;2009;40 tot 50 jaar;11383
+Alphen aan den Rijn;2009;50 tot 60 jaar;9930
+Alphen aan den Rijn;2009;60 tot 70 jaar;7325
+Alphen aan den Rijn;2009;70 tot 80 jaar;3997
+Alphen aan den Rijn;2009;80 tot 90 jaar;1833
+Alphen aan den Rijn;2009;90 jaar of ouder;279
+Alphen aan den Rijn;2010;Jonger dan 10 jaar;8906
+Alphen aan den Rijn;2010;10 tot 20 jaar;9048
+Alphen aan den Rijn;2010;20 tot 30 jaar;8764
+Alphen aan den Rijn;2010;30 tot 40 jaar;10413
+Alphen aan den Rijn;2010;40 tot 50 jaar;11454
+Alphen aan den Rijn;2010;50 tot 60 jaar;10013
+Alphen aan den Rijn;2010;60 tot 70 jaar;7645
+Alphen aan den Rijn;2010;70 tot 80 jaar;4112
+Alphen aan den Rijn;2010;80 tot 90 jaar;1896
+Alphen aan den Rijn;2010;90 jaar of ouder;283
+Alphen aan den Rijn;2011;Jonger dan 10 jaar;8860
+Alphen aan den Rijn;2011;10 tot 20 jaar;9047
+Alphen aan den Rijn;2011;20 tot 30 jaar;8522
+Alphen aan den Rijn;2011;30 tot 40 jaar;10214
+Alphen aan den Rijn;2011;40 tot 50 jaar;11556
+Alphen aan den Rijn;2011;50 tot 60 jaar;10034
+Alphen aan den Rijn;2011;60 tot 70 jaar;7947
+Alphen aan den Rijn;2011;70 tot 80 jaar;4197
+Alphen aan den Rijn;2011;80 tot 90 jaar;1987
+Alphen aan den Rijn;2011;90 jaar of ouder;316
+Alphen aan den Rijn;2012;Jonger dan 10 jaar;8719
+Alphen aan den Rijn;2012;10 tot 20 jaar;9075
+Alphen aan den Rijn;2012;20 tot 30 jaar;8431
+Alphen aan den Rijn;2012;30 tot 40 jaar;10030
+Alphen aan den Rijn;2012;40 tot 50 jaar;11610
+Alphen aan den Rijn;2012;50 tot 60 jaar;10087
+Alphen aan den Rijn;2012;60 tot 70 jaar;8207
+Alphen aan den Rijn;2012;70 tot 80 jaar;4352
+Alphen aan den Rijn;2012;80 tot 90 jaar;1996
+Alphen aan den Rijn;2012;90 jaar of ouder;346
+Alphen aan den Rijn;2013;Jonger dan 10 jaar;8630
+Alphen aan den Rijn;2013;10 tot 20 jaar;9078
+Alphen aan den Rijn;2013;20 tot 30 jaar;8332
+Alphen aan den Rijn;2013;30 tot 40 jaar;9844
+Alphen aan den Rijn;2013;40 tot 50 jaar;11432
+Alphen aan den Rijn;2013;50 tot 60 jaar;10248
+Alphen aan den Rijn;2013;60 tot 70 jaar;8468
+Alphen aan den Rijn;2013;70 tot 80 jaar;4456
+Alphen aan den Rijn;2013;80 tot 90 jaar;2081
+Alphen aan den Rijn;2013;90 jaar of ouder;344
+Alphen aan den Rijn;2014;Jonger dan 10 jaar;12360
+Alphen aan den Rijn;2014;10 tot 20 jaar;13465
+Alphen aan den Rijn;2014;20 tot 30 jaar;11869
+Alphen aan den Rijn;2014;30 tot 40 jaar;13169
+Alphen aan den Rijn;2014;40 tot 50 jaar;16314
+Alphen aan den Rijn;2014;50 tot 60 jaar;15242
+Alphen aan den Rijn;2014;60 tot 70 jaar;13232
+Alphen aan den Rijn;2014;70 tot 80 jaar;7297
+Alphen aan den Rijn;2014;80 tot 90 jaar;3261
+Alphen aan den Rijn;2014;90 jaar of ouder;576
+Alphen-Chaam;1988;Jonger dan 10 jaar;
+Alphen-Chaam;1988;10 tot 20 jaar;
+Alphen-Chaam;1988;20 tot 30 jaar;
+Alphen-Chaam;1988;30 tot 40 jaar;
+Alphen-Chaam;1988;40 tot 50 jaar;
+Alphen-Chaam;1988;50 tot 60 jaar;
+Alphen-Chaam;1988;60 tot 70 jaar;
+Alphen-Chaam;1988;70 tot 80 jaar;
+Alphen-Chaam;1988;80 tot 90 jaar;
+Alphen-Chaam;1988;90 jaar of ouder;
+Alphen-Chaam;1989;Jonger dan 10 jaar;
+Alphen-Chaam;1989;10 tot 20 jaar;
+Alphen-Chaam;1989;20 tot 30 jaar;
+Alphen-Chaam;1989;30 tot 40 jaar;
+Alphen-Chaam;1989;40 tot 50 jaar;
+Alphen-Chaam;1989;50 tot 60 jaar;
+Alphen-Chaam;1989;60 tot 70 jaar;
+Alphen-Chaam;1989;70 tot 80 jaar;
+Alphen-Chaam;1989;80 tot 90 jaar;
+Alphen-Chaam;1989;90 jaar of ouder;
+Alphen-Chaam;1990;Jonger dan 10 jaar;
+Alphen-Chaam;1990;10 tot 20 jaar;
+Alphen-Chaam;1990;20 tot 30 jaar;
+Alphen-Chaam;1990;30 tot 40 jaar;
+Alphen-Chaam;1990;40 tot 50 jaar;
+Alphen-Chaam;1990;50 tot 60 jaar;
+Alphen-Chaam;1990;60 tot 70 jaar;
+Alphen-Chaam;1990;70 tot 80 jaar;
+Alphen-Chaam;1990;80 tot 90 jaar;
+Alphen-Chaam;1990;90 jaar of ouder;
+Alphen-Chaam;1991;Jonger dan 10 jaar;
+Alphen-Chaam;1991;10 tot 20 jaar;
+Alphen-Chaam;1991;20 tot 30 jaar;
+Alphen-Chaam;1991;30 tot 40 jaar;
+Alphen-Chaam;1991;40 tot 50 jaar;
+Alphen-Chaam;1991;50 tot 60 jaar;
+Alphen-Chaam;1991;60 tot 70 jaar;
+Alphen-Chaam;1991;70 tot 80 jaar;
+Alphen-Chaam;1991;80 tot 90 jaar;
+Alphen-Chaam;1991;90 jaar of ouder;
+Alphen-Chaam;1992;Jonger dan 10 jaar;
+Alphen-Chaam;1992;10 tot 20 jaar;
+Alphen-Chaam;1992;20 tot 30 jaar;
+Alphen-Chaam;1992;30 tot 40 jaar;
+Alphen-Chaam;1992;40 tot 50 jaar;
+Alphen-Chaam;1992;50 tot 60 jaar;
+Alphen-Chaam;1992;60 tot 70 jaar;
+Alphen-Chaam;1992;70 tot 80 jaar;
+Alphen-Chaam;1992;80 tot 90 jaar;
+Alphen-Chaam;1992;90 jaar of ouder;
+Alphen-Chaam;1993;Jonger dan 10 jaar;
+Alphen-Chaam;1993;10 tot 20 jaar;
+Alphen-Chaam;1993;20 tot 30 jaar;
+Alphen-Chaam;1993;30 tot 40 jaar;
+Alphen-Chaam;1993;40 tot 50 jaar;
+Alphen-Chaam;1993;50 tot 60 jaar;
+Alphen-Chaam;1993;60 tot 70 jaar;
+Alphen-Chaam;1993;70 tot 80 jaar;
+Alphen-Chaam;1993;80 tot 90 jaar;
+Alphen-Chaam;1993;90 jaar of ouder;
+Alphen-Chaam;1994;Jonger dan 10 jaar;
+Alphen-Chaam;1994;10 tot 20 jaar;
+Alphen-Chaam;1994;20 tot 30 jaar;
+Alphen-Chaam;1994;30 tot 40 jaar;
+Alphen-Chaam;1994;40 tot 50 jaar;
+Alphen-Chaam;1994;50 tot 60 jaar;
+Alphen-Chaam;1994;60 tot 70 jaar;
+Alphen-Chaam;1994;70 tot 80 jaar;
+Alphen-Chaam;1994;80 tot 90 jaar;
+Alphen-Chaam;1994;90 jaar of ouder;
+Alphen-Chaam;1995;Jonger dan 10 jaar;
+Alphen-Chaam;1995;10 tot 20 jaar;
+Alphen-Chaam;1995;20 tot 30 jaar;
+Alphen-Chaam;1995;30 tot 40 jaar;
+Alphen-Chaam;1995;40 tot 50 jaar;
+Alphen-Chaam;1995;50 tot 60 jaar;
+Alphen-Chaam;1995;60 tot 70 jaar;
+Alphen-Chaam;1995;70 tot 80 jaar;
+Alphen-Chaam;1995;80 tot 90 jaar;
+Alphen-Chaam;1995;90 jaar of ouder;
+Alphen-Chaam;1996;Jonger dan 10 jaar;
+Alphen-Chaam;1996;10 tot 20 jaar;
+Alphen-Chaam;1996;20 tot 30 jaar;
+Alphen-Chaam;1996;30 tot 40 jaar;
+Alphen-Chaam;1996;40 tot 50 jaar;
+Alphen-Chaam;1996;50 tot 60 jaar;
+Alphen-Chaam;1996;60 tot 70 jaar;
+Alphen-Chaam;1996;70 tot 80 jaar;
+Alphen-Chaam;1996;80 tot 90 jaar;
+Alphen-Chaam;1996;90 jaar of ouder;
+Alphen-Chaam;1997;Jonger dan 10 jaar;1219
+Alphen-Chaam;1997;10 tot 20 jaar;1149
+Alphen-Chaam;1997;20 tot 30 jaar;1186
+Alphen-Chaam;1997;30 tot 40 jaar;1537
+Alphen-Chaam;1997;40 tot 50 jaar;1427
+Alphen-Chaam;1997;50 tot 60 jaar;1239
+Alphen-Chaam;1997;60 tot 70 jaar;839
+Alphen-Chaam;1997;70 tot 80 jaar;535
+Alphen-Chaam;1997;80 tot 90 jaar;201
+Alphen-Chaam;1997;90 jaar of ouder;11
+Alphen-Chaam;1998;Jonger dan 10 jaar;1215
+Alphen-Chaam;1998;10 tot 20 jaar;1171
+Alphen-Chaam;1998;20 tot 30 jaar;1117
+Alphen-Chaam;1998;30 tot 40 jaar;1536
+Alphen-Chaam;1998;40 tot 50 jaar;1451
+Alphen-Chaam;1998;50 tot 60 jaar;1274
+Alphen-Chaam;1998;60 tot 70 jaar;855
+Alphen-Chaam;1998;70 tot 80 jaar;548
+Alphen-Chaam;1998;80 tot 90 jaar;204
+Alphen-Chaam;1998;90 jaar of ouder;14
+Alphen-Chaam;1999;Jonger dan 10 jaar;1212
+Alphen-Chaam;1999;10 tot 20 jaar;1159
+Alphen-Chaam;1999;20 tot 30 jaar;1061
+Alphen-Chaam;1999;30 tot 40 jaar;1530
+Alphen-Chaam;1999;40 tot 50 jaar;1467
+Alphen-Chaam;1999;50 tot 60 jaar;1306
+Alphen-Chaam;1999;60 tot 70 jaar;887
+Alphen-Chaam;1999;70 tot 80 jaar;553
+Alphen-Chaam;1999;80 tot 90 jaar;198
+Alphen-Chaam;1999;90 jaar of ouder;12
+Alphen-Chaam;2000;Jonger dan 10 jaar;1236
+Alphen-Chaam;2000;10 tot 20 jaar;1171
+Alphen-Chaam;2000;20 tot 30 jaar;977
+Alphen-Chaam;2000;30 tot 40 jaar;1540
+Alphen-Chaam;2000;40 tot 50 jaar;1522
+Alphen-Chaam;2000;50 tot 60 jaar;1330
+Alphen-Chaam;2000;60 tot 70 jaar;895
+Alphen-Chaam;2000;70 tot 80 jaar;581
+Alphen-Chaam;2000;80 tot 90 jaar;195
+Alphen-Chaam;2000;90 jaar of ouder;13
+Alphen-Chaam;2001;Jonger dan 10 jaar;1260
+Alphen-Chaam;2001;10 tot 20 jaar;1155
+Alphen-Chaam;2001;20 tot 30 jaar;951
+Alphen-Chaam;2001;30 tot 40 jaar;1505
+Alphen-Chaam;2001;40 tot 50 jaar;1539
+Alphen-Chaam;2001;50 tot 60 jaar;1360
+Alphen-Chaam;2001;60 tot 70 jaar;935
+Alphen-Chaam;2001;70 tot 80 jaar;578
+Alphen-Chaam;2001;80 tot 90 jaar;188
+Alphen-Chaam;2001;90 jaar of ouder;15
+Alphen-Chaam;2002;Jonger dan 10 jaar;1255
+Alphen-Chaam;2002;10 tot 20 jaar;1155
+Alphen-Chaam;2002;20 tot 30 jaar;909
+Alphen-Chaam;2002;30 tot 40 jaar;1451
+Alphen-Chaam;2002;40 tot 50 jaar;1545
+Alphen-Chaam;2002;50 tot 60 jaar;1378
+Alphen-Chaam;2002;60 tot 70 jaar;946
+Alphen-Chaam;2002;70 tot 80 jaar;592
+Alphen-Chaam;2002;80 tot 90 jaar;193
+Alphen-Chaam;2002;90 jaar of ouder;23
+Alphen-Chaam;2003;Jonger dan 10 jaar;1259
+Alphen-Chaam;2003;10 tot 20 jaar;1172
+Alphen-Chaam;2003;20 tot 30 jaar;863
+Alphen-Chaam;2003;30 tot 40 jaar;1367
+Alphen-Chaam;2003;40 tot 50 jaar;1573
+Alphen-Chaam;2003;50 tot 60 jaar;1383
+Alphen-Chaam;2003;60 tot 70 jaar;958
+Alphen-Chaam;2003;70 tot 80 jaar;615
+Alphen-Chaam;2003;80 tot 90 jaar;198
+Alphen-Chaam;2003;90 jaar of ouder;25
+Alphen-Chaam;2004;Jonger dan 10 jaar;1221
+Alphen-Chaam;2004;10 tot 20 jaar;1207
+Alphen-Chaam;2004;20 tot 30 jaar;853
+Alphen-Chaam;2004;30 tot 40 jaar;1291
+Alphen-Chaam;2004;40 tot 50 jaar;1598
+Alphen-Chaam;2004;50 tot 60 jaar;1390
+Alphen-Chaam;2004;60 tot 70 jaar;1001
+Alphen-Chaam;2004;70 tot 80 jaar;611
+Alphen-Chaam;2004;80 tot 90 jaar;218
+Alphen-Chaam;2004;90 jaar of ouder;24
+Alphen-Chaam;2005;Jonger dan 10 jaar;1195
+Alphen-Chaam;2005;10 tot 20 jaar;1232
+Alphen-Chaam;2005;20 tot 30 jaar;862
+Alphen-Chaam;2005;30 tot 40 jaar;1258
+Alphen-Chaam;2005;40 tot 50 jaar;1587
+Alphen-Chaam;2005;50 tot 60 jaar;1459
+Alphen-Chaam;2005;60 tot 70 jaar;1034
+Alphen-Chaam;2005;70 tot 80 jaar;622
+Alphen-Chaam;2005;80 tot 90 jaar;239
+Alphen-Chaam;2005;90 jaar of ouder;25
+Alphen-Chaam;2006;Jonger dan 10 jaar;1164
+Alphen-Chaam;2006;10 tot 20 jaar;1236
+Alphen-Chaam;2006;20 tot 30 jaar;849
+Alphen-Chaam;2006;30 tot 40 jaar;1221
+Alphen-Chaam;2006;40 tot 50 jaar;1595
+Alphen-Chaam;2006;50 tot 60 jaar;1436
+Alphen-Chaam;2006;60 tot 70 jaar;1076
+Alphen-Chaam;2006;70 tot 80 jaar;635
+Alphen-Chaam;2006;80 tot 90 jaar;255
+Alphen-Chaam;2006;90 jaar of ouder;24
+Alphen-Chaam;2007;Jonger dan 10 jaar;1118
+Alphen-Chaam;2007;10 tot 20 jaar;1254
+Alphen-Chaam;2007;20 tot 30 jaar;803
+Alphen-Chaam;2007;30 tot 40 jaar;1188
+Alphen-Chaam;2007;40 tot 50 jaar;1605
+Alphen-Chaam;2007;50 tot 60 jaar;1396
+Alphen-Chaam;2007;60 tot 70 jaar;1143
+Alphen-Chaam;2007;70 tot 80 jaar;666
+Alphen-Chaam;2007;80 tot 90 jaar;265
+Alphen-Chaam;2007;90 jaar of ouder;23
+Alphen-Chaam;2008;Jonger dan 10 jaar;1070
+Alphen-Chaam;2008;10 tot 20 jaar;1243
+Alphen-Chaam;2008;20 tot 30 jaar;798
+Alphen-Chaam;2008;30 tot 40 jaar;1145
+Alphen-Chaam;2008;40 tot 50 jaar;1581
+Alphen-Chaam;2008;50 tot 60 jaar;1441
+Alphen-Chaam;2008;60 tot 70 jaar;1178
+Alphen-Chaam;2008;70 tot 80 jaar;697
+Alphen-Chaam;2008;80 tot 90 jaar;275
+Alphen-Chaam;2008;90 jaar of ouder;27
+Alphen-Chaam;2009;Jonger dan 10 jaar;1028
+Alphen-Chaam;2009;10 tot 20 jaar;1234
+Alphen-Chaam;2009;20 tot 30 jaar;801
+Alphen-Chaam;2009;30 tot 40 jaar;1062
+Alphen-Chaam;2009;40 tot 50 jaar;1599
+Alphen-Chaam;2009;50 tot 60 jaar;1484
+Alphen-Chaam;2009;60 tot 70 jaar;1198
+Alphen-Chaam;2009;70 tot 80 jaar;717
+Alphen-Chaam;2009;80 tot 90 jaar;274
+Alphen-Chaam;2009;90 jaar of ouder;24
+Alphen-Chaam;2010;Jonger dan 10 jaar;1029
+Alphen-Chaam;2010;10 tot 20 jaar;1221
+Alphen-Chaam;2010;20 tot 30 jaar;774
+Alphen-Chaam;2010;30 tot 40 jaar;1034
+Alphen-Chaam;2010;40 tot 50 jaar;1569
+Alphen-Chaam;2010;50 tot 60 jaar;1533
+Alphen-Chaam;2010;60 tot 70 jaar;1214
+Alphen-Chaam;2010;70 tot 80 jaar;742
+Alphen-Chaam;2010;80 tot 90 jaar;290
+Alphen-Chaam;2010;90 jaar of ouder;30
+Alphen-Chaam;2011;Jonger dan 10 jaar;985
+Alphen-Chaam;2011;10 tot 20 jaar;1245
+Alphen-Chaam;2011;20 tot 30 jaar;784
+Alphen-Chaam;2011;30 tot 40 jaar;946
+Alphen-Chaam;2011;40 tot 50 jaar;1582
+Alphen-Chaam;2011;50 tot 60 jaar;1553
+Alphen-Chaam;2011;60 tot 70 jaar;1262
+Alphen-Chaam;2011;70 tot 80 jaar;773
+Alphen-Chaam;2011;80 tot 90 jaar;302
+Alphen-Chaam;2011;90 jaar of ouder;34
+Alphen-Chaam;2012;Jonger dan 10 jaar;983
+Alphen-Chaam;2012;10 tot 20 jaar;1240
+Alphen-Chaam;2012;20 tot 30 jaar;807
+Alphen-Chaam;2012;30 tot 40 jaar;929
+Alphen-Chaam;2012;40 tot 50 jaar;1551
+Alphen-Chaam;2012;50 tot 60 jaar;1571
+Alphen-Chaam;2012;60 tot 70 jaar;1302
+Alphen-Chaam;2012;70 tot 80 jaar;790
+Alphen-Chaam;2012;80 tot 90 jaar;317
+Alphen-Chaam;2012;90 jaar of ouder;35
+Alphen-Chaam;2013;Jonger dan 10 jaar;964
+Alphen-Chaam;2013;10 tot 20 jaar;1239
+Alphen-Chaam;2013;20 tot 30 jaar;855
+Alphen-Chaam;2013;30 tot 40 jaar;927
+Alphen-Chaam;2013;40 tot 50 jaar;1509
+Alphen-Chaam;2013;50 tot 60 jaar;1604
+Alphen-Chaam;2013;60 tot 70 jaar;1343
+Alphen-Chaam;2013;70 tot 80 jaar;800
+Alphen-Chaam;2013;80 tot 90 jaar;358
+Alphen-Chaam;2013;90 jaar of ouder;41
+Alphen-Chaam;2014;Jonger dan 10 jaar;945
+Alphen-Chaam;2014;10 tot 20 jaar;1226
+Alphen-Chaam;2014;20 tot 30 jaar;899
+Alphen-Chaam;2014;30 tot 40 jaar;947
+Alphen-Chaam;2014;40 tot 50 jaar;1470
+Alphen-Chaam;2014;50 tot 60 jaar;1615
+Alphen-Chaam;2014;60 tot 70 jaar;1358
+Alphen-Chaam;2014;70 tot 80 jaar;854
+Alphen-Chaam;2014;80 tot 90 jaar;357
+Alphen-Chaam;2014;90 jaar of ouder;46
+Ameland;1988;Jonger dan 10 jaar;425
+Ameland;1988;10 tot 20 jaar;507
+Ameland;1988;20 tot 30 jaar;496
+Ameland;1988;30 tot 40 jaar;470
+Ameland;1988;40 tot 50 jaar;430
+Ameland;1988;50 tot 60 jaar;234
+Ameland;1988;60 tot 70 jaar;250
+Ameland;1988;70 tot 80 jaar;226
+Ameland;1988;80 tot 90 jaar;112
+Ameland;1988;90 jaar of ouder;21
+Ameland;1989;Jonger dan 10 jaar;417
+Ameland;1989;10 tot 20 jaar;491
+Ameland;1989;20 tot 30 jaar;488
+Ameland;1989;30 tot 40 jaar;447
+Ameland;1989;40 tot 50 jaar;459
+Ameland;1989;50 tot 60 jaar;238
+Ameland;1989;60 tot 70 jaar;257
+Ameland;1989;70 tot 80 jaar;215
+Ameland;1989;80 tot 90 jaar;112
+Ameland;1989;90 jaar of ouder;24
+Ameland;1990;Jonger dan 10 jaar;420
+Ameland;1990;10 tot 20 jaar;459
+Ameland;1990;20 tot 30 jaar;509
+Ameland;1990;30 tot 40 jaar;459
+Ameland;1990;40 tot 50 jaar;459
+Ameland;1990;50 tot 60 jaar;268
+Ameland;1990;60 tot 70 jaar;258
+Ameland;1990;70 tot 80 jaar;207
+Ameland;1990;80 tot 90 jaar;109
+Ameland;1990;90 jaar of ouder;25
+Ameland;1991;Jonger dan 10 jaar;410
+Ameland;1991;10 tot 20 jaar;462
+Ameland;1991;20 tot 30 jaar;535
+Ameland;1991;30 tot 40 jaar;450
+Ameland;1991;40 tot 50 jaar;475
+Ameland;1991;50 tot 60 jaar;289
+Ameland;1991;60 tot 70 jaar;255
+Ameland;1991;70 tot 80 jaar;209
+Ameland;1991;80 tot 90 jaar;124
+Ameland;1991;90 jaar of ouder;18
+Ameland;1992;Jonger dan 10 jaar;408
+Ameland;1992;10 tot 20 jaar;464
+Ameland;1992;20 tot 30 jaar;522
+Ameland;1992;30 tot 40 jaar;468
+Ameland;1992;40 tot 50 jaar;475
+Ameland;1992;50 tot 60 jaar;309
+Ameland;1992;60 tot 70 jaar;247
+Ameland;1992;70 tot 80 jaar;210
+Ameland;1992;80 tot 90 jaar;121
+Ameland;1992;90 jaar of ouder;19
+Ameland;1993;Jonger dan 10 jaar;397
+Ameland;1993;10 tot 20 jaar;467
+Ameland;1993;20 tot 30 jaar;531
+Ameland;1993;30 tot 40 jaar;479
+Ameland;1993;40 tot 50 jaar;484
+Ameland;1993;50 tot 60 jaar;321
+Ameland;1993;60 tot 70 jaar;249
+Ameland;1993;70 tot 80 jaar;215
+Ameland;1993;80 tot 90 jaar;124
+Ameland;1993;90 jaar of ouder;22
+Ameland;1994;Jonger dan 10 jaar;412
+Ameland;1994;10 tot 20 jaar;434
+Ameland;1994;20 tot 30 jaar;557
+Ameland;1994;30 tot 40 jaar;482
+Ameland;1994;40 tot 50 jaar;477
+Ameland;1994;50 tot 60 jaar;355
+Ameland;1994;60 tot 70 jaar;233
+Ameland;1994;70 tot 80 jaar;228
+Ameland;1994;80 tot 90 jaar;134
+Ameland;1994;90 jaar of ouder;19
+Ameland;1995;Jonger dan 10 jaar;418
+Ameland;1995;10 tot 20 jaar;429
+Ameland;1995;20 tot 30 jaar;550
+Ameland;1995;30 tot 40 jaar;495
+Ameland;1995;40 tot 50 jaar;487
+Ameland;1995;50 tot 60 jaar;376
+Ameland;1995;60 tot 70 jaar;246
+Ameland;1995;70 tot 80 jaar;216
+Ameland;1995;80 tot 90 jaar;136
+Ameland;1995;90 jaar of ouder;21
+Ameland;1996;Jonger dan 10 jaar;425
+Ameland;1996;10 tot 20 jaar;434
+Ameland;1996;20 tot 30 jaar;529
+Ameland;1996;30 tot 40 jaar;510
+Ameland;1996;40 tot 50 jaar;476
+Ameland;1996;50 tot 60 jaar;420
+Ameland;1996;60 tot 70 jaar;251
+Ameland;1996;70 tot 80 jaar;217
+Ameland;1996;80 tot 90 jaar;134
+Ameland;1996;90 jaar of ouder;17
+Ameland;1997;Jonger dan 10 jaar;426
+Ameland;1997;10 tot 20 jaar;441
+Ameland;1997;20 tot 30 jaar;511
+Ameland;1997;30 tot 40 jaar;509
+Ameland;1997;40 tot 50 jaar;470
+Ameland;1997;50 tot 60 jaar;458
+Ameland;1997;60 tot 70 jaar;252
+Ameland;1997;70 tot 80 jaar;207
+Ameland;1997;80 tot 90 jaar;128
+Ameland;1997;90 jaar of ouder;20
+Ameland;1998;Jonger dan 10 jaar;429
+Ameland;1998;10 tot 20 jaar;439
+Ameland;1998;20 tot 30 jaar;519
+Ameland;1998;30 tot 40 jaar;482
+Ameland;1998;40 tot 50 jaar;482
+Ameland;1998;50 tot 60 jaar;468
+Ameland;1998;60 tot 70 jaar;263
+Ameland;1998;70 tot 80 jaar;219
+Ameland;1998;80 tot 90 jaar;122
+Ameland;1998;90 jaar of ouder;23
+Ameland;1999;Jonger dan 10 jaar;454
+Ameland;1999;10 tot 20 jaar;434
+Ameland;1999;20 tot 30 jaar;500
+Ameland;1999;30 tot 40 jaar;488
+Ameland;1999;40 tot 50 jaar;480
+Ameland;1999;50 tot 60 jaar;494
+Ameland;1999;60 tot 70 jaar;262
+Ameland;1999;70 tot 80 jaar;227
+Ameland;1999;80 tot 90 jaar;114
+Ameland;1999;90 jaar of ouder;24
+Ameland;2000;Jonger dan 10 jaar;474
+Ameland;2000;10 tot 20 jaar;408
+Ameland;2000;20 tot 30 jaar;464
+Ameland;2000;30 tot 40 jaar;505
+Ameland;2000;40 tot 50 jaar;501
+Ameland;2000;50 tot 60 jaar;491
+Ameland;2000;60 tot 70 jaar;290
+Ameland;2000;70 tot 80 jaar;221
+Ameland;2000;80 tot 90 jaar;106
+Ameland;2000;90 jaar of ouder;28
+Ameland;2001;Jonger dan 10 jaar;499
+Ameland;2001;10 tot 20 jaar;411
+Ameland;2001;20 tot 30 jaar;467
+Ameland;2001;30 tot 40 jaar;534
+Ameland;2001;40 tot 50 jaar;487
+Ameland;2001;50 tot 60 jaar;508
+Ameland;2001;60 tot 70 jaar;305
+Ameland;2001;70 tot 80 jaar;211
+Ameland;2001;80 tot 90 jaar;95
+Ameland;2001;90 jaar of ouder;28
+Ameland;2002;Jonger dan 10 jaar;499
+Ameland;2002;10 tot 20 jaar;405
+Ameland;2002;20 tot 30 jaar;471
+Ameland;2002;30 tot 40 jaar;529
+Ameland;2002;40 tot 50 jaar;491
+Ameland;2002;50 tot 60 jaar;511
+Ameland;2002;60 tot 70 jaar;327
+Ameland;2002;70 tot 80 jaar;204
+Ameland;2002;80 tot 90 jaar;99
+Ameland;2002;90 jaar of ouder;28
+Ameland;2003;Jonger dan 10 jaar;490
+Ameland;2003;10 tot 20 jaar;394
+Ameland;2003;20 tot 30 jaar;476
+Ameland;2003;30 tot 40 jaar;523
+Ameland;2003;40 tot 50 jaar;512
+Ameland;2003;50 tot 60 jaar;511
+Ameland;2003;60 tot 70 jaar;346
+Ameland;2003;70 tot 80 jaar;203
+Ameland;2003;80 tot 90 jaar;102
+Ameland;2003;90 jaar of ouder;19
+Ameland;2004;Jonger dan 10 jaar;471
+Ameland;2004;10 tot 20 jaar;374
+Ameland;2004;20 tot 30 jaar;439
+Ameland;2004;30 tot 40 jaar;510
+Ameland;2004;40 tot 50 jaar;517
+Ameland;2004;50 tot 60 jaar;517
+Ameland;2004;60 tot 70 jaar;380
+Ameland;2004;70 tot 80 jaar;184
+Ameland;2004;80 tot 90 jaar;115
+Ameland;2004;90 jaar of ouder;18
+Ameland;2005;Jonger dan 10 jaar;454
+Ameland;2005;10 tot 20 jaar;376
+Ameland;2005;20 tot 30 jaar;425
+Ameland;2005;30 tot 40 jaar;487
+Ameland;2005;40 tot 50 jaar;520
+Ameland;2005;50 tot 60 jaar;528
+Ameland;2005;60 tot 70 jaar;405
+Ameland;2005;70 tot 80 jaar;193
+Ameland;2005;80 tot 90 jaar;115
+Ameland;2005;90 jaar of ouder;17
+Ameland;2006;Jonger dan 10 jaar;450
+Ameland;2006;10 tot 20 jaar;361
+Ameland;2006;20 tot 30 jaar;389
+Ameland;2006;30 tot 40 jaar;480
+Ameland;2006;40 tot 50 jaar;530
+Ameland;2006;50 tot 60 jaar;504
+Ameland;2006;60 tot 70 jaar;432
+Ameland;2006;70 tot 80 jaar;193
+Ameland;2006;80 tot 90 jaar;109
+Ameland;2006;90 jaar of ouder;27
+Ameland;2007;Jonger dan 10 jaar;436
+Ameland;2007;10 tot 20 jaar;373
+Ameland;2007;20 tot 30 jaar;353
+Ameland;2007;30 tot 40 jaar;461
+Ameland;2007;40 tot 50 jaar;535
+Ameland;2007;50 tot 60 jaar;508
+Ameland;2007;60 tot 70 jaar;461
+Ameland;2007;70 tot 80 jaar;197
+Ameland;2007;80 tot 90 jaar;109
+Ameland;2007;90 jaar of ouder;27
+Ameland;2008;Jonger dan 10 jaar;440
+Ameland;2008;10 tot 20 jaar;374
+Ameland;2008;20 tot 30 jaar;333
+Ameland;2008;30 tot 40 jaar;467
+Ameland;2008;40 tot 50 jaar;509
+Ameland;2008;50 tot 60 jaar;517
+Ameland;2008;60 tot 70 jaar;479
+Ameland;2008;70 tot 80 jaar;201
+Ameland;2008;80 tot 90 jaar;112
+Ameland;2008;90 jaar of ouder;24
+Ameland;2009;Jonger dan 10 jaar;432
+Ameland;2009;10 tot 20 jaar;375
+Ameland;2009;20 tot 30 jaar;332
+Ameland;2009;30 tot 40 jaar;450
+Ameland;2009;40 tot 50 jaar;519
+Ameland;2009;50 tot 60 jaar;517
+Ameland;2009;60 tot 70 jaar;493
+Ameland;2009;70 tot 80 jaar;211
+Ameland;2009;80 tot 90 jaar;111
+Ameland;2009;90 jaar of ouder;26
+Ameland;2010;Jonger dan 10 jaar;431
+Ameland;2010;10 tot 20 jaar;396
+Ameland;2010;20 tot 30 jaar;338
+Ameland;2010;30 tot 40 jaar;427
+Ameland;2010;40 tot 50 jaar;532
+Ameland;2010;50 tot 60 jaar;524
+Ameland;2010;60 tot 70 jaar;492
+Ameland;2010;70 tot 80 jaar;233
+Ameland;2010;80 tot 90 jaar;107
+Ameland;2010;90 jaar of ouder;21
+Ameland;2011;Jonger dan 10 jaar;414
+Ameland;2011;10 tot 20 jaar;400
+Ameland;2011;20 tot 30 jaar;343
+Ameland;2011;30 tot 40 jaar;417
+Ameland;2011;40 tot 50 jaar;537
+Ameland;2011;50 tot 60 jaar;506
+Ameland;2011;60 tot 70 jaar;511
+Ameland;2011;70 tot 80 jaar;246
+Ameland;2011;80 tot 90 jaar;111
+Ameland;2011;90 jaar of ouder;18
+Ameland;2012;Jonger dan 10 jaar;428
+Ameland;2012;10 tot 20 jaar;396
+Ameland;2012;20 tot 30 jaar;319
+Ameland;2012;30 tot 40 jaar;428
+Ameland;2012;40 tot 50 jaar;527
+Ameland;2012;50 tot 60 jaar;509
+Ameland;2012;60 tot 70 jaar;525
+Ameland;2012;70 tot 80 jaar;267
+Ameland;2012;80 tot 90 jaar;109
+Ameland;2012;90 jaar of ouder;18
+Ameland;2013;Jonger dan 10 jaar;418
+Ameland;2013;10 tot 20 jaar;395
+Ameland;2013;20 tot 30 jaar;309
+Ameland;2013;30 tot 40 jaar;427
+Ameland;2013;40 tot 50 jaar;518
+Ameland;2013;50 tot 60 jaar;515
+Ameland;2013;60 tot 70 jaar;534
+Ameland;2013;70 tot 80 jaar;282
+Ameland;2013;80 tot 90 jaar;108
+Ameland;2013;90 jaar of ouder;19
+Ameland;2014;Jonger dan 10 jaar;428
+Ameland;2014;10 tot 20 jaar;380
+Ameland;2014;20 tot 30 jaar;345
+Ameland;2014;30 tot 40 jaar;409
+Ameland;2014;40 tot 50 jaar;520
+Ameland;2014;50 tot 60 jaar;519
+Ameland;2014;60 tot 70 jaar;533
+Ameland;2014;70 tot 80 jaar;310
+Ameland;2014;80 tot 90 jaar;109
+Ameland;2014;90 jaar of ouder;25
+Amersfoort;1988;Jonger dan 10 jaar;10888
+Amersfoort;1988;10 tot 20 jaar;13280
+Amersfoort;1988;20 tot 30 jaar;17121
+Amersfoort;1988;30 tot 40 jaar;14450
+Amersfoort;1988;40 tot 50 jaar;11649
+Amersfoort;1988;50 tot 60 jaar;8924
+Amersfoort;1988;60 tot 70 jaar;8564
+Amersfoort;1988;70 tot 80 jaar;5719
+Amersfoort;1988;80 tot 90 jaar;2513
+Amersfoort;1988;90 jaar of ouder;408
+Amersfoort;1989;Jonger dan 10 jaar;11374
+Amersfoort;1989;10 tot 20 jaar;13064
+Amersfoort;1989;20 tot 30 jaar;17817
+Amersfoort;1989;30 tot 40 jaar;14883
+Amersfoort;1989;40 tot 50 jaar;12282
+Amersfoort;1989;50 tot 60 jaar;9053
+Amersfoort;1989;60 tot 70 jaar;8749
+Amersfoort;1989;70 tot 80 jaar;5819
+Amersfoort;1989;80 tot 90 jaar;2610
+Amersfoort;1989;90 jaar of ouder;421
+Amersfoort;1990;Jonger dan 10 jaar;12012
+Amersfoort;1990;10 tot 20 jaar;12854
+Amersfoort;1990;20 tot 30 jaar;18888
+Amersfoort;1990;30 tot 40 jaar;15618
+Amersfoort;1990;40 tot 50 jaar;12857
+Amersfoort;1990;50 tot 60 jaar;9168
+Amersfoort;1990;60 tot 70 jaar;8887
+Amersfoort;1990;70 tot 80 jaar;5953
+Amersfoort;1990;80 tot 90 jaar;2749
+Amersfoort;1990;90 jaar of ouder;417
+Amersfoort;1991;Jonger dan 10 jaar;12459
+Amersfoort;1991;10 tot 20 jaar;12668
+Amersfoort;1991;20 tot 30 jaar;19636
+Amersfoort;1991;30 tot 40 jaar;16274
+Amersfoort;1991;40 tot 50 jaar;13447
+Amersfoort;1991;50 tot 60 jaar;9239
+Amersfoort;1991;60 tot 70 jaar;8853
+Amersfoort;1991;70 tot 80 jaar;6117
+Amersfoort;1991;80 tot 90 jaar;2844
+Amersfoort;1991;90 jaar of ouder;437
+Amersfoort;1992;Jonger dan 10 jaar;12971
+Amersfoort;1992;10 tot 20 jaar;12479
+Amersfoort;1992;20 tot 30 jaar;19979
+Amersfoort;1992;30 tot 40 jaar;17130
+Amersfoort;1992;40 tot 50 jaar;13975
+Amersfoort;1992;50 tot 60 jaar;9389
+Amersfoort;1992;60 tot 70 jaar;8834
+Amersfoort;1992;70 tot 80 jaar;6314
+Amersfoort;1992;80 tot 90 jaar;2881
+Amersfoort;1992;90 jaar of ouder;438
+Amersfoort;1993;Jonger dan 10 jaar;13525
+Amersfoort;1993;10 tot 20 jaar;12398
+Amersfoort;1993;20 tot 30 jaar;19988
+Amersfoort;1993;30 tot 40 jaar;18198
+Amersfoort;1993;40 tot 50 jaar;14555
+Amersfoort;1993;50 tot 60 jaar;9534
+Amersfoort;1993;60 tot 70 jaar;8783
+Amersfoort;1993;70 tot 80 jaar;6491
+Amersfoort;1993;80 tot 90 jaar;2968
+Amersfoort;1993;90 jaar of ouder;483
+Amersfoort;1994;Jonger dan 10 jaar;14251
+Amersfoort;1994;10 tot 20 jaar;12465
+Amersfoort;1994;20 tot 30 jaar;20115
+Amersfoort;1994;30 tot 40 jaar;19388
+Amersfoort;1994;40 tot 50 jaar;15218
+Amersfoort;1994;50 tot 60 jaar;9799
+Amersfoort;1994;60 tot 70 jaar;8642
+Amersfoort;1994;70 tot 80 jaar;6747
+Amersfoort;1994;80 tot 90 jaar;3006
+Amersfoort;1994;90 jaar of ouder;486
+Amersfoort;1995;Jonger dan 10 jaar;14943
+Amersfoort;1995;10 tot 20 jaar;12473
+Amersfoort;1995;20 tot 30 jaar;19704
+Amersfoort;1995;30 tot 40 jaar;20506
+Amersfoort;1995;40 tot 50 jaar;15713
+Amersfoort;1995;50 tot 60 jaar;10139
+Amersfoort;1995;60 tot 70 jaar;8593
+Amersfoort;1995;70 tot 80 jaar;6854
+Amersfoort;1995;80 tot 90 jaar;3008
+Amersfoort;1995;90 jaar of ouder;456
+Amersfoort;1996;Jonger dan 10 jaar;15568
+Amersfoort;1996;10 tot 20 jaar;12646
+Amersfoort;1996;20 tot 30 jaar;19275
+Amersfoort;1996;30 tot 40 jaar;21574
+Amersfoort;1996;40 tot 50 jaar;16281
+Amersfoort;1996;50 tot 60 jaar;10419
+Amersfoort;1996;60 tot 70 jaar;8557
+Amersfoort;1996;70 tot 80 jaar;6953
+Amersfoort;1996;80 tot 90 jaar;3087
+Amersfoort;1996;90 jaar of ouder;524
+Amersfoort;1997;Jonger dan 10 jaar;16284
+Amersfoort;1997;10 tot 20 jaar;13077
+Amersfoort;1997;20 tot 30 jaar;18911
+Amersfoort;1997;30 tot 40 jaar;22721
+Amersfoort;1997;40 tot 50 jaar;16418
+Amersfoort;1997;50 tot 60 jaar;11313
+Amersfoort;1997;60 tot 70 jaar;8477
+Amersfoort;1997;70 tot 80 jaar;7054
+Amersfoort;1997;80 tot 90 jaar;3137
+Amersfoort;1997;90 jaar of ouder;541
+Amersfoort;1998;Jonger dan 10 jaar;16872
+Amersfoort;1998;10 tot 20 jaar;13436
+Amersfoort;1998;20 tot 30 jaar;18473
+Amersfoort;1998;30 tot 40 jaar;23544
+Amersfoort;1998;40 tot 50 jaar;16725
+Amersfoort;1998;50 tot 60 jaar;12080
+Amersfoort;1998;60 tot 70 jaar;8532
+Amersfoort;1998;70 tot 80 jaar;7147
+Amersfoort;1998;80 tot 90 jaar;3143
+Amersfoort;1998;90 jaar of ouder;560
+Amersfoort;1999;Jonger dan 10 jaar;17523
+Amersfoort;1999;10 tot 20 jaar;13811
+Amersfoort;1999;20 tot 30 jaar;18265
+Amersfoort;1999;30 tot 40 jaar;24359
+Amersfoort;1999;40 tot 50 jaar;17099
+Amersfoort;1999;50 tot 60 jaar;12744
+Amersfoort;1999;60 tot 70 jaar;8616
+Amersfoort;1999;70 tot 80 jaar;7235
+Amersfoort;1999;80 tot 90 jaar;3148
+Amersfoort;1999;90 jaar of ouder;567
+Amersfoort;2000;Jonger dan 10 jaar;18243
+Amersfoort;2000;10 tot 20 jaar;14164
+Amersfoort;2000;20 tot 30 jaar;17895
+Amersfoort;2000;30 tot 40 jaar;25117
+Amersfoort;2000;40 tot 50 jaar;17700
+Amersfoort;2000;50 tot 60 jaar;13363
+Amersfoort;2000;60 tot 70 jaar;8701
+Amersfoort;2000;70 tot 80 jaar;7243
+Amersfoort;2000;80 tot 90 jaar;3167
+Amersfoort;2000;90 jaar of ouder;550
+Amersfoort;2001;Jonger dan 10 jaar;18640
+Amersfoort;2001;10 tot 20 jaar;14509
+Amersfoort;2001;20 tot 30 jaar;17445
+Amersfoort;2001;30 tot 40 jaar;25449
+Amersfoort;2001;40 tot 50 jaar;18162
+Amersfoort;2001;50 tot 60 jaar;13948
+Amersfoort;2001;60 tot 70 jaar;8817
+Amersfoort;2001;70 tot 80 jaar;7167
+Amersfoort;2001;80 tot 90 jaar;3314
+Amersfoort;2001;90 jaar of ouder;584
+Amersfoort;2002;Jonger dan 10 jaar;18970
+Amersfoort;2002;10 tot 20 jaar;14928
+Amersfoort;2002;20 tot 30 jaar;16821
+Amersfoort;2002;30 tot 40 jaar;25568
+Amersfoort;2002;40 tot 50 jaar;18869
+Amersfoort;2002;50 tot 60 jaar;14457
+Amersfoort;2002;60 tot 70 jaar;8954
+Amersfoort;2002;70 tot 80 jaar;7144
+Amersfoort;2002;80 tot 90 jaar;3424
+Amersfoort;2002;90 jaar of ouder;585
+Amersfoort;2003;Jonger dan 10 jaar;19285
+Amersfoort;2003;10 tot 20 jaar;15173
+Amersfoort;2003;20 tot 30 jaar;16451
+Amersfoort;2003;30 tot 40 jaar;25388
+Amersfoort;2003;40 tot 50 jaar;19608
+Amersfoort;2003;50 tot 60 jaar;14922
+Amersfoort;2003;60 tot 70 jaar;9114
+Amersfoort;2003;70 tot 80 jaar;7124
+Amersfoort;2003;80 tot 90 jaar;3540
+Amersfoort;2003;90 jaar of ouder;616
+Amersfoort;2004;Jonger dan 10 jaar;19602
+Amersfoort;2004;10 tot 20 jaar;15556
+Amersfoort;2004;20 tot 30 jaar;16167
+Amersfoort;2004;30 tot 40 jaar;24923
+Amersfoort;2004;40 tot 50 jaar;20505
+Amersfoort;2004;50 tot 60 jaar;15401
+Amersfoort;2004;60 tot 70 jaar;9400
+Amersfoort;2004;70 tot 80 jaar;7021
+Amersfoort;2004;80 tot 90 jaar;3663
+Amersfoort;2004;90 jaar of ouder;613
+Amersfoort;2005;Jonger dan 10 jaar;19931
+Amersfoort;2005;10 tot 20 jaar;16033
+Amersfoort;2005;20 tot 30 jaar;16047
+Amersfoort;2005;30 tot 40 jaar;24460
+Amersfoort;2005;40 tot 50 jaar;21401
+Amersfoort;2005;50 tot 60 jaar;15920
+Amersfoort;2005;60 tot 70 jaar;9663
+Amersfoort;2005;70 tot 80 jaar;7030
+Amersfoort;2005;80 tot 90 jaar;3776
+Amersfoort;2005;90 jaar of ouder;645
+Amersfoort;2006;Jonger dan 10 jaar;20221
+Amersfoort;2006;10 tot 20 jaar;16385
+Amersfoort;2006;20 tot 30 jaar;16277
+Amersfoort;2006;30 tot 40 jaar;24007
+Amersfoort;2006;40 tot 50 jaar;22245
+Amersfoort;2006;50 tot 60 jaar;16369
+Amersfoort;2006;60 tot 70 jaar;9887
+Amersfoort;2006;70 tot 80 jaar;7082
+Amersfoort;2006;80 tot 90 jaar;3873
+Amersfoort;2006;90 jaar of ouder;653
+Amersfoort;2007;Jonger dan 10 jaar;20346
+Amersfoort;2007;10 tot 20 jaar;16663
+Amersfoort;2007;20 tot 30 jaar;16584
+Amersfoort;2007;30 tot 40 jaar;23647
+Amersfoort;2007;40 tot 50 jaar;22879
+Amersfoort;2007;50 tot 60 jaar;16428
+Amersfoort;2007;60 tot 70 jaar;10791
+Amersfoort;2007;70 tot 80 jaar;7095
+Amersfoort;2007;80 tot 90 jaar;3982
+Amersfoort;2007;90 jaar of ouder;639
+Amersfoort;2008;Jonger dan 10 jaar;20558
+Amersfoort;2008;10 tot 20 jaar;17094
+Amersfoort;2008;20 tot 30 jaar;16918
+Amersfoort;2008;30 tot 40 jaar;23262
+Amersfoort;2008;40 tot 50 jaar;23447
+Amersfoort;2008;50 tot 60 jaar;16628
+Amersfoort;2008;60 tot 70 jaar;11404
+Amersfoort;2008;70 tot 80 jaar;7141
+Amersfoort;2008;80 tot 90 jaar;4090
+Amersfoort;2008;90 jaar of ouder;669
+Amersfoort;2009;Jonger dan 10 jaar;20667
+Amersfoort;2009;10 tot 20 jaar;17441
+Amersfoort;2009;20 tot 30 jaar;17283
+Amersfoort;2009;30 tot 40 jaar;22821
+Amersfoort;2009;40 tot 50 jaar;24034
+Amersfoort;2009;50 tot 60 jaar;16971
+Amersfoort;2009;60 tot 70 jaar;11963
+Amersfoort;2009;70 tot 80 jaar;7215
+Amersfoort;2009;80 tot 90 jaar;4147
+Amersfoort;2009;90 jaar of ouder;670
+Amersfoort;2010;Jonger dan 10 jaar;20672
+Amersfoort;2010;10 tot 20 jaar;17862
+Amersfoort;2010;20 tot 30 jaar;17447
+Amersfoort;2010;30 tot 40 jaar;22246
+Amersfoort;2010;40 tot 50 jaar;24568
+Amersfoort;2010;50 tot 60 jaar;17404
+Amersfoort;2010;60 tot 70 jaar;12476
+Amersfoort;2010;70 tot 80 jaar;7278
+Amersfoort;2010;80 tot 90 jaar;4202
+Amersfoort;2010;90 jaar of ouder;707
+Amersfoort;2011;Jonger dan 10 jaar;20680
+Amersfoort;2011;10 tot 20 jaar;18241
+Amersfoort;2011;20 tot 30 jaar;17453
+Amersfoort;2011;30 tot 40 jaar;21987
+Amersfoort;2011;40 tot 50 jaar;24985
+Amersfoort;2011;50 tot 60 jaar;17863
+Amersfoort;2011;60 tot 70 jaar;12989
+Amersfoort;2011;70 tot 80 jaar;7396
+Amersfoort;2011;80 tot 90 jaar;4211
+Amersfoort;2011;90 jaar of ouder;787
+Amersfoort;2012;Jonger dan 10 jaar;20600
+Amersfoort;2012;10 tot 20 jaar;18655
+Amersfoort;2012;20 tot 30 jaar;17558
+Amersfoort;2012;30 tot 40 jaar;21554
+Amersfoort;2012;40 tot 50 jaar;25281
+Amersfoort;2012;50 tot 60 jaar;18557
+Amersfoort;2012;60 tot 70 jaar;13375
+Amersfoort;2012;70 tot 80 jaar;7566
+Amersfoort;2012;80 tot 90 jaar;4283
+Amersfoort;2012;90 jaar of ouder;821
+Amersfoort;2013;Jonger dan 10 jaar;20588
+Amersfoort;2013;10 tot 20 jaar;18934
+Amersfoort;2013;20 tot 30 jaar;17591
+Amersfoort;2013;30 tot 40 jaar;21140
+Amersfoort;2013;40 tot 50 jaar;25338
+Amersfoort;2013;50 tot 60 jaar;19305
+Amersfoort;2013;60 tot 70 jaar;13857
+Amersfoort;2013;70 tot 80 jaar;7680
+Amersfoort;2013;80 tot 90 jaar;4355
+Amersfoort;2013;90 jaar of ouder;874
+Amersfoort;2014;Jonger dan 10 jaar;20382
+Amersfoort;2014;10 tot 20 jaar;19258
+Amersfoort;2014;20 tot 30 jaar;17567
+Amersfoort;2014;30 tot 40 jaar;20949
+Amersfoort;2014;40 tot 50 jaar;25233
+Amersfoort;2014;50 tot 60 jaar;20043
+Amersfoort;2014;60 tot 70 jaar;14318
+Amersfoort;2014;70 tot 80 jaar;7916
+Amersfoort;2014;80 tot 90 jaar;4314
+Amersfoort;2014;90 jaar of ouder;917
+Amstelveen;1988;Jonger dan 10 jaar;6174
+Amstelveen;1988;10 tot 20 jaar;7922
+Amstelveen;1988;20 tot 30 jaar;12399
+Amstelveen;1988;30 tot 40 jaar;10262
+Amstelveen;1988;40 tot 50 jaar;9157
+Amstelveen;1988;50 tot 60 jaar;8327
+Amstelveen;1988;60 tot 70 jaar;8288
+Amstelveen;1988;70 tot 80 jaar;4758
+Amstelveen;1988;80 tot 90 jaar;1858
+Amstelveen;1988;90 jaar of ouder;268
+Amstelveen;1989;Jonger dan 10 jaar;6236
+Amstelveen;1989;10 tot 20 jaar;7517
+Amstelveen;1989;20 tot 30 jaar;12285
+Amstelveen;1989;30 tot 40 jaar;10393
+Amstelveen;1989;40 tot 50 jaar;9347
+Amstelveen;1989;50 tot 60 jaar;8169
+Amstelveen;1989;60 tot 70 jaar;8413
+Amstelveen;1989;70 tot 80 jaar;4920
+Amstelveen;1989;80 tot 90 jaar;1952
+Amstelveen;1989;90 jaar of ouder;273
+Amstelveen;1990;Jonger dan 10 jaar;6526
+Amstelveen;1990;10 tot 20 jaar;7222
+Amstelveen;1990;20 tot 30 jaar;12116
+Amstelveen;1990;30 tot 40 jaar;10648
+Amstelveen;1990;40 tot 50 jaar;9568
+Amstelveen;1990;50 tot 60 jaar;8108
+Amstelveen;1990;60 tot 70 jaar;8484
+Amstelveen;1990;70 tot 80 jaar;5037
+Amstelveen;1990;80 tot 90 jaar;2002
+Amstelveen;1990;90 jaar of ouder;271
+Amstelveen;1991;Jonger dan 10 jaar;6726
+Amstelveen;1991;10 tot 20 jaar;6904
+Amstelveen;1991;20 tot 30 jaar;11826
+Amstelveen;1991;30 tot 40 jaar;10918
+Amstelveen;1991;40 tot 50 jaar;9820
+Amstelveen;1991;50 tot 60 jaar;8012
+Amstelveen;1991;60 tot 70 jaar;8411
+Amstelveen;1991;70 tot 80 jaar;5338
+Amstelveen;1991;80 tot 90 jaar;2098
+Amstelveen;1991;90 jaar of ouder;287
+Amstelveen;1992;Jonger dan 10 jaar;7060
+Amstelveen;1992;10 tot 20 jaar;6938
+Amstelveen;1992;20 tot 30 jaar;11907
+Amstelveen;1992;30 tot 40 jaar;11503
+Amstelveen;1992;40 tot 50 jaar;10176
+Amstelveen;1992;50 tot 60 jaar;7871
+Amstelveen;1992;60 tot 70 jaar;8367
+Amstelveen;1992;70 tot 80 jaar;5624
+Amstelveen;1992;80 tot 90 jaar;2199
+Amstelveen;1992;90 jaar of ouder;294
+Amstelveen;1993;Jonger dan 10 jaar;7355
+Amstelveen;1993;10 tot 20 jaar;6789
+Amstelveen;1993;20 tot 30 jaar;11922
+Amstelveen;1993;30 tot 40 jaar;11888
+Amstelveen;1993;40 tot 50 jaar;10459
+Amstelveen;1993;50 tot 60 jaar;7861
+Amstelveen;1993;60 tot 70 jaar;8200
+Amstelveen;1993;70 tot 80 jaar;5807
+Amstelveen;1993;80 tot 90 jaar;2308
+Amstelveen;1993;90 jaar of ouder;334
+Amstelveen;1994;Jonger dan 10 jaar;7679
+Amstelveen;1994;10 tot 20 jaar;6696
+Amstelveen;1994;20 tot 30 jaar;11909
+Amstelveen;1994;30 tot 40 jaar;12253
+Amstelveen;1994;40 tot 50 jaar;10654
+Amstelveen;1994;50 tot 60 jaar;8023
+Amstelveen;1994;60 tot 70 jaar;8003
+Amstelveen;1994;70 tot 80 jaar;6077
+Amstelveen;1994;80 tot 90 jaar;2411
+Amstelveen;1994;90 jaar of ouder;354
+Amstelveen;1995;Jonger dan 10 jaar;7953
+Amstelveen;1995;10 tot 20 jaar;6640
+Amstelveen;1995;20 tot 30 jaar;11443
+Amstelveen;1995;30 tot 40 jaar;12471
+Amstelveen;1995;40 tot 50 jaar;10701
+Amstelveen;1995;50 tot 60 jaar;8128
+Amstelveen;1995;60 tot 70 jaar;7860
+Amstelveen;1995;70 tot 80 jaar;6263
+Amstelveen;1995;80 tot 90 jaar;2540
+Amstelveen;1995;90 jaar of ouder;360
+Amstelveen;1996;Jonger dan 10 jaar;8419
+Amstelveen;1996;10 tot 20 jaar;6796
+Amstelveen;1996;20 tot 30 jaar;11181
+Amstelveen;1996;30 tot 40 jaar;12963
+Amstelveen;1996;40 tot 50 jaar;11107
+Amstelveen;1996;50 tot 60 jaar;8121
+Amstelveen;1996;60 tot 70 jaar;7803
+Amstelveen;1996;70 tot 80 jaar;6475
+Amstelveen;1996;80 tot 90 jaar;2634
+Amstelveen;1996;90 jaar of ouder;370
+Amstelveen;1997;Jonger dan 10 jaar;8687
+Amstelveen;1997;10 tot 20 jaar;6903
+Amstelveen;1997;20 tot 30 jaar;10903
+Amstelveen;1997;30 tot 40 jaar;13090
+Amstelveen;1997;40 tot 50 jaar;11103
+Amstelveen;1997;50 tot 60 jaar;8589
+Amstelveen;1997;60 tot 70 jaar;7725
+Amstelveen;1997;70 tot 80 jaar;6658
+Amstelveen;1997;80 tot 90 jaar;2751
+Amstelveen;1997;90 jaar of ouder;413
+Amstelveen;1998;Jonger dan 10 jaar;8901
+Amstelveen;1998;10 tot 20 jaar;7046
+Amstelveen;1998;20 tot 30 jaar;10647
+Amstelveen;1998;30 tot 40 jaar;13189
+Amstelveen;1998;40 tot 50 jaar;11217
+Amstelveen;1998;50 tot 60 jaar;9000
+Amstelveen;1998;60 tot 70 jaar;7614
+Amstelveen;1998;70 tot 80 jaar;6872
+Amstelveen;1998;80 tot 90 jaar;2785
+Amstelveen;1998;90 jaar of ouder;454
+Amstelveen;1999;Jonger dan 10 jaar;9002
+Amstelveen;1999;10 tot 20 jaar;7259
+Amstelveen;1999;20 tot 30 jaar;10063
+Amstelveen;1999;30 tot 40 jaar;13005
+Amstelveen;1999;40 tot 50 jaar;11433
+Amstelveen;1999;50 tot 60 jaar;9160
+Amstelveen;1999;60 tot 70 jaar;7523
+Amstelveen;1999;70 tot 80 jaar;6941
+Amstelveen;1999;80 tot 90 jaar;2893
+Amstelveen;1999;90 jaar of ouder;458
+Amstelveen;2000;Jonger dan 10 jaar;9103
+Amstelveen;2000;10 tot 20 jaar;7432
+Amstelveen;2000;20 tot 30 jaar;9435
+Amstelveen;2000;30 tot 40 jaar;12806
+Amstelveen;2000;40 tot 50 jaar;11565
+Amstelveen;2000;50 tot 60 jaar;9358
+Amstelveen;2000;60 tot 70 jaar;7462
+Amstelveen;2000;70 tot 80 jaar;6989
+Amstelveen;2000;80 tot 90 jaar;3016
+Amstelveen;2000;90 jaar of ouder;457
+Amstelveen;2001;Jonger dan 10 jaar;9094
+Amstelveen;2001;10 tot 20 jaar;7437
+Amstelveen;2001;20 tot 30 jaar;9186
+Amstelveen;2001;30 tot 40 jaar;12603
+Amstelveen;2001;40 tot 50 jaar;11604
+Amstelveen;2001;50 tot 60 jaar;9566
+Amstelveen;2001;60 tot 70 jaar;7305
+Amstelveen;2001;70 tot 80 jaar;6936
+Amstelveen;2001;80 tot 90 jaar;3177
+Amstelveen;2001;90 jaar of ouder;462
+Amstelveen;2002;Jonger dan 10 jaar;9022
+Amstelveen;2002;10 tot 20 jaar;7553
+Amstelveen;2002;20 tot 30 jaar;8978
+Amstelveen;2002;30 tot 40 jaar;12256
+Amstelveen;2002;40 tot 50 jaar;11739
+Amstelveen;2002;50 tot 60 jaar;9832
+Amstelveen;2002;60 tot 70 jaar;7138
+Amstelveen;2002;70 tot 80 jaar;6909
+Amstelveen;2002;80 tot 90 jaar;3341
+Amstelveen;2002;90 jaar of ouder;488
+Amstelveen;2003;Jonger dan 10 jaar;9095
+Amstelveen;2003;10 tot 20 jaar;7841
+Amstelveen;2003;20 tot 30 jaar;9029
+Amstelveen;2003;30 tot 40 jaar;12037
+Amstelveen;2003;40 tot 50 jaar;12038
+Amstelveen;2003;50 tot 60 jaar;10145
+Amstelveen;2003;60 tot 70 jaar;7126
+Amstelveen;2003;70 tot 80 jaar;6837
+Amstelveen;2003;80 tot 90 jaar;3422
+Amstelveen;2003;90 jaar of ouder;525
+Amstelveen;2004;Jonger dan 10 jaar;9058
+Amstelveen;2004;10 tot 20 jaar;8147
+Amstelveen;2004;20 tot 30 jaar;9053
+Amstelveen;2004;30 tot 40 jaar;11829
+Amstelveen;2004;40 tot 50 jaar;12311
+Amstelveen;2004;50 tot 60 jaar;10287
+Amstelveen;2004;60 tot 70 jaar;7277
+Amstelveen;2004;70 tot 80 jaar;6781
+Amstelveen;2004;80 tot 90 jaar;3602
+Amstelveen;2004;90 jaar of ouder;521
+Amstelveen;2005;Jonger dan 10 jaar;8979
+Amstelveen;2005;10 tot 20 jaar;8396
+Amstelveen;2005;20 tot 30 jaar;8904
+Amstelveen;2005;30 tot 40 jaar;11362
+Amstelveen;2005;40 tot 50 jaar;12511
+Amstelveen;2005;50 tot 60 jaar;10441
+Amstelveen;2005;60 tot 70 jaar;7450
+Amstelveen;2005;70 tot 80 jaar;6694
+Amstelveen;2005;80 tot 90 jaar;3728
+Amstelveen;2005;90 jaar of ouder;571
+Amstelveen;2006;Jonger dan 10 jaar;8808
+Amstelveen;2006;10 tot 20 jaar;8580
+Amstelveen;2006;20 tot 30 jaar;8708
+Amstelveen;2006;30 tot 40 jaar;10936
+Amstelveen;2006;40 tot 50 jaar;12518
+Amstelveen;2006;50 tot 60 jaar;10692
+Amstelveen;2006;60 tot 70 jaar;7459
+Amstelveen;2006;70 tot 80 jaar;6655
+Amstelveen;2006;80 tot 90 jaar;3831
+Amstelveen;2006;90 jaar of ouder;587
+Amstelveen;2007;Jonger dan 10 jaar;8786
+Amstelveen;2007;10 tot 20 jaar;8681
+Amstelveen;2007;20 tot 30 jaar;8827
+Amstelveen;2007;30 tot 40 jaar;10657
+Amstelveen;2007;40 tot 50 jaar;12474
+Amstelveen;2007;50 tot 60 jaar;10556
+Amstelveen;2007;60 tot 70 jaar;7816
+Amstelveen;2007;70 tot 80 jaar;6631
+Amstelveen;2007;80 tot 90 jaar;3900
+Amstelveen;2007;90 jaar of ouder;617
+Amstelveen;2008;Jonger dan 10 jaar;8759
+Amstelveen;2008;10 tot 20 jaar;8656
+Amstelveen;2008;20 tot 30 jaar;8989
+Amstelveen;2008;30 tot 40 jaar;10328
+Amstelveen;2008;40 tot 50 jaar;12412
+Amstelveen;2008;50 tot 60 jaar;10458
+Amstelveen;2008;60 tot 70 jaar;8179
+Amstelveen;2008;70 tot 80 jaar;6540
+Amstelveen;2008;80 tot 90 jaar;4049
+Amstelveen;2008;90 jaar of ouder;610
+Amstelveen;2009;Jonger dan 10 jaar;8834
+Amstelveen;2009;10 tot 20 jaar;8827
+Amstelveen;2009;20 tot 30 jaar;9144
+Amstelveen;2009;30 tot 40 jaar;10241
+Amstelveen;2009;40 tot 50 jaar;12340
+Amstelveen;2009;50 tot 60 jaar;10766
+Amstelveen;2009;60 tot 70 jaar;8342
+Amstelveen;2009;70 tot 80 jaar;6505
+Amstelveen;2009;80 tot 90 jaar;4120
+Amstelveen;2009;90 jaar of ouder;649
+Amstelveen;2010;Jonger dan 10 jaar;8896
+Amstelveen;2010;10 tot 20 jaar;8958
+Amstelveen;2010;20 tot 30 jaar;9444
+Amstelveen;2010;30 tot 40 jaar;10134
+Amstelveen;2010;40 tot 50 jaar;12400
+Amstelveen;2010;50 tot 60 jaar;10957
+Amstelveen;2010;60 tot 70 jaar;8536
+Amstelveen;2010;70 tot 80 jaar;6544
+Amstelveen;2010;80 tot 90 jaar;4168
+Amstelveen;2010;90 jaar of ouder;658
+Amstelveen;2011;Jonger dan 10 jaar;9005
+Amstelveen;2011;10 tot 20 jaar;9126
+Amstelveen;2011;20 tot 30 jaar;9740
+Amstelveen;2011;30 tot 40 jaar;10251
+Amstelveen;2011;40 tot 50 jaar;12462
+Amstelveen;2011;50 tot 60 jaar;11058
+Amstelveen;2011;60 tot 70 jaar;8760
+Amstelveen;2011;70 tot 80 jaar;6455
+Amstelveen;2011;80 tot 90 jaar;4227
+Amstelveen;2011;90 jaar of ouder;712
+Amstelveen;2012;Jonger dan 10 jaar;9309
+Amstelveen;2012;10 tot 20 jaar;9205
+Amstelveen;2012;20 tot 30 jaar;10056
+Amstelveen;2012;30 tot 40 jaar;10449
+Amstelveen;2012;40 tot 50 jaar;12542
+Amstelveen;2012;50 tot 60 jaar;11224
+Amstelveen;2012;60 tot 70 jaar;9090
+Amstelveen;2012;70 tot 80 jaar;6319
+Amstelveen;2012;80 tot 90 jaar;4370
+Amstelveen;2012;90 jaar of ouder;799
+Amstelveen;2013;Jonger dan 10 jaar;9572
+Amstelveen;2013;10 tot 20 jaar;9266
+Amstelveen;2013;20 tot 30 jaar;10368
+Amstelveen;2013;30 tot 40 jaar;10522
+Amstelveen;2013;40 tot 50 jaar;12477
+Amstelveen;2013;50 tot 60 jaar;11403
+Amstelveen;2013;60 tot 70 jaar;9312
+Amstelveen;2013;70 tot 80 jaar;6272
+Amstelveen;2013;80 tot 90 jaar;4343
+Amstelveen;2013;90 jaar of ouder;844
+Amstelveen;2014;Jonger dan 10 jaar;9763
+Amstelveen;2014;10 tot 20 jaar;9325
+Amstelveen;2014;20 tot 30 jaar;10337
+Amstelveen;2014;30 tot 40 jaar;10579
+Amstelveen;2014;40 tot 50 jaar;12454
+Amstelveen;2014;50 tot 60 jaar;11500
+Amstelveen;2014;60 tot 70 jaar;9457
+Amstelveen;2014;70 tot 80 jaar;6420
+Amstelveen;2014;80 tot 90 jaar;4281
+Amstelveen;2014;90 jaar of ouder;899
+Amsterdam;1988;Jonger dan 10 jaar;67195
+Amsterdam;1988;10 tot 20 jaar;66723
+Amsterdam;1988;20 tot 30 jaar;152397
+Amsterdam;1988;30 tot 40 jaar;122575
+Amsterdam;1988;40 tot 50 jaar;81510
+Amsterdam;1988;50 tot 60 jaar;62719
+Amsterdam;1988;60 tot 70 jaar;63185
+Amsterdam;1988;70 tot 80 jaar;49145
+Amsterdam;1988;80 tot 90 jaar;22970
+Amsterdam;1988;90 jaar of ouder;3319
+Amsterdam;1989;Jonger dan 10 jaar;69130
+Amsterdam;1989;10 tot 20 jaar;65134
+Amsterdam;1989;20 tot 30 jaar;152326
+Amsterdam;1989;30 tot 40 jaar;124970
+Amsterdam;1989;40 tot 50 jaar;84884
+Amsterdam;1989;50 tot 60 jaar;61956
+Amsterdam;1989;60 tot 70 jaar;61882
+Amsterdam;1989;70 tot 80 jaar;48030
+Amsterdam;1989;80 tot 90 jaar;22958
+Amsterdam;1989;90 jaar of ouder;3410
+Amsterdam;1990;Jonger dan 10 jaar;70501
+Amsterdam;1990;10 tot 20 jaar;63905
+Amsterdam;1990;20 tot 30 jaar;151014
+Amsterdam;1990;30 tot 40 jaar;126773
+Amsterdam;1990;40 tot 50 jaar;87537
+Amsterdam;1990;50 tot 60 jaar;61562
+Amsterdam;1990;60 tot 70 jaar;60724
+Amsterdam;1990;70 tot 80 jaar;46909
+Amsterdam;1990;80 tot 90 jaar;22780
+Amsterdam;1990;90 jaar of ouder;3457
+Amsterdam;1991;Jonger dan 10 jaar;72396
+Amsterdam;1991;10 tot 20 jaar;63157
+Amsterdam;1991;20 tot 30 jaar;153050
+Amsterdam;1991;30 tot 40 jaar;130309
+Amsterdam;1991;40 tot 50 jaar;90328
+Amsterdam;1991;50 tot 60 jaar;61434
+Amsterdam;1991;60 tot 70 jaar;58679
+Amsterdam;1991;70 tot 80 jaar;46890
+Amsterdam;1991;80 tot 90 jaar;22766
+Amsterdam;1991;90 jaar of ouder;3435
+Amsterdam;1992;Jonger dan 10 jaar;74619
+Amsterdam;1992;10 tot 20 jaar;62990
+Amsterdam;1992;20 tot 30 jaar;154922
+Amsterdam;1992;30 tot 40 jaar;135987
+Amsterdam;1992;40 tot 50 jaar;93522
+Amsterdam;1992;50 tot 60 jaar;61637
+Amsterdam;1992;60 tot 70 jaar;56980
+Amsterdam;1992;70 tot 80 jaar;46663
+Amsterdam;1992;80 tot 90 jaar;22581
+Amsterdam;1992;90 jaar of ouder;3506
+Amsterdam;1993;Jonger dan 10 jaar;76741
+Amsterdam;1993;10 tot 20 jaar;62805
+Amsterdam;1993;20 tot 30 jaar;154228
+Amsterdam;1993;30 tot 40 jaar;139613
+Amsterdam;1993;40 tot 50 jaar;96606
+Amsterdam;1993;50 tot 60 jaar;61885
+Amsterdam;1993;60 tot 70 jaar;55674
+Amsterdam;1993;70 tot 80 jaar;46072
+Amsterdam;1993;80 tot 90 jaar;22714
+Amsterdam;1993;90 jaar of ouder;3518
+Amsterdam;1994;Jonger dan 10 jaar;78449
+Amsterdam;1994;10 tot 20 jaar;63430
+Amsterdam;1994;20 tot 30 jaar;150754
+Amsterdam;1994;30 tot 40 jaar;143720
+Amsterdam;1994;40 tot 50 jaar;98952
+Amsterdam;1994;50 tot 60 jaar;63125
+Amsterdam;1994;60 tot 70 jaar;53998
+Amsterdam;1994;70 tot 80 jaar;45493
+Amsterdam;1994;80 tot 90 jaar;22631
+Amsterdam;1994;90 jaar of ouder;3544
+Amsterdam;1995;Jonger dan 10 jaar;79586
+Amsterdam;1995;10 tot 20 jaar;63704
+Amsterdam;1995;20 tot 30 jaar;144255
+Amsterdam;1995;30 tot 40 jaar;145954
+Amsterdam;1995;40 tot 50 jaar;100848
+Amsterdam;1995;50 tot 60 jaar;64260
+Amsterdam;1995;60 tot 70 jaar;52660
+Amsterdam;1995;70 tot 80 jaar;44814
+Amsterdam;1995;80 tot 90 jaar;22609
+Amsterdam;1995;90 jaar of ouder;3540
+Amsterdam;1996;Jonger dan 10 jaar;79370
+Amsterdam;1996;10 tot 20 jaar;64011
+Amsterdam;1996;20 tot 30 jaar;138185
+Amsterdam;1996;30 tot 40 jaar;146769
+Amsterdam;1996;40 tot 50 jaar;103467
+Amsterdam;1996;50 tot 60 jaar;64735
+Amsterdam;1996;60 tot 70 jaar;51442
+Amsterdam;1996;70 tot 80 jaar;44324
+Amsterdam;1996;80 tot 90 jaar;22254
+Amsterdam;1996;90 jaar of ouder;3562
+Amsterdam;1997;Jonger dan 10 jaar;79568
+Amsterdam;1997;10 tot 20 jaar;64887
+Amsterdam;1997;20 tot 30 jaar;134361
+Amsterdam;1997;30 tot 40 jaar;146461
+Amsterdam;1997;40 tot 50 jaar;102175
+Amsterdam;1997;50 tot 60 jaar;68502
+Amsterdam;1997;60 tot 70 jaar;50319
+Amsterdam;1997;70 tot 80 jaar;43251
+Amsterdam;1997;80 tot 90 jaar;22005
+Amsterdam;1997;90 jaar of ouder;3619
+Amsterdam;1998;Jonger dan 10 jaar;79973
+Amsterdam;1998;10 tot 20 jaar;65667
+Amsterdam;1998;20 tot 30 jaar;132228
+Amsterdam;1998;30 tot 40 jaar;147823
+Amsterdam;1998;40 tot 50 jaar;102423
+Amsterdam;1998;50 tot 60 jaar;72445
+Amsterdam;1998;60 tot 70 jaar;49534
+Amsterdam;1998;70 tot 80 jaar;42601
+Amsterdam;1998;80 tot 90 jaar;21804
+Amsterdam;1998;90 jaar of ouder;3653
+Amsterdam;1999;Jonger dan 10 jaar;80985
+Amsterdam;1999;10 tot 20 jaar;67286
+Amsterdam;1999;20 tot 30 jaar;132241
+Amsterdam;1999;30 tot 40 jaar;150196
+Amsterdam;1999;40 tot 50 jaar;104382
+Amsterdam;1999;50 tot 60 jaar;75359
+Amsterdam;1999;60 tot 70 jaar;49254
+Amsterdam;1999;70 tot 80 jaar;42056
+Amsterdam;1999;80 tot 90 jaar;21556
+Amsterdam;1999;90 jaar of ouder;3738
+Amsterdam;2000;Jonger dan 10 jaar;81697
+Amsterdam;2000;10 tot 20 jaar;68114
+Amsterdam;2000;20 tot 30 jaar;129393
+Amsterdam;2000;30 tot 40 jaar;152513
+Amsterdam;2000;40 tot 50 jaar;106415
+Amsterdam;2000;50 tot 60 jaar;77661
+Amsterdam;2000;60 tot 70 jaar;49160
+Amsterdam;2000;70 tot 80 jaar;41466
+Amsterdam;2000;80 tot 90 jaar;21148
+Amsterdam;2000;90 jaar of ouder;3721
+Amsterdam;2001;Jonger dan 10 jaar;82416
+Amsterdam;2001;10 tot 20 jaar;69050
+Amsterdam;2001;20 tot 30 jaar;125608
+Amsterdam;2001;30 tot 40 jaar;153647
+Amsterdam;2001;40 tot 50 jaar;108825
+Amsterdam;2001;50 tot 60 jaar;80097
+Amsterdam;2001;60 tot 70 jaar;49584
+Amsterdam;2001;70 tot 80 jaar;40209
+Amsterdam;2001;80 tot 90 jaar;21392
+Amsterdam;2001;90 jaar of ouder;3766
+Amsterdam;2002;Jonger dan 10 jaar;83256
+Amsterdam;2002;10 tot 20 jaar;69902
+Amsterdam;2002;20 tot 30 jaar;120849
+Amsterdam;2002;30 tot 40 jaar;153802
+Amsterdam;2002;40 tot 50 jaar;111262
+Amsterdam;2002;50 tot 60 jaar;82466
+Amsterdam;2002;60 tot 70 jaar;49856
+Amsterdam;2002;70 tot 80 jaar;39049
+Amsterdam;2002;80 tot 90 jaar;21366
+Amsterdam;2002;90 jaar of ouder;3718
+Amsterdam;2003;Jonger dan 10 jaar;83529
+Amsterdam;2003;10 tot 20 jaar;71415
+Amsterdam;2003;20 tot 30 jaar;117828
+Amsterdam;2003;30 tot 40 jaar;152403
+Amsterdam;2003;40 tot 50 jaar;113114
+Amsterdam;2003;50 tot 60 jaar;85035
+Amsterdam;2003;60 tot 70 jaar;50281
+Amsterdam;2003;70 tot 80 jaar;38041
+Amsterdam;2003;80 tot 90 jaar;21233
+Amsterdam;2003;90 jaar of ouder;3683
+Amsterdam;2004;Jonger dan 10 jaar;83823
+Amsterdam;2004;10 tot 20 jaar;72400
+Amsterdam;2004;20 tot 30 jaar;117397
+Amsterdam;2004;30 tot 40 jaar;150437
+Amsterdam;2004;40 tot 50 jaar;115426
+Amsterdam;2004;50 tot 60 jaar;86792
+Amsterdam;2004;60 tot 70 jaar;51288
+Amsterdam;2004;70 tot 80 jaar;36930
+Amsterdam;2004;80 tot 90 jaar;20966
+Amsterdam;2004;90 jaar of ouder;3645
+Amsterdam;2005;Jonger dan 10 jaar;84241
+Amsterdam;2005;10 tot 20 jaar;72811
+Amsterdam;2005;20 tot 30 jaar;118353
+Amsterdam;2005;30 tot 40 jaar;147700
+Amsterdam;2005;40 tot 50 jaar;117641
+Amsterdam;2005;50 tot 60 jaar;88615
+Amsterdam;2005;60 tot 70 jaar;52551
+Amsterdam;2005;70 tot 80 jaar;36189
+Amsterdam;2005;80 tot 90 jaar;20939
+Amsterdam;2005;90 jaar of ouder;3743
+Amsterdam;2006;Jonger dan 10 jaar;84146
+Amsterdam;2006;10 tot 20 jaar;72277
+Amsterdam;2006;20 tot 30 jaar;120248
+Amsterdam;2006;30 tot 40 jaar;143788
+Amsterdam;2006;40 tot 50 jaar;118325
+Amsterdam;2006;50 tot 60 jaar;91002
+Amsterdam;2006;60 tot 70 jaar;53078
+Amsterdam;2006;70 tot 80 jaar;35677
+Amsterdam;2006;80 tot 90 jaar;20823
+Amsterdam;2006;90 jaar of ouder;3715
+Amsterdam;2007;Jonger dan 10 jaar;83730
+Amsterdam;2007;10 tot 20 jaar;71734
+Amsterdam;2007;20 tot 30 jaar;122400
+Amsterdam;2007;30 tot 40 jaar;140074
+Amsterdam;2007;40 tot 50 jaar;118265
+Amsterdam;2007;50 tot 60 jaar;90328
+Amsterdam;2007;60 tot 70 jaar;56850
+Amsterdam;2007;70 tot 80 jaar;35214
+Amsterdam;2007;80 tot 90 jaar;20576
+Amsterdam;2007;90 jaar of ouder;3713
+Amsterdam;2008;Jonger dan 10 jaar;83678
+Amsterdam;2008;10 tot 20 jaar;71736
+Amsterdam;2008;20 tot 30 jaar;126114
+Amsterdam;2008;30 tot 40 jaar;137985
+Amsterdam;2008;40 tot 50 jaar;118236
+Amsterdam;2008;50 tot 60 jaar;90163
+Amsterdam;2008;60 tot 70 jaar;60201
+Amsterdam;2008;70 tot 80 jaar;34769
+Amsterdam;2008;80 tot 90 jaar;20440
+Amsterdam;2008;90 jaar of ouder;3771
+Amsterdam;2009;Jonger dan 10 jaar;84429
+Amsterdam;2009;10 tot 20 jaar;71916
+Amsterdam;2009;20 tot 30 jaar;130896
+Amsterdam;2009;30 tot 40 jaar;137187
+Amsterdam;2009;40 tot 50 jaar;118323
+Amsterdam;2009;50 tot 60 jaar;91323
+Amsterdam;2009;60 tot 70 jaar;62622
+Amsterdam;2009;70 tot 80 jaar;34849
+Amsterdam;2009;80 tot 90 jaar;20260
+Amsterdam;2009;90 jaar of ouder;3800
+Amsterdam;2010;Jonger dan 10 jaar;86022
+Amsterdam;2010;10 tot 20 jaar;72580
+Amsterdam;2010;20 tot 30 jaar;134862
+Amsterdam;2010;30 tot 40 jaar;137236
+Amsterdam;2010;40 tot 50 jaar;119668
+Amsterdam;2010;50 tot 60 jaar;93124
+Amsterdam;2010;60 tot 70 jaar;64669
+Amsterdam;2010;70 tot 80 jaar;35269
+Amsterdam;2010;80 tot 90 jaar;20154
+Amsterdam;2010;90 jaar of ouder;3873
+Amsterdam;2011;Jonger dan 10 jaar;87509
+Amsterdam;2011;10 tot 20 jaar;73272
+Amsterdam;2011;20 tot 30 jaar;139109
+Amsterdam;2011;30 tot 40 jaar;137813
+Amsterdam;2011;40 tot 50 jaar;120255
+Amsterdam;2011;50 tot 60 jaar;95099
+Amsterdam;2011;60 tot 70 jaar;66860
+Amsterdam;2011;70 tot 80 jaar;36031
+Amsterdam;2011;80 tot 90 jaar;19863
+Amsterdam;2011;90 jaar of ouder;3997
+Amsterdam;2012;Jonger dan 10 jaar;88234
+Amsterdam;2012;10 tot 20 jaar;73475
+Amsterdam;2012;20 tot 30 jaar;142518
+Amsterdam;2012;30 tot 40 jaar;138539
+Amsterdam;2012;40 tot 50 jaar;120734
+Amsterdam;2012;50 tot 60 jaar;97374
+Amsterdam;2012;60 tot 70 jaar;69083
+Amsterdam;2012;70 tot 80 jaar;36512
+Amsterdam;2012;80 tot 90 jaar;19486
+Amsterdam;2012;90 jaar of ouder;4155
+Amsterdam;2013;Jonger dan 10 jaar;89299
+Amsterdam;2013;10 tot 20 jaar;73783
+Amsterdam;2013;20 tot 30 jaar;145351
+Amsterdam;2013;30 tot 40 jaar;139288
+Amsterdam;2013;40 tot 50 jaar;120307
+Amsterdam;2013;50 tot 60 jaar;99149
+Amsterdam;2013;60 tot 70 jaar;71527
+Amsterdam;2013;70 tot 80 jaar;37176
+Amsterdam;2013;80 tot 90 jaar;19168
+Amsterdam;2013;90 jaar of ouder;4230
+Amsterdam;2014;Jonger dan 10 jaar;90081
+Amsterdam;2014;10 tot 20 jaar;74521
+Amsterdam;2014;20 tot 30 jaar;149183
+Amsterdam;2014;30 tot 40 jaar;140866
+Amsterdam;2014;40 tot 50 jaar;119803
+Amsterdam;2014;50 tot 60 jaar;101619
+Amsterdam;2014;60 tot 70 jaar;73420
+Amsterdam;2014;70 tot 80 jaar;38335
+Amsterdam;2014;80 tot 90 jaar;18824
+Amsterdam;2014;90 jaar of ouder;4285
+Apeldoorn;1988;Jonger dan 10 jaar;17495
+Apeldoorn;1988;10 tot 20 jaar;22043
+Apeldoorn;1988;20 tot 30 jaar;23219
+Apeldoorn;1988;30 tot 40 jaar;22603
+Apeldoorn;1988;40 tot 50 jaar;19452
+Apeldoorn;1988;50 tot 60 jaar;15085
+Apeldoorn;1988;60 tot 70 jaar;13269
+Apeldoorn;1988;70 tot 80 jaar;8874
+Apeldoorn;1988;80 tot 90 jaar;3779
+Apeldoorn;1988;90 jaar of ouder;518
+Apeldoorn;1989;Jonger dan 10 jaar;17533
+Apeldoorn;1989;10 tot 20 jaar;21596
+Apeldoorn;1989;20 tot 30 jaar;23195
+Apeldoorn;1989;30 tot 40 jaar;22468
+Apeldoorn;1989;40 tot 50 jaar;20354
+Apeldoorn;1989;50 tot 60 jaar;15177
+Apeldoorn;1989;60 tot 70 jaar;13496
+Apeldoorn;1989;70 tot 80 jaar;9003
+Apeldoorn;1989;80 tot 90 jaar;3901
+Apeldoorn;1989;90 jaar of ouder;547
+Apeldoorn;1990;Jonger dan 10 jaar;17604
+Apeldoorn;1990;10 tot 20 jaar;20899
+Apeldoorn;1990;20 tot 30 jaar;23098
+Apeldoorn;1990;30 tot 40 jaar;22431
+Apeldoorn;1990;40 tot 50 jaar;21088
+Apeldoorn;1990;50 tot 60 jaar;15261
+Apeldoorn;1990;60 tot 70 jaar;13682
+Apeldoorn;1990;70 tot 80 jaar;9031
+Apeldoorn;1990;80 tot 90 jaar;3949
+Apeldoorn;1990;90 jaar of ouder;543
+Apeldoorn;1991;Jonger dan 10 jaar;17733
+Apeldoorn;1991;10 tot 20 jaar;20185
+Apeldoorn;1991;20 tot 30 jaar;23028
+Apeldoorn;1991;30 tot 40 jaar;22714
+Apeldoorn;1991;40 tot 50 jaar;21530
+Apeldoorn;1991;50 tot 60 jaar;15335
+Apeldoorn;1991;60 tot 70 jaar;13721
+Apeldoorn;1991;70 tot 80 jaar;9318
+Apeldoorn;1991;80 tot 90 jaar;4076
+Apeldoorn;1991;90 jaar of ouder;564
+Apeldoorn;1992;Jonger dan 10 jaar;17883
+Apeldoorn;1992;10 tot 20 jaar;19522
+Apeldoorn;1992;20 tot 30 jaar;22876
+Apeldoorn;1992;30 tot 40 jaar;22904
+Apeldoorn;1992;40 tot 50 jaar;22155
+Apeldoorn;1992;50 tot 60 jaar;15431
+Apeldoorn;1992;60 tot 70 jaar;13706
+Apeldoorn;1992;70 tot 80 jaar;9593
+Apeldoorn;1992;80 tot 90 jaar;4090
+Apeldoorn;1992;90 jaar of ouder;585
+Apeldoorn;1993;Jonger dan 10 jaar;18173
+Apeldoorn;1993;10 tot 20 jaar;18955
+Apeldoorn;1993;20 tot 30 jaar;22623
+Apeldoorn;1993;30 tot 40 jaar;23156
+Apeldoorn;1993;40 tot 50 jaar;22734
+Apeldoorn;1993;50 tot 60 jaar;15521
+Apeldoorn;1993;60 tot 70 jaar;13770
+Apeldoorn;1993;70 tot 80 jaar;9764
+Apeldoorn;1993;80 tot 90 jaar;4219
+Apeldoorn;1993;90 jaar of ouder;589
+Apeldoorn;1994;Jonger dan 10 jaar;18146
+Apeldoorn;1994;10 tot 20 jaar;18572
+Apeldoorn;1994;20 tot 30 jaar;22128
+Apeldoorn;1994;30 tot 40 jaar;23147
+Apeldoorn;1994;40 tot 50 jaar;23006
+Apeldoorn;1994;50 tot 60 jaar;15876
+Apeldoorn;1994;60 tot 70 jaar;13756
+Apeldoorn;1994;70 tot 80 jaar;9985
+Apeldoorn;1994;80 tot 90 jaar;4254
+Apeldoorn;1994;90 jaar of ouder;579
+Apeldoorn;1995;Jonger dan 10 jaar;18171
+Apeldoorn;1995;10 tot 20 jaar;18267
+Apeldoorn;1995;20 tot 30 jaar;21819
+Apeldoorn;1995;30 tot 40 jaar;23219
+Apeldoorn;1995;40 tot 50 jaar;23260
+Apeldoorn;1995;50 tot 60 jaar;16311
+Apeldoorn;1995;60 tot 70 jaar;13753
+Apeldoorn;1995;70 tot 80 jaar;10064
+Apeldoorn;1995;80 tot 90 jaar;4406
+Apeldoorn;1995;90 jaar of ouder;599
+Apeldoorn;1996;Jonger dan 10 jaar;18277
+Apeldoorn;1996;10 tot 20 jaar;18182
+Apeldoorn;1996;20 tot 30 jaar;21584
+Apeldoorn;1996;30 tot 40 jaar;23446
+Apeldoorn;1996;40 tot 50 jaar;23619
+Apeldoorn;1996;50 tot 60 jaar;16650
+Apeldoorn;1996;60 tot 70 jaar;13797
+Apeldoorn;1996;70 tot 80 jaar;10222
+Apeldoorn;1996;80 tot 90 jaar;4494
+Apeldoorn;1996;90 jaar of ouder;644
+Apeldoorn;1997;Jonger dan 10 jaar;18157
+Apeldoorn;1997;10 tot 20 jaar;18340
+Apeldoorn;1997;20 tot 30 jaar;21377
+Apeldoorn;1997;30 tot 40 jaar;23463
+Apeldoorn;1997;40 tot 50 jaar;23085
+Apeldoorn;1997;50 tot 60 jaar;17836
+Apeldoorn;1997;60 tot 70 jaar;13848
+Apeldoorn;1997;70 tot 80 jaar;10382
+Apeldoorn;1997;80 tot 90 jaar;4539
+Apeldoorn;1997;90 jaar of ouder;676
+Apeldoorn;1998;Jonger dan 10 jaar;18149
+Apeldoorn;1998;10 tot 20 jaar;18367
+Apeldoorn;1998;20 tot 30 jaar;20983
+Apeldoorn;1998;30 tot 40 jaar;23447
+Apeldoorn;1998;40 tot 50 jaar;22742
+Apeldoorn;1998;50 tot 60 jaar;18910
+Apeldoorn;1998;60 tot 70 jaar;13894
+Apeldoorn;1998;70 tot 80 jaar;10586
+Apeldoorn;1998;80 tot 90 jaar;4571
+Apeldoorn;1998;90 jaar of ouder;705
+Apeldoorn;1999;Jonger dan 10 jaar;18222
+Apeldoorn;1999;10 tot 20 jaar;18337
+Apeldoorn;1999;20 tot 30 jaar;20315
+Apeldoorn;1999;30 tot 40 jaar;23686
+Apeldoorn;1999;40 tot 50 jaar;22617
+Apeldoorn;1999;50 tot 60 jaar;19691
+Apeldoorn;1999;60 tot 70 jaar;13905
+Apeldoorn;1999;70 tot 80 jaar;10748
+Apeldoorn;1999;80 tot 90 jaar;4601
+Apeldoorn;1999;90 jaar of ouder;738
+Apeldoorn;2000;Jonger dan 10 jaar;18326
+Apeldoorn;2000;10 tot 20 jaar;18341
+Apeldoorn;2000;20 tot 30 jaar;19326
+Apeldoorn;2000;30 tot 40 jaar;23904
+Apeldoorn;2000;40 tot 50 jaar;22672
+Apeldoorn;2000;50 tot 60 jaar;20416
+Apeldoorn;2000;60 tot 70 jaar;13926
+Apeldoorn;2000;70 tot 80 jaar;10947
+Apeldoorn;2000;80 tot 90 jaar;4659
+Apeldoorn;2000;90 jaar of ouder;744
+Apeldoorn;2001;Jonger dan 10 jaar;18368
+Apeldoorn;2001;10 tot 20 jaar;18405
+Apeldoorn;2001;20 tot 30 jaar;18519
+Apeldoorn;2001;30 tot 40 jaar;23956
+Apeldoorn;2001;40 tot 50 jaar;22998
+Apeldoorn;2001;50 tot 60 jaar;20790
+Apeldoorn;2001;60 tot 70 jaar;14025
+Apeldoorn;2001;70 tot 80 jaar;10975
+Apeldoorn;2001;80 tot 90 jaar;4863
+Apeldoorn;2001;90 jaar of ouder;784
+Apeldoorn;2002;Jonger dan 10 jaar;18568
+Apeldoorn;2002;10 tot 20 jaar;18653
+Apeldoorn;2002;20 tot 30 jaar;18038
+Apeldoorn;2002;30 tot 40 jaar;24051
+Apeldoorn;2002;40 tot 50 jaar;23236
+Apeldoorn;2002;50 tot 60 jaar;21411
+Apeldoorn;2002;60 tot 70 jaar;14091
+Apeldoorn;2002;70 tot 80 jaar;11012
+Apeldoorn;2002;80 tot 90 jaar;5012
+Apeldoorn;2002;90 jaar of ouder;787
+Apeldoorn;2003;Jonger dan 10 jaar;18702
+Apeldoorn;2003;10 tot 20 jaar;18866
+Apeldoorn;2003;20 tot 30 jaar;17565
+Apeldoorn;2003;30 tot 40 jaar;23893
+Apeldoorn;2003;40 tot 50 jaar;23554
+Apeldoorn;2003;50 tot 60 jaar;21942
+Apeldoorn;2003;60 tot 70 jaar;14219
+Apeldoorn;2003;70 tot 80 jaar;11037
+Apeldoorn;2003;80 tot 90 jaar;5153
+Apeldoorn;2003;90 jaar of ouder;810
+Apeldoorn;2004;Jonger dan 10 jaar;18742
+Apeldoorn;2004;10 tot 20 jaar;18960
+Apeldoorn;2004;20 tot 30 jaar;17124
+Apeldoorn;2004;30 tot 40 jaar;23483
+Apeldoorn;2004;40 tot 50 jaar;23813
+Apeldoorn;2004;50 tot 60 jaar;22209
+Apeldoorn;2004;60 tot 70 jaar;14553
+Apeldoorn;2004;70 tot 80 jaar;11020
+Apeldoorn;2004;80 tot 90 jaar;5256
+Apeldoorn;2004;90 jaar of ouder;840
+Apeldoorn;2005;Jonger dan 10 jaar;18673
+Apeldoorn;2005;10 tot 20 jaar;18910
+Apeldoorn;2005;20 tot 30 jaar;16704
+Apeldoorn;2005;30 tot 40 jaar;23013
+Apeldoorn;2005;40 tot 50 jaar;23927
+Apeldoorn;2005;50 tot 60 jaar;22480
+Apeldoorn;2005;60 tot 70 jaar;14980
+Apeldoorn;2005;70 tot 80 jaar;11084
+Apeldoorn;2005;80 tot 90 jaar;5399
+Apeldoorn;2005;90 jaar of ouder;894
+Apeldoorn;2006;Jonger dan 10 jaar;18560
+Apeldoorn;2006;10 tot 20 jaar;18885
+Apeldoorn;2006;20 tot 30 jaar;16500
+Apeldoorn;2006;30 tot 40 jaar;22540
+Apeldoorn;2006;40 tot 50 jaar;24035
+Apeldoorn;2006;50 tot 60 jaar;22838
+Apeldoorn;2006;60 tot 70 jaar;15263
+Apeldoorn;2006;70 tot 80 jaar;11036
+Apeldoorn;2006;80 tot 90 jaar;5504
+Apeldoorn;2006;90 jaar of ouder;890
+Apeldoorn;2007;Jonger dan 10 jaar;18425
+Apeldoorn;2007;10 tot 20 jaar;18735
+Apeldoorn;2007;20 tot 30 jaar;16281
+Apeldoorn;2007;30 tot 40 jaar;21888
+Apeldoorn;2007;40 tot 50 jaar;24011
+Apeldoorn;2007;50 tot 60 jaar;22301
+Apeldoorn;2007;60 tot 70 jaar;16326
+Apeldoorn;2007;70 tot 80 jaar;11064
+Apeldoorn;2007;80 tot 90 jaar;5634
+Apeldoorn;2007;90 jaar of ouder;899
+Apeldoorn;2008;Jonger dan 10 jaar;18221
+Apeldoorn;2008;10 tot 20 jaar;18658
+Apeldoorn;2008;20 tot 30 jaar;16008
+Apeldoorn;2008;30 tot 40 jaar;21210
+Apeldoorn;2008;40 tot 50 jaar;23909
+Apeldoorn;2008;50 tot 60 jaar;22055
+Apeldoorn;2008;60 tot 70 jaar;17263
+Apeldoorn;2008;70 tot 80 jaar;11081
+Apeldoorn;2008;80 tot 90 jaar;5792
+Apeldoorn;2008;90 jaar of ouder;911
+Apeldoorn;2009;Jonger dan 10 jaar;18071
+Apeldoorn;2009;10 tot 20 jaar;18661
+Apeldoorn;2009;20 tot 30 jaar;16017
+Apeldoorn;2009;30 tot 40 jaar;20553
+Apeldoorn;2009;40 tot 50 jaar;24004
+Apeldoorn;2009;50 tot 60 jaar;21936
+Apeldoorn;2009;60 tot 70 jaar;18117
+Apeldoorn;2009;70 tot 80 jaar;11154
+Apeldoorn;2009;80 tot 90 jaar;5908
+Apeldoorn;2009;90 jaar of ouder;911
+Apeldoorn;2010;Jonger dan 10 jaar;17796
+Apeldoorn;2010;10 tot 20 jaar;18742
+Apeldoorn;2010;20 tot 30 jaar;16099
+Apeldoorn;2010;30 tot 40 jaar;19790
+Apeldoorn;2010;40 tot 50 jaar;24212
+Apeldoorn;2010;50 tot 60 jaar;22019
+Apeldoorn;2010;60 tot 70 jaar;18727
+Apeldoorn;2010;70 tot 80 jaar;11309
+Apeldoorn;2010;80 tot 90 jaar;6055
+Apeldoorn;2010;90 jaar of ouder;977
+Apeldoorn;2011;Jonger dan 10 jaar;17538
+Apeldoorn;2011;10 tot 20 jaar;18799
+Apeldoorn;2011;20 tot 30 jaar;16317
+Apeldoorn;2011;30 tot 40 jaar;19121
+Apeldoorn;2011;40 tot 50 jaar;24257
+Apeldoorn;2011;50 tot 60 jaar;22346
+Apeldoorn;2011;60 tot 70 jaar;19107
+Apeldoorn;2011;70 tot 80 jaar;11486
+Apeldoorn;2011;80 tot 90 jaar;6199
+Apeldoorn;2011;90 jaar of ouder;1029
+Apeldoorn;2012;Jonger dan 10 jaar;17391
+Apeldoorn;2012;10 tot 20 jaar;18876
+Apeldoorn;2012;20 tot 30 jaar;16671
+Apeldoorn;2012;30 tot 40 jaar;18488
+Apeldoorn;2012;40 tot 50 jaar;24212
+Apeldoorn;2012;50 tot 60 jaar;22645
+Apeldoorn;2012;60 tot 70 jaar;19699
+Apeldoorn;2012;70 tot 80 jaar;11603
+Apeldoorn;2012;80 tot 90 jaar;6249
+Apeldoorn;2012;90 jaar of ouder;1127
+Apeldoorn;2013;Jonger dan 10 jaar;17055
+Apeldoorn;2013;10 tot 20 jaar;18903
+Apeldoorn;2013;20 tot 30 jaar;17032
+Apeldoorn;2013;30 tot 40 jaar;17883
+Apeldoorn;2013;40 tot 50 jaar;23980
+Apeldoorn;2013;50 tot 60 jaar;22946
+Apeldoorn;2013;60 tot 70 jaar;20188
+Apeldoorn;2013;70 tot 80 jaar;11773
+Apeldoorn;2013;80 tot 90 jaar;6360
+Apeldoorn;2013;90 jaar of ouder;1195
+Apeldoorn;2014;Jonger dan 10 jaar;16768
+Apeldoorn;2014;10 tot 20 jaar;18871
+Apeldoorn;2014;20 tot 30 jaar;17142
+Apeldoorn;2014;30 tot 40 jaar;17631
+Apeldoorn;2014;40 tot 50 jaar;23646
+Apeldoorn;2014;50 tot 60 jaar;23287
+Apeldoorn;2014;60 tot 70 jaar;20478
+Apeldoorn;2014;70 tot 80 jaar;12121
+Apeldoorn;2014;80 tot 90 jaar;6359
+Apeldoorn;2014;90 jaar of ouder;1242
+Appingedam;1988;Jonger dan 10 jaar;1390
+Appingedam;1988;10 tot 20 jaar;1987
+Appingedam;1988;20 tot 30 jaar;1951
+Appingedam;1988;30 tot 40 jaar;1851
+Appingedam;1988;40 tot 50 jaar;1593
+Appingedam;1988;50 tot 60 jaar;1310
+Appingedam;1988;60 tot 70 jaar;1175
+Appingedam;1988;70 tot 80 jaar;940
+Appingedam;1988;80 tot 90 jaar;466
+Appingedam;1988;90 jaar of ouder;65
+Appingedam;1989;Jonger dan 10 jaar;1334
+Appingedam;1989;10 tot 20 jaar;1931
+Appingedam;1989;20 tot 30 jaar;1979
+Appingedam;1989;30 tot 40 jaar;1798
+Appingedam;1989;40 tot 50 jaar;1628
+Appingedam;1989;50 tot 60 jaar;1345
+Appingedam;1989;60 tot 70 jaar;1190
+Appingedam;1989;70 tot 80 jaar;919
+Appingedam;1989;80 tot 90 jaar;470
+Appingedam;1989;90 jaar of ouder;74
+Appingedam;1990;Jonger dan 10 jaar;1317
+Appingedam;1990;10 tot 20 jaar;1785
+Appingedam;1990;20 tot 30 jaar;1915
+Appingedam;1990;30 tot 40 jaar;1788
+Appingedam;1990;40 tot 50 jaar;1648
+Appingedam;1990;50 tot 60 jaar;1344
+Appingedam;1990;60 tot 70 jaar;1197
+Appingedam;1990;70 tot 80 jaar;939
+Appingedam;1990;80 tot 90 jaar;482
+Appingedam;1990;90 jaar of ouder;72
+Appingedam;1991;Jonger dan 10 jaar;1295
+Appingedam;1991;10 tot 20 jaar;1730
+Appingedam;1991;20 tot 30 jaar;1941
+Appingedam;1991;30 tot 40 jaar;1779
+Appingedam;1991;40 tot 50 jaar;1697
+Appingedam;1991;50 tot 60 jaar;1337
+Appingedam;1991;60 tot 70 jaar;1227
+Appingedam;1991;70 tot 80 jaar;967
+Appingedam;1991;80 tot 90 jaar;468
+Appingedam;1991;90 jaar of ouder;67
+Appingedam;1992;Jonger dan 10 jaar;1287
+Appingedam;1992;10 tot 20 jaar;1629
+Appingedam;1992;20 tot 30 jaar;1974
+Appingedam;1992;30 tot 40 jaar;1829
+Appingedam;1992;40 tot 50 jaar;1738
+Appingedam;1992;50 tot 60 jaar;1334
+Appingedam;1992;60 tot 70 jaar;1231
+Appingedam;1992;70 tot 80 jaar;960
+Appingedam;1992;80 tot 90 jaar;496
+Appingedam;1992;90 jaar of ouder;71
+Appingedam;1993;Jonger dan 10 jaar;1291
+Appingedam;1993;10 tot 20 jaar;1538
+Appingedam;1993;20 tot 30 jaar;1863
+Appingedam;1993;30 tot 40 jaar;1831
+Appingedam;1993;40 tot 50 jaar;1774
+Appingedam;1993;50 tot 60 jaar;1328
+Appingedam;1993;60 tot 70 jaar;1265
+Appingedam;1993;70 tot 80 jaar;981
+Appingedam;1993;80 tot 90 jaar;486
+Appingedam;1993;90 jaar of ouder;79
+Appingedam;1994;Jonger dan 10 jaar;1287
+Appingedam;1994;10 tot 20 jaar;1484
+Appingedam;1994;20 tot 30 jaar;1787
+Appingedam;1994;30 tot 40 jaar;1805
+Appingedam;1994;40 tot 50 jaar;1831
+Appingedam;1994;50 tot 60 jaar;1350
+Appingedam;1994;60 tot 70 jaar;1232
+Appingedam;1994;70 tot 80 jaar;1006
+Appingedam;1994;80 tot 90 jaar;504
+Appingedam;1994;90 jaar of ouder;78
+Appingedam;1995;Jonger dan 10 jaar;1277
+Appingedam;1995;10 tot 20 jaar;1496
+Appingedam;1995;20 tot 30 jaar;1769
+Appingedam;1995;30 tot 40 jaar;1802
+Appingedam;1995;40 tot 50 jaar;1882
+Appingedam;1995;50 tot 60 jaar;1365
+Appingedam;1995;60 tot 70 jaar;1224
+Appingedam;1995;70 tot 80 jaar;997
+Appingedam;1995;80 tot 90 jaar;514
+Appingedam;1995;90 jaar of ouder;75
+Appingedam;1996;Jonger dan 10 jaar;1282
+Appingedam;1996;10 tot 20 jaar;1482
+Appingedam;1996;20 tot 30 jaar;1723
+Appingedam;1996;30 tot 40 jaar;1766
+Appingedam;1996;40 tot 50 jaar;1889
+Appingedam;1996;50 tot 60 jaar;1434
+Appingedam;1996;60 tot 70 jaar;1214
+Appingedam;1996;70 tot 80 jaar;1021
+Appingedam;1996;80 tot 90 jaar;502
+Appingedam;1996;90 jaar of ouder;76
+Appingedam;1997;Jonger dan 10 jaar;1290
+Appingedam;1997;10 tot 20 jaar;1428
+Appingedam;1997;20 tot 30 jaar;1699
+Appingedam;1997;30 tot 40 jaar;1723
+Appingedam;1997;40 tot 50 jaar;1864
+Appingedam;1997;50 tot 60 jaar;1473
+Appingedam;1997;60 tot 70 jaar;1235
+Appingedam;1997;70 tot 80 jaar;1008
+Appingedam;1997;80 tot 90 jaar;510
+Appingedam;1997;90 jaar of ouder;86
+Appingedam;1998;Jonger dan 10 jaar;1287
+Appingedam;1998;10 tot 20 jaar;1402
+Appingedam;1998;20 tot 30 jaar;1637
+Appingedam;1998;30 tot 40 jaar;1723
+Appingedam;1998;40 tot 50 jaar;1829
+Appingedam;1998;50 tot 60 jaar;1530
+Appingedam;1998;60 tot 70 jaar;1249
+Appingedam;1998;70 tot 80 jaar;1019
+Appingedam;1998;80 tot 90 jaar;500
+Appingedam;1998;90 jaar of ouder;91
+Appingedam;1999;Jonger dan 10 jaar;1298
+Appingedam;1999;10 tot 20 jaar;1353
+Appingedam;1999;20 tot 30 jaar;1616
+Appingedam;1999;30 tot 40 jaar;1728
+Appingedam;1999;40 tot 50 jaar;1795
+Appingedam;1999;50 tot 60 jaar;1567
+Appingedam;1999;60 tot 70 jaar;1258
+Appingedam;1999;70 tot 80 jaar;1025
+Appingedam;1999;80 tot 90 jaar;493
+Appingedam;1999;90 jaar of ouder;102
+Appingedam;2000;Jonger dan 10 jaar;1343
+Appingedam;2000;10 tot 20 jaar;1348
+Appingedam;2000;20 tot 30 jaar;1570
+Appingedam;2000;30 tot 40 jaar;1753
+Appingedam;2000;40 tot 50 jaar;1834
+Appingedam;2000;50 tot 60 jaar;1593
+Appingedam;2000;60 tot 70 jaar;1257
+Appingedam;2000;70 tot 80 jaar;1011
+Appingedam;2000;80 tot 90 jaar;498
+Appingedam;2000;90 jaar of ouder;100
+Appingedam;2001;Jonger dan 10 jaar;1372
+Appingedam;2001;10 tot 20 jaar;1372
+Appingedam;2001;20 tot 30 jaar;1529
+Appingedam;2001;30 tot 40 jaar;1769
+Appingedam;2001;40 tot 50 jaar;1837
+Appingedam;2001;50 tot 60 jaar;1665
+Appingedam;2001;60 tot 70 jaar;1244
+Appingedam;2001;70 tot 80 jaar;1025
+Appingedam;2001;80 tot 90 jaar;532
+Appingedam;2001;90 jaar of ouder;89
+Appingedam;2002;Jonger dan 10 jaar;1389
+Appingedam;2002;10 tot 20 jaar;1377
+Appingedam;2002;20 tot 30 jaar;1486
+Appingedam;2002;30 tot 40 jaar;1778
+Appingedam;2002;40 tot 50 jaar;1845
+Appingedam;2002;50 tot 60 jaar;1700
+Appingedam;2002;60 tot 70 jaar;1231
+Appingedam;2002;70 tot 80 jaar;1015
+Appingedam;2002;80 tot 90 jaar;525
+Appingedam;2002;90 jaar of ouder;97
+Appingedam;2003;Jonger dan 10 jaar;1378
+Appingedam;2003;10 tot 20 jaar;1376
+Appingedam;2003;20 tot 30 jaar;1426
+Appingedam;2003;30 tot 40 jaar;1778
+Appingedam;2003;40 tot 50 jaar;1885
+Appingedam;2003;50 tot 60 jaar;1733
+Appingedam;2003;60 tot 70 jaar;1245
+Appingedam;2003;70 tot 80 jaar;1034
+Appingedam;2003;80 tot 90 jaar;531
+Appingedam;2003;90 jaar of ouder;81
+Appingedam;2004;Jonger dan 10 jaar;1356
+Appingedam;2004;10 tot 20 jaar;1367
+Appingedam;2004;20 tot 30 jaar;1374
+Appingedam;2004;30 tot 40 jaar;1736
+Appingedam;2004;40 tot 50 jaar;1860
+Appingedam;2004;50 tot 60 jaar;1793
+Appingedam;2004;60 tot 70 jaar;1278
+Appingedam;2004;70 tot 80 jaar;1015
+Appingedam;2004;80 tot 90 jaar;548
+Appingedam;2004;90 jaar of ouder;88
+Appingedam;2005;Jonger dan 10 jaar;1395
+Appingedam;2005;10 tot 20 jaar;1338
+Appingedam;2005;20 tot 30 jaar;1318
+Appingedam;2005;30 tot 40 jaar;1733
+Appingedam;2005;40 tot 50 jaar;1866
+Appingedam;2005;50 tot 60 jaar;1815
+Appingedam;2005;60 tot 70 jaar;1306
+Appingedam;2005;70 tot 80 jaar;1036
+Appingedam;2005;80 tot 90 jaar;534
+Appingedam;2005;90 jaar of ouder;96
+Appingedam;2006;Jonger dan 10 jaar;1329
+Appingedam;2006;10 tot 20 jaar;1337
+Appingedam;2006;20 tot 30 jaar;1283
+Appingedam;2006;30 tot 40 jaar;1656
+Appingedam;2006;40 tot 50 jaar;1830
+Appingedam;2006;50 tot 60 jaar;1843
+Appingedam;2006;60 tot 70 jaar;1347
+Appingedam;2006;70 tot 80 jaar;1002
+Appingedam;2006;80 tot 90 jaar;557
+Appingedam;2006;90 jaar of ouder;107
+Appingedam;2007;Jonger dan 10 jaar;1325
+Appingedam;2007;10 tot 20 jaar;1311
+Appingedam;2007;20 tot 30 jaar;1219
+Appingedam;2007;30 tot 40 jaar;1565
+Appingedam;2007;40 tot 50 jaar;1820
+Appingedam;2007;50 tot 60 jaar;1819
+Appingedam;2007;60 tot 70 jaar;1414
+Appingedam;2007;70 tot 80 jaar;1010
+Appingedam;2007;80 tot 90 jaar;590
+Appingedam;2007;90 jaar of ouder;114
+Appingedam;2008;Jonger dan 10 jaar;1287
+Appingedam;2008;10 tot 20 jaar;1317
+Appingedam;2008;20 tot 30 jaar;1215
+Appingedam;2008;30 tot 40 jaar;1498
+Appingedam;2008;40 tot 50 jaar;1806
+Appingedam;2008;50 tot 60 jaar;1804
+Appingedam;2008;60 tot 70 jaar;1472
+Appingedam;2008;70 tot 80 jaar;1027
+Appingedam;2008;80 tot 90 jaar;593
+Appingedam;2008;90 jaar of ouder;112
+Appingedam;2009;Jonger dan 10 jaar;1284
+Appingedam;2009;10 tot 20 jaar;1314
+Appingedam;2009;20 tot 30 jaar;1170
+Appingedam;2009;30 tot 40 jaar;1463
+Appingedam;2009;40 tot 50 jaar;1813
+Appingedam;2009;50 tot 60 jaar;1790
+Appingedam;2009;60 tot 70 jaar;1508
+Appingedam;2009;70 tot 80 jaar;1047
+Appingedam;2009;80 tot 90 jaar;607
+Appingedam;2009;90 jaar of ouder;118
+Appingedam;2010;Jonger dan 10 jaar;1277
+Appingedam;2010;10 tot 20 jaar;1315
+Appingedam;2010;20 tot 30 jaar;1152
+Appingedam;2010;30 tot 40 jaar;1381
+Appingedam;2010;40 tot 50 jaar;1806
+Appingedam;2010;50 tot 60 jaar;1798
+Appingedam;2010;60 tot 70 jaar;1527
+Appingedam;2010;70 tot 80 jaar;1070
+Appingedam;2010;80 tot 90 jaar;580
+Appingedam;2010;90 jaar of ouder;126
+Appingedam;2011;Jonger dan 10 jaar;1254
+Appingedam;2011;10 tot 20 jaar;1325
+Appingedam;2011;20 tot 30 jaar;1169
+Appingedam;2011;30 tot 40 jaar;1367
+Appingedam;2011;40 tot 50 jaar;1822
+Appingedam;2011;50 tot 60 jaar;1781
+Appingedam;2011;60 tot 70 jaar;1579
+Appingedam;2011;70 tot 80 jaar;1081
+Appingedam;2011;80 tot 90 jaar;585
+Appingedam;2011;90 jaar of ouder;127
+Appingedam;2012;Jonger dan 10 jaar;1203
+Appingedam;2012;10 tot 20 jaar;1345
+Appingedam;2012;20 tot 30 jaar;1199
+Appingedam;2012;30 tot 40 jaar;1272
+Appingedam;2012;40 tot 50 jaar;1816
+Appingedam;2012;50 tot 60 jaar;1806
+Appingedam;2012;60 tot 70 jaar;1611
+Appingedam;2012;70 tot 80 jaar;1083
+Appingedam;2012;80 tot 90 jaar;591
+Appingedam;2012;90 jaar of ouder;127
+Appingedam;2013;Jonger dan 10 jaar;1198
+Appingedam;2013;10 tot 20 jaar;1325
+Appingedam;2013;20 tot 30 jaar;1211
+Appingedam;2013;30 tot 40 jaar;1222
+Appingedam;2013;40 tot 50 jaar;1785
+Appingedam;2013;50 tot 60 jaar;1845
+Appingedam;2013;60 tot 70 jaar;1631
+Appingedam;2013;70 tot 80 jaar;1122
+Appingedam;2013;80 tot 90 jaar;591
+Appingedam;2013;90 jaar of ouder;123
+Appingedam;2014;Jonger dan 10 jaar;1175
+Appingedam;2014;10 tot 20 jaar;1354
+Appingedam;2014;20 tot 30 jaar;1237
+Appingedam;2014;30 tot 40 jaar;1201
+Appingedam;2014;40 tot 50 jaar;1729
+Appingedam;2014;50 tot 60 jaar;1818
+Appingedam;2014;60 tot 70 jaar;1686
+Appingedam;2014;70 tot 80 jaar;1147
+Appingedam;2014;80 tot 90 jaar;579
+Appingedam;2014;90 jaar of ouder;138
+Arnhem;1988;Jonger dan 10 jaar;13263
+Arnhem;1988;10 tot 20 jaar;15790
+Arnhem;1988;20 tot 30 jaar;25521
+Arnhem;1988;30 tot 40 jaar;20318
+Arnhem;1988;40 tot 50 jaar;15289
+Arnhem;1988;50 tot 60 jaar;12427
+Arnhem;1988;60 tot 70 jaar;12517
+Arnhem;1988;70 tot 80 jaar;8947
+Arnhem;1988;80 tot 90 jaar;3555
+Arnhem;1988;90 jaar of ouder;480
+Arnhem;1989;Jonger dan 10 jaar;13277
+Arnhem;1989;10 tot 20 jaar;15360
+Arnhem;1989;20 tot 30 jaar;26011
+Arnhem;1989;30 tot 40 jaar;20598
+Arnhem;1989;40 tot 50 jaar;15785
+Arnhem;1989;50 tot 60 jaar;12372
+Arnhem;1989;60 tot 70 jaar;12519
+Arnhem;1989;70 tot 80 jaar;8882
+Arnhem;1989;80 tot 90 jaar;3643
+Arnhem;1989;90 jaar of ouder;499
+Arnhem;1990;Jonger dan 10 jaar;13430
+Arnhem;1990;10 tot 20 jaar;15117
+Arnhem;1990;20 tot 30 jaar;26743
+Arnhem;1990;30 tot 40 jaar;20902
+Arnhem;1990;40 tot 50 jaar;16389
+Arnhem;1990;50 tot 60 jaar;12235
+Arnhem;1990;60 tot 70 jaar;12383
+Arnhem;1990;70 tot 80 jaar;8808
+Arnhem;1990;80 tot 90 jaar;3717
+Arnhem;1990;90 jaar of ouder;496
+Arnhem;1991;Jonger dan 10 jaar;13701
+Arnhem;1991;10 tot 20 jaar;14795
+Arnhem;1991;20 tot 30 jaar;27200
+Arnhem;1991;30 tot 40 jaar;21514
+Arnhem;1991;40 tot 50 jaar;16791
+Arnhem;1991;50 tot 60 jaar;12317
+Arnhem;1991;60 tot 70 jaar;12097
+Arnhem;1991;70 tot 80 jaar;8988
+Arnhem;1991;80 tot 90 jaar;3775
+Arnhem;1991;90 jaar of ouder;525
+Arnhem;1992;Jonger dan 10 jaar;13880
+Arnhem;1992;10 tot 20 jaar;14512
+Arnhem;1992;20 tot 30 jaar;27584
+Arnhem;1992;30 tot 40 jaar;21849
+Arnhem;1992;40 tot 50 jaar;17395
+Arnhem;1992;50 tot 60 jaar;12335
+Arnhem;1992;60 tot 70 jaar;11869
+Arnhem;1992;70 tot 80 jaar;9103
+Arnhem;1992;80 tot 90 jaar;3900
+Arnhem;1992;90 jaar of ouder;501
+Arnhem;1993;Jonger dan 10 jaar;13990
+Arnhem;1993;10 tot 20 jaar;14082
+Arnhem;1993;20 tot 30 jaar;27620
+Arnhem;1993;30 tot 40 jaar;22072
+Arnhem;1993;40 tot 50 jaar;17996
+Arnhem;1993;50 tot 60 jaar;12269
+Arnhem;1993;60 tot 70 jaar;11600
+Arnhem;1993;70 tot 80 jaar;9193
+Arnhem;1993;80 tot 90 jaar;3929
+Arnhem;1993;90 jaar of ouder;521
+Arnhem;1994;Jonger dan 10 jaar;14230
+Arnhem;1994;10 tot 20 jaar;13909
+Arnhem;1994;20 tot 30 jaar;27489
+Arnhem;1994;30 tot 40 jaar;22238
+Arnhem;1994;40 tot 50 jaar;18501
+Arnhem;1994;50 tot 60 jaar;12434
+Arnhem;1994;60 tot 70 jaar;11164
+Arnhem;1994;70 tot 80 jaar;9193
+Arnhem;1994;80 tot 90 jaar;3980
+Arnhem;1994;90 jaar of ouder;532
+Arnhem;1995;Jonger dan 10 jaar;14469
+Arnhem;1995;10 tot 20 jaar;13699
+Arnhem;1995;20 tot 30 jaar;27126
+Arnhem;1995;30 tot 40 jaar;22834
+Arnhem;1995;40 tot 50 jaar;18959
+Arnhem;1995;50 tot 60 jaar;12744
+Arnhem;1995;60 tot 70 jaar;10930
+Arnhem;1995;70 tot 80 jaar;9117
+Arnhem;1995;80 tot 90 jaar;4127
+Arnhem;1995;90 jaar of ouder;567
+Arnhem;1996;Jonger dan 10 jaar;14843
+Arnhem;1996;10 tot 20 jaar;13583
+Arnhem;1996;20 tot 30 jaar;26400
+Arnhem;1996;30 tot 40 jaar;23357
+Arnhem;1996;40 tot 50 jaar;19335
+Arnhem;1996;50 tot 60 jaar;12860
+Arnhem;1996;60 tot 70 jaar;10733
+Arnhem;1996;70 tot 80 jaar;9159
+Arnhem;1996;80 tot 90 jaar;4181
+Arnhem;1996;90 jaar of ouder;575
+Arnhem;1997;Jonger dan 10 jaar;14859
+Arnhem;1997;10 tot 20 jaar;13677
+Arnhem;1997;20 tot 30 jaar;25604
+Arnhem;1997;30 tot 40 jaar;23570
+Arnhem;1997;40 tot 50 jaar;19109
+Arnhem;1997;50 tot 60 jaar;13596
+Arnhem;1997;60 tot 70 jaar;10656
+Arnhem;1997;70 tot 80 jaar;9081
+Arnhem;1997;80 tot 90 jaar;4216
+Arnhem;1997;90 jaar of ouder;592
+Arnhem;1998;Jonger dan 10 jaar;15044
+Arnhem;1998;10 tot 20 jaar;13831
+Arnhem;1998;20 tot 30 jaar;25455
+Arnhem;1998;30 tot 40 jaar;24004
+Arnhem;1998;40 tot 50 jaar;19106
+Arnhem;1998;50 tot 60 jaar;14359
+Arnhem;1998;60 tot 70 jaar;10545
+Arnhem;1998;70 tot 80 jaar;9017
+Arnhem;1998;80 tot 90 jaar;4204
+Arnhem;1998;90 jaar of ouder;609
+Arnhem;1999;Jonger dan 10 jaar;15281
+Arnhem;1999;10 tot 20 jaar;13973
+Arnhem;1999;20 tot 30 jaar;25208
+Arnhem;1999;30 tot 40 jaar;24374
+Arnhem;1999;40 tot 50 jaar;19143
+Arnhem;1999;50 tot 60 jaar;14886
+Arnhem;1999;60 tot 70 jaar;10522
+Arnhem;1999;70 tot 80 jaar;9043
+Arnhem;1999;80 tot 90 jaar;4160
+Arnhem;1999;90 jaar of ouder;632
+Arnhem;2000;Jonger dan 10 jaar;15428
+Arnhem;2000;10 tot 20 jaar;14131
+Arnhem;2000;20 tot 30 jaar;24777
+Arnhem;2000;30 tot 40 jaar;24847
+Arnhem;2000;40 tot 50 jaar;19348
+Arnhem;2000;50 tot 60 jaar;15400
+Arnhem;2000;60 tot 70 jaar;10503
+Arnhem;2000;70 tot 80 jaar;8891
+Arnhem;2000;80 tot 90 jaar;4177
+Arnhem;2000;90 jaar of ouder;652
+Arnhem;2001;Jonger dan 10 jaar;15736
+Arnhem;2001;10 tot 20 jaar;14311
+Arnhem;2001;20 tot 30 jaar;24475
+Arnhem;2001;30 tot 40 jaar;25225
+Arnhem;2001;40 tot 50 jaar;19546
+Arnhem;2001;50 tot 60 jaar;15833
