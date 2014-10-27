@@ -57,6 +57,11 @@ def buildTree(data):
         for j in range(len(data[i])):
             year = data[i][j][1]
             bracket = data[i][j][2]
+            
+            # weird edge case met Rozendaal...
+            if data[i][j][3] == '-':
+                data[i][j][3] = 0
+            
             tree[gemeente][year][bracket] = float(data[i][j][3])
     
     return tree
@@ -65,18 +70,17 @@ def buildTree(data):
 # = Normalize by Age Group =
 # ==========================
 def normalizeByAgeGroup(tree):
-
+     pass           
+def normalizeByGemeente(tree):
+    pass
+def normalizeByCountry(tree):
+    
     maxValue = 0.0
     minValue = 0.0
 
     
     for gemeente in sorted(tree):
-        
-        print gemeente
-        
-        
         for year in sorted(tree[gemeente]):
-            
             for ageGroup in sorted(tree[gemeente][year]):
                                 
                 value = tree[gemeente][year][ageGroup] 
@@ -85,47 +89,60 @@ def normalizeByAgeGroup(tree):
                     maxValue = value
                 if value < minValue:
                     minValue = value
+    
+    
+    result = []
             
     for gemeente in sorted(tree):
+        
+        l = {}
+        
+        l['name'] = gemeente;
+        
+        for ageGroup in tree['Amsterdam']['1988'].keys():
+            l[ageGroup] = [];
+            
         for year in sorted(tree[gemeente]):
             for ageGroup in sorted(tree[gemeente][year]):
                 
                 value = tree[gemeente][year][ageGroup]
                 normValue = (value - minValue) / (maxValue - minValue)
                 
-                print normValue 
-                
+                l[ageGroup].append((year,normValue))
         
-        #
-        #
-        #     if tree[gemeente][year]['Jonger dan 10 jaar'] != "":
-        #         values.append((year,float(tree[gemeente][year]['Jonger dan 10 jaar'])))
-        #
-        # maxValue = 0;
-        # minValue = 0;
-        #
-        # for value in values:
-        #      if value[1] > maxValue:
-        #          maxValue = value[1]
-        #
-        #      if value[1] < minValue:
-        #          minValue = value[1]
-        #
-        # normalizedValues = []
-        #
-        # for value in values:
-        #     normValue = (value[1] - minValue) / (maxValue - minValue)
-        #     normalizedValues.append((value[0],normValue))
-        #
-        # print normalizedValues
+        result.append(l)
+        
+    return result
+
+def saveData(folderName,data):
+    cwd = os.getcwd();
+    targetDir = cwd+'/normalized/'+folderName;
     
-def normalizeByGemeente(tree):
-    pass
-def normalizeByCountry(tree):
-    pass
+    os.chdir(targetDir);
+    
+    for gemeente in data:
+        os.mkdir(gemeente['name'])
+        os.chdir(targetDir+'/'+gemeente['name']);
+        
+        for ageGroup in gemeente:
+            if ageGroup != 'name':
+                
+                os.mkdir(ageGroup)
+                os.chdir(targetDir+'/'+gemeente['name']+'/'+ageGroup)
 
-tree = buildTree(parseCSVFile(testFile))
+                fo = open("values.txt","wb")
+                
+                for year in gemeente[ageGroup]:
+                    line = year[0]+', '+str(year[1])+';\n'
+                    fo.write(line)
+                
+                fo.close()
+                
+                os.chdir(targetDir+'/'+gemeente['name']);
+        
+        os.chdir(targetDir);
+        
+tree = buildTree(parseCSVFile(rawFile))
+result = normalizeByCountry(tree)
 
-#print tree
-
-normalizeByAgeGroup(tree)
+saveData('byCountry',result)
