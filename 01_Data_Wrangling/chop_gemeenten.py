@@ -5,9 +5,8 @@ import sys
 reload(sys) 
 sys.setdefaultencoding("utf-8")
 
-rawFile = 'raw/Bevolking__leeftijd,_191014225304.csv'
-testFile = 'raw/test.csv'
-
+rawFile = '01_Data_Wrangling/raw/Bevolking__leeftijd,_191014225304.csv'
+testFile = '01_Data_Wrangling/raw/test.csv'
 
 # =======================================================
 # = Parse our CSVFile into more managable inside python =
@@ -66,13 +65,21 @@ def buildTree(data):
     
     return tree
     
-# ==========================
-# = Normalize by Age Group =
-# ==========================
+# ===============================
+# = Normalize data by Age Group =
+# ===============================
 def normalizeByAgeGroup(tree):
      pass           
+
+# ==============================
+# = Normalize data by Gemeente =
+# ==============================
 def normalizeByGemeente(tree):
     pass
+
+# =============================
+# = Normalize data by Country =
+# =============================
 def normalizeByCountry(tree):
     
     maxValue = 0.0
@@ -113,6 +120,50 @@ def normalizeByCountry(tree):
         result.append(l)
         
     return result
+    
+def normalizeByGemeente(tree):
+    pass
+def normalizeByCountry(tree):
+    
+
+    maxValue = 0.0
+    minValue = 0.0
+
+    
+    for gemeente in sorted(tree):
+    
+        
+               
+        for year in sorted(tree[gemeente]):
+
+
+                        
+            for ageGroup in sorted(tree[gemeente][year]):
+
+
+
+                                
+                value = tree[gemeente][year][ageGroup] 
+                    
+                if value > maxValue:
+                    maxValue = value
+                if value < minValue:
+                    minValue = value
+            
+    for gemeente in sorted(tree):
+        
+        print gemeente
+        
+        for year in sorted(tree[gemeente]):
+            for ageGroup in sorted(tree[gemeente][year]):
+                
+                value = tree[gemeente][year][ageGroup]
+                normValue = (value - minValue) / (maxValue - minValue)
+                
+                print  (ageGroup,year,normValue)
+    
+    
+    pass
 
 def saveData(folderName,data):
     cwd = os.getcwd();
@@ -142,7 +193,11 @@ def saveData(folderName,data):
         
         os.chdir(targetDir);
         
-tree = buildTree(parseCSVFile(rawFile))
+tree = buildTree(parseCSVFile(testFile))
+
+print tree
 result = normalizeByCountry(tree)
+
+#print result
 
 saveData('byCountry',result)
