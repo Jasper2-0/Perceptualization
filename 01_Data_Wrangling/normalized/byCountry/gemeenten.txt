@@ -1,402 +1,402 @@
-'s-Gravenhage (gemeente)
-'s-Hertogenbosch
-Aa en Hunze
-Aalburg
-Aalsmeer
-Aalten
-Achtkarspelen
-Alblasserdam
-Albrandswaard
-Alkmaar
-Almelo
-Almere
-Alphen aan den Rijn
-Alphen-Chaam
-Ameland
-Amersfoort
-Amstelveen
-Amsterdam
-Apeldoorn
-Appingedam
-Arnhem
-Assen
-Asten
-Baarle-Nassau
-Baarn
-Barendrecht
-Barneveld
-Bedum
-Beek (L.)
-Beemster
-Beesel
-Bellingwedde
-Bergambacht
-Bergeijk
-Bergen (L.)
-Bergen (NH.)
-Bergen op Zoom
-Berkelland
-Bernheze
-Bernisse
-Best
-Beuningen
-Beverwijk
-Binnenmaas
-Bladel
-Blaricum
-Bloemendaal
-Bodegraven-Reeuwijk
-Boekel
-Borger-Odoorn
-Borne
-Borsele
-Boxmeer
-Boxtel
-Breda
-Brielle
-Bronckhorst
-Brummen
-Brunssum
-Bunnik
-Bunschoten
-Buren
-Bussum
-Capelle aan den IJssel
-Castricum
-Coevorden
-Cranendonck
-Cromstrijen
-Cuijk
-Culemborg
-Dalfsen
-Dantumadiel
-De Bilt
-De Friese Meren
-De Marne
-De Ronde Venen
-De Wolden
-Delft
-Delfzijl
-Den Helder
-Deurne
-Deventer
-Diemen
-Dinkelland
-Doesburg
-Doetinchem
-Dongen
-Dongeradeel
-Dordrecht
-Drechterland
-Drimmelen
-Dronten
-Druten
-Duiven
-Echt-Susteren
-Edam-Volendam
-Ede
-Eemnes
-Eemsmond
-Eersel
-Eijsden-Margraten
-Eindhoven
-Elburg
-Emmen
-Enkhuizen
-Enschede
-Epe
-Ermelo
-Etten-Leur
-Ferwerderadiel
-Franekeradeel
-Geertruidenberg
-Geldermalsen
-Geldrop-Mierlo
-Gemert-Bakel
-Gennep
-Giessenlanden
-Gilze en Rijen
-Goeree-Overflakkee
-Goes
-Goirle
-Gorinchem
-Gouda
-Graft-De Rijp
-Grave
-Groesbeek
-Groningen (gemeente)
-Grootegast
-Gulpen-Wittem
-Haaksbergen
-Haaren
-Haarlem
-Haarlemmerliede en Spaarnwoude
-Haarlemmermeer
-Halderberge
-Hardenberg
-Harderwijk
-Hardinxveld-Giessendam
-Haren
-Harlingen
-Hattem
-Heemskerk
-Heemstede
-Heerde
-Heerenveen
-Heerhugowaard
-Heerlen
-Heeze-Leende
-Heiloo
-Hellendoorn
-Hellevoetsluis
-Helmond
-Hendrik-Ido-Ambacht
-Hengelo (O.)
-Heumen
-Heusden
-Hillegom
-Hilvarenbeek
-Hilversum
-Hof van Twente
-Hollands Kroon
-Hoogeveen
-Hoogezand-Sappemeer
-Hoorn
-Horst aan de Maas
-Houten
-Huizen
-Hulst
-IJsselstein
-Kaag en Braassem
-Kampen
-Kapelle
-Katwijk
-Kerkrade
-Koggenland
-Kollumerland en Nieuwkruisland
-Korendijk
-Krimpen aan den IJssel
-Laarbeek
-Landerd
-Landgraaf
-Landsmeer
-Langedijk
-Lansingerland
-Laren (NH.)
-Leek
-Leerdam
-Leeuwarden
-Leeuwarderadeel
-Leiden
-Leiderdorp
-Leidschendam-Voorburg
-Lelystad
-Leudal
-Leusden
-Lingewaal
-Lingewaard
-Lisse
-Littenseradiel
-Lochem
-Loon op Zand
-Lopik
-Loppersum
-Losser
-Maasdonk
-Maasdriel
-Maasgouw
-Maassluis
-Maastricht
-Marum
-Medemblik
-Meerssen
-Menameradiel
-Menterwolde
-Meppel
-Middelburg (Z.)
-Midden-Delfland
-Midden-Drenthe
-Mill en Sint Hubert
-Millingen aan de Rijn
-Moerdijk
-Molenwaard
-Montferland
-Montfoort
-Mook en Middelaar
-Muiden
-Naarden
-Neder-Betuwe
-Nederlek
-Nederweert
-Neerijnen
-Nieuwegein
-Nieuwkoop
-Nijkerk
-Nijmegen
-Noord-Beveland
-Noordenveld
-Noordoostpolder
-Noordwijk
-Noordwijkerhout
-Nuenen, Gerwen en Nederwetten
-Nunspeet
-Nuth
-Oegstgeest
-Oirschot
-Oisterwijk
-Oldambt
-Oldebroek
-Oldenzaal
-Olst-Wijhe
-Ommen
-Onderbanken
-Oost Gelre
-Oosterhout
-Ooststellingwerf
-Oostzaan
-Opmeer
-Opsterland
-Oss
-Oud-Beijerland
-Oude IJsselstreek
-Ouder-Amstel
-Ouderkerk
-Oudewater
-Overbetuwe
-Papendrecht
-Peel en Maas
-Pekela
-Pijnacker-Nootdorp
-Purmerend
-Putten
-Raalte
-Reimerswaal
-Renkum
-Renswoude
-Reusel-De Mierden
-Rheden
-Rhenen
-Ridderkerk
-Rijnwaarden
-Rijssen-Holten
-Rijswijk (ZH.)
-Roerdalen
-Roermond
-Roosendaal
-Rotterdam
-Rozendaal
-Rucphen
-S%FAdwest-Frysl%E2n
-Schagen
-Schermer
-Scherpenzeel
-Schiedam
-Schiermonnikoog
-Schijndel
-Schinnen
-Schoonhoven
-Schouwen-Duiveland
-Simpelveld
-Sint Anthonis
-Sint-Michielsgestel
-Sint-Oedenrode
-Sittard-Geleen
-Sliedrecht
-Slochteren
-Sluis
-Smallingerland
-Soest
-Someren
-Son en Breugel
-Spijkenisse
-Stadskanaal
-Staphorst
-Stede Broec
-Steenbergen
-Steenwijkerland
-Stein (L.)
-Stichtse Vecht
-Strijen
-Ten Boer
-Terneuzen
-Terschelling
-Texel
-Teylingen
-Tholen
-Tiel
-Tilburg
-Tubbergen
-Twenterand
-Tynaarlo
-Tytsjerksteradiel
-Ubbergen
-Uden
-Uitgeest
-Uithoorn
-Urk
-Utrecht (gemeente)
-Utrechtse Heuvelrug
-Vaals
-Valkenburg aan de Geul
-Valkenswaard
-Veendam
-Veenendaal
-Veere
-Veghel
-Veldhoven
-Velsen
-Venlo
-Venray
-Vianen
-Vlaardingen
-Vlagtwedde
-Vlieland
-Vlissingen
-Vlist
-Voerendaal
-Voorschoten
-Voorst
-Vught
-Waalre
-Waalwijk
-Waddinxveen
-Wageningen
-Wassenaar
-Waterland
-Weert
-Weesp
-Werkendam
-West Maas en Waal
-Westerveld
-Westervoort
-Westland
-Weststellingwerf
-Westvoorne
-Wierden
-Wijchen
-Wijdemeren
-Wijk bij Duurstede
-Winsum
-Winterswijk
-Woensdrecht
-Woerden
-Wormerland
-Woudenberg
-Woudrichem
-Zaanstad
-Zaltbommel
-Zandvoort
-Zederik
-Zeevang
-Zeewolde
-Zeist
-Zevenaar
-Zoetermeer
-Zoeterwoude
-Zuidhorn
-Zuidplas
-Zundert
-Zutphen
-Zwartewaterland
-Zwijndrecht
-het Bildt
+1, 's-Gravenhage (gemeente);
+2, 's-Hertogenbosch;
+3, Aa en Hunze;
+4, Aalburg;
+5, Aalsmeer;
+6, Aalten;
+7, Achtkarspelen;
+8, Alblasserdam;
+9, Albrandswaard;
+10, Alkmaar;
+11, Almelo;
+12, Almere;
+13, Alphen aan den Rijn;
+14, Alphen-Chaam;
+15, Ameland;
+16, Amersfoort;
+17, Amstelveen;
+18, Amsterdam;
+19, Apeldoorn;
+20, Appingedam;
+21, Arnhem;
+22, Assen;
+23, Asten;
+24, Baarle-Nassau;
+25, Baarn;
+26, Barendrecht;
+27, Barneveld;
+28, Bedum;
+29, Beek (L.);
+30, Beemster;
+31, Beesel;
+32, Bellingwedde;
+33, Bergambacht;
+34, Bergeijk;
+35, Bergen (L.);
+36, Bergen (NH.);
+37, Bergen op Zoom;
+38, Berkelland;
+39, Bernheze;
+40, Bernisse;
+41, Best;
+42, Beuningen;
+43, Beverwijk;
+44, Binnenmaas;
+45, Bladel;
+46, Blaricum;
+47, Bloemendaal;
+48, Bodegraven-Reeuwijk;
+49, Boekel;
+50, Borger-Odoorn;
+51, Borne;
+52, Borsele;
+53, Boxmeer;
+54, Boxtel;
+55, Breda;
+56, Brielle;
+57, Bronckhorst;
+58, Brummen;
+59, Brunssum;
+60, Bunnik;
+61, Bunschoten;
+62, Buren;
+63, Bussum;
+64, Capelle aan den IJssel;
+65, Castricum;
+66, Coevorden;
+67, Cranendonck;
+68, Cromstrijen;
+69, Cuijk;
+70, Culemborg;
+71, Dalfsen;
+72, Dantumadiel;
+73, De Bilt;
+74, De Friese Meren;
+75, De Marne;
+76, De Ronde Venen;
+77, De Wolden;
+78, Delft;
+79, Delfzijl;
+80, Den Helder;
+81, Deurne;
+82, Deventer;
+83, Diemen;
+84, Dinkelland;
+85, Doesburg;
+86, Doetinchem;
+87, Dongen;
+88, Dongeradeel;
+89, Dordrecht;
+90, Drechterland;
+91, Drimmelen;
+92, Dronten;
+93, Druten;
+94, Duiven;
+95, Echt-Susteren;
+96, Edam-Volendam;
+97, Ede;
+98, Eemnes;
+99, Eemsmond;
+100, Eersel;
+101, Eijsden-Margraten;
+102, Eindhoven;
+103, Elburg;
+104, Emmen;
+105, Enkhuizen;
+106, Enschede;
+107, Epe;
+108, Ermelo;
+109, Etten-Leur;
+110, Ferwerderadiel;
+111, Franekeradeel;
+112, Geertruidenberg;
+113, Geldermalsen;
+114, Geldrop-Mierlo;
+115, Gemert-Bakel;
+116, Gennep;
+117, Giessenlanden;
+118, Gilze en Rijen;
+119, Goeree-Overflakkee;
+120, Goes;
+121, Goirle;
+122, Gorinchem;
+123, Gouda;
+124, Graft-De Rijp;
+125, Grave;
+126, Groesbeek;
+127, Groningen (gemeente);
+128, Grootegast;
+129, Gulpen-Wittem;
+130, Haaksbergen;
+131, Haaren;
+132, Haarlem;
+133, Haarlemmerliede en Spaarnwoude;
+134, Haarlemmermeer;
+135, Halderberge;
+136, Hardenberg;
+137, Harderwijk;
+138, Hardinxveld-Giessendam;
+139, Haren;
+140, Harlingen;
+141, Hattem;
+142, Heemskerk;
+143, Heemstede;
+144, Heerde;
+145, Heerenveen;
+146, Heerhugowaard;
+147, Heerlen;
+148, Heeze-Leende;
+149, Heiloo;
+150, Hellendoorn;
+151, Hellevoetsluis;
+152, Helmond;
+153, Hendrik-Ido-Ambacht;
+154, Hengelo (O.);
+155, Heumen;
+156, Heusden;
+157, Hillegom;
+158, Hilvarenbeek;
+159, Hilversum;
+160, Hof van Twente;
+161, Hollands Kroon;
+162, Hoogeveen;
+163, Hoogezand-Sappemeer;
+164, Hoorn;
+165, Horst aan de Maas;
+166, Houten;
+167, Huizen;
+168, Hulst;
+169, IJsselstein;
+170, Kaag en Braassem;
+171, Kampen;
+172, Kapelle;
+173, Katwijk;
+174, Kerkrade;
+175, Koggenland;
+176, Kollumerland en Nieuwkruisland;
+177, Korendijk;
+178, Krimpen aan den IJssel;
+179, Laarbeek;
+180, Landerd;
+181, Landgraaf;
+182, Landsmeer;
+183, Langedijk;
+184, Lansingerland;
+185, Laren (NH.);
+186, Leek;
+187, Leerdam;
+188, Leeuwarden;
+189, Leeuwarderadeel;
+190, Leiden;
+191, Leiderdorp;
+192, Leidschendam-Voorburg;
+193, Lelystad;
+194, Leudal;
+195, Leusden;
+196, Lingewaal;
+197, Lingewaard;
+198, Lisse;
+199, Littenseradiel;
+200, Lochem;
+201, Loon op Zand;
+202, Lopik;
+203, Loppersum;
+204, Losser;
+205, Maasdonk;
+206, Maasdriel;
+207, Maasgouw;
+208, Maassluis;
+209, Maastricht;
+210, Marum;
+211, Medemblik;
+212, Meerssen;
+213, Menameradiel;
+214, Menterwolde;
+215, Meppel;
+216, Middelburg (Z.);
+217, Midden-Delfland;
+218, Midden-Drenthe;
+219, Mill en Sint Hubert;
+220, Millingen aan de Rijn;
+221, Moerdijk;
+222, Molenwaard;
+223, Montferland;
+224, Montfoort;
+225, Mook en Middelaar;
+226, Muiden;
+227, Naarden;
+228, Neder-Betuwe;
+229, Nederlek;
+230, Nederweert;
+231, Neerijnen;
+232, Nieuwegein;
+233, Nieuwkoop;
+234, Nijkerk;
+235, Nijmegen;
+236, Noord-Beveland;
+237, Noordenveld;
+238, Noordoostpolder;
+239, Noordwijk;
+240, Noordwijkerhout;
+241, "Nuenen, Gerwen en Nederwetten";
+242, Nunspeet;
+243, Nuth;
+244, Oegstgeest;
+245, Oirschot;
+246, Oisterwijk;
+247, Oldambt;
+248, Oldebroek;
+249, Oldenzaal;
+250, Olst-Wijhe;
+251, Ommen;
+252, Onderbanken;
+253, Oost Gelre;
+254, Oosterhout;
+255, Ooststellingwerf;
+256, Oostzaan;
+257, Opmeer;
+258, Opsterland;
+259, Oss;
+260, Oud-Beijerland;
+261, Oude IJsselstreek;
+262, Ouder-Amstel;
+263, Ouderkerk;
+264, Oudewater;
+265, Overbetuwe;
+266, Papendrecht;
+267, Peel en Maas;
+268, Pekela;
+269, Pijnacker-Nootdorp;
+270, Purmerend;
+271, Putten;
+272, Raalte;
+273, Reimerswaal;
+274, Renkum;
+275, Renswoude;
+276, Reusel-De Mierden;
+277, Rheden;
+278, Rhenen;
+279, Ridderkerk;
+280, Rijnwaarden;
+281, Rijssen-Holten;
+282, Rijswijk (ZH.);
+283, Roerdalen;
+284, Roermond;
+285, Roosendaal;
+286, Rotterdam;
+287, Rozendaal;
+288, Rucphen;
+289, S%FAdwest-Frysl%E2n;
+290, Schagen;
+291, Schermer;
+292, Scherpenzeel;
+293, Schiedam;
+294, Schiermonnikoog;
+295, Schijndel;
+296, Schinnen;
+297, Schoonhoven;
+298, Schouwen-Duiveland;
+299, Simpelveld;
+300, Sint Anthonis;
+301, Sint-Michielsgestel;
+302, Sint-Oedenrode;
+303, Sittard-Geleen;
+304, Sliedrecht;
+305, Slochteren;
+306, Sluis;
+307, Smallingerland;
+308, Soest;
+309, Someren;
+310, Son en Breugel;
+311, Spijkenisse;
+312, Stadskanaal;
+313, Staphorst;
+314, Stede Broec;
+315, Steenbergen;
+316, Steenwijkerland;
+317, Stein (L.);
+318, Stichtse Vecht;
+319, Strijen;
+320, Ten Boer;
+321, Terneuzen;
+322, Terschelling;
+323, Texel;
+324, Teylingen;
+325, Tholen;
+326, Tiel;
+327, Tilburg;
+328, Tubbergen;
+329, Twenterand;
+330, Tynaarlo;
+331, Tytsjerksteradiel;
+332, Ubbergen;
+333, Uden;
+334, Uitgeest;
+335, Uithoorn;
+336, Urk;
+337, Utrecht (gemeente);
+338, Utrechtse Heuvelrug;
+339, Vaals;
+340, Valkenburg aan de Geul;
+341, Valkenswaard;
+342, Veendam;
+343, Veenendaal;
+344, Veere;
+345, Veghel;
+346, Veldhoven;
+347, Velsen;
+348, Venlo;
+349, Venray;
+350, Vianen;
+351, Vlaardingen;
+352, Vlagtwedde;
+353, Vlieland;
+354, Vlissingen;
+355, Vlist;
+356, Voerendaal;
+357, Voorschoten;
+358, Voorst;
+359, Vught;
+360, Waalre;
+361, Waalwijk;
+362, Waddinxveen;
+363, Wageningen;
+364, Wassenaar;
+365, Waterland;
+366, Weert;
+367, Weesp;
+368, Werkendam;
+369, West Maas en Waal;
+370, Westerveld;
+371, Westervoort;
+372, Westland;
+373, Weststellingwerf;
+374, Westvoorne;
+375, Wierden;
+376, Wijchen;
+377, Wijdemeren;
+378, Wijk bij Duurstede;
+379, Winsum;
+380, Winterswijk;
+381, Woensdrecht;
+382, Woerden;
+383, Wormerland;
+384, Woudenberg;
+385, Woudrichem;
+386, Zaanstad;
+387, Zaltbommel;
+388, Zandvoort;
+389, Zederik;
+390, Zeevang;
+391, Zeewolde;
+392, Zeist;
+393, Zevenaar;
+394, Zoetermeer;
+395, Zoeterwoude;
+396, Zuidhorn;
+397, Zuidplas;
+398, Zundert;
+399, Zutphen;
+400, Zwartewaterland;
+401, Zwijndrecht;
+402, het Bildt;
